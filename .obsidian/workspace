@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "2f7046e9bb4789f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad780d0c67bf0152",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-04-17.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e8b1f1c8faca05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "83bf2ac7fcc6fead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac9fc168a07ea1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "827f7759206ada35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Марди химал\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281
+  },
+  "right": {
+    "id": "2d8e28ec9db0e661",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bf66186998b05b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024801d1e80f6fbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-04-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95adbda7b98fa872",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e42cae1fbc80f459",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-04-17.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad780d0c67bf0152",
+  "lastOpenFiles": [
+    "2022-04-17.md",
+    "2022-03-26.md",
+    "2022-03-24.md",
+    "2022-02-22.md",
+    "2020-09-30.md",
+    "30 day (Benjamin Hardy).md",
+    "2021-03-26.md",
+    "HEG.md",
+    "antibiotics.md",
+    "2021-04-10.md"
+  ]
+}
