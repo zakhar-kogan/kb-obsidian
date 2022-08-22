@@ -1,12 +1,15 @@
-[{:block/name "0201_страх",
+[{:block/name "%d0%a1%d1%82%d1%80%d0%b0%d1%85",
+  :block/created-at 1660894648488,
+  :block/updated-at 1660894648488}
+ {:block/name "0201_страх",
   :block/created-at 1660325598798,
   :block/updated-at 1660325598798}
  {:block/name "0501_зона_комфорта",
   :block/created-at 1660325599777,
   :block/updated-at 1660325599777}
  {:block/name "1",
-  :block/created-at 1660325576899,
-  :block/updated-at 1660325576899}
+  :block/created-at 1660901735347,
+  :block/updated-at 1660901735347}
  {:block/name "11_13_19",
   :block/created-at 1660325617858,
   :block/updated-at 1660325617858}
@@ -14,8 +17,12 @@
   :block/created-at 1660325618510,
   :block/updated-at 1660325618510}
  {:block/name "2",
-  :block/created-at 1660325576912,
-  :block/updated-at 1660325576912}
+  :block/created-at 1660901906659,
+  :block/updated-at 1660901906659}
+ {:block/name
+  "2,3-dioxygenase (ido) catalyzes the first step in tryptophan degradation. (see figure [[1). elevated tnf-alpha increases [[production",
+  :block/created-at 1660902608573,
+  :block/updated-at 1660902608573}
  {:block/name "2021",
   :block/created-at 1660325600850,
   :block/updated-at 1660325600850}
@@ -79,21 +86,46 @@
  {:block/name "5_20_20",
   :block/created-at 1660325666786,
   :block/updated-at 1660325666786}
- {:block/name "6",
-  :block/created-at 1660325576916,
-  :block/updated-at 1660325576916}
+ {:block/name
+  "6 (il-[[6) – are chronically activated, causing direct damage both within and outside the central nervous [[system",
+  :block/created-at 1660902591575,
+  :block/updated-at 1660902591575}
+ {:block/name
+  "6 (royblat et al. 1998; shapira et al. 2004; bartoc et al. 2006; yang et al. 2006; beilin et al. 2007). ketamine easily crosses the [[blood",
+  :block/created-at 1660902588763,
+  :block/updated-at 1660902588763}
+ {:block/name "6 and il-1beta are more the cause of [[depression",
+  :block/created-at 1660902575499,
+  :block/updated-at 1660902575499}
+ {:block/name
+  "6 in csf, and in the postmortem striatum and substantia nigra.50-56 likewise, elevated levels of 3-oh-kyn are found in the csf, and in the postmortem [[brain",
+  :block/created-at 1660902585095,
+  :block/updated-at 1660902585095}
+ {:block/name "6 weeks, those consuming both epa and [[fluoxetine",
+  :block/created-at 1660902568488,
+  :block/updated-at 1660902568488}
+ {:block/name
+  "6, and il-1_β,_ are all elevated - however, antidepressants only seem to lower il-[[6 and il-1beta, and not tnf-alpha - yet they still [[work",
+  :block/created-at 1660902574214,
+  :block/updated-at 1660902574214}
  {:block/name "80,000 hours",
   :block/created-at 1660325576898,
   :block/updated-at 1660325576898}
- {:block/name "9",
-  :block/created-at 1660325604752,
-  :block/updated-at 1660325604752}
+ {:block/name "9) [[tianeptine",
+  :block/created-at 1660902630152,
+  :block/updated-at 1660902630152}
+ {:block/name "[[9]]",
+  :block/created-at 1660894648963,
+  :block/updated-at 1660894648963}
  {:block/name "[[9]]/[[1]]",
   :block/created-at 1660325604752,
   :block/updated-at 1660399840195}
  {:block/name "[[9]]/[[1]]/20_самооценка",
   :block/created-at 1660325604751,
   :block/updated-at 1660325604751}
+ {:block/name "[rosmarinic acid",
+  :block/created-at 1661113361981,
+  :block/updated-at 1661113361981}
  {:block/name "a",
   :block/created-at 1660390754052,
   :block/updated-at 1660390754052}
@@ -157,15 +189,6 @@
  {:block/name "aug 12th, 2022",
   :block/created-at 1660325671236,
   :block/updated-at 1660325858133}
- {:block/name "aug 13th, 2022",
-  :block/created-at 1660338010886,
-  :block/updated-at 1660390894405}
- {:block/name "aug 14th, 2022",
-  :block/created-at 1660425032179,
-  :block/updated-at 1660425032179}
- {:block/name "aug 15th, 2022",
-  :block/created-at 1660510801780,
-  :block/updated-at 1660510801780}
  {:block/name "aug 16th, 2022",
   :block/created-at 1660597204277,
   :block/updated-at 1660640474938}
@@ -174,10 +197,16 @@
   :block/updated-at 1660823313437}
  {:block/name "aug 18th, 2022",
   :block/created-at 1660770000937,
-  :block/updated-at 1660837669078}
+  :block/updated-at 1660901735348}
  {:block/name "aug 19th, 2022",
   :block/created-at 1660856400890,
-  :block/updated-at 1660856400890}
+  :block/updated-at 1660989270845}
+ {:block/name "aug 20th, 2022",
+  :block/created-at 1660951001470,
+  :block/updated-at 1660951001470}
+ {:block/name "aug 21st, 2022",
+  :block/created-at 1661029220266,
+  :block/updated-at 1661029220266}
  {:block/name "authentic",
   :block/created-at 1660325605830,
   :block/updated-at 1660325605830}
@@ -286,6 +315,9 @@
  {:block/name "computer scienc",
   :block/created-at 1660325576907,
   :block/updated-at 1660325576907}
+ {:block/name "computer science",
+  :block/created-at 1660909130924,
+  :block/updated-at 1660909130924}
  {:block/name "consensus",
   :block/created-at 1660772288905,
   :block/updated-at 1660772288905}
@@ -342,7 +374,7 @@
   :block/updated-at 1660325579608}
  {:block/name "dec 9th, 2021",
   :block/created-at 1660325581064,
-  :block/updated-at 1660325581064}
+  :block/updated-at 1660902640875}
  {:block/name "decentralized",
   :block/created-at 1660498042166,
   :block/updated-at 1660498042166}
@@ -358,6 +390,9 @@
  {:block/name "depression",
   :block/created-at 1660325585467,
   :block/updated-at 1660325585467}
+ {:block/name "design",
+  :block/created-at 1660899919081,
+  :block/updated-at 1660899919081}
  {:block/name "different",
   :block/created-at 1660772283210,
   :block/updated-at 1660772283210}
@@ -571,9 +606,6 @@
  {:block/name "jun 20th, 2005",
   :block/created-at 1660325667781,
   :block/updated-at 1660325667781}
- {:block/name "jun 20th, 2025",
-  :block/created-at 1660325646799,
-  :block/updated-at 1660325646799}
  {:block/name "k. pneumoniae",
   :block/created-at 1660325596801,
   :block/updated-at 1660325596801}
@@ -583,6 +615,9 @@
  {:block/name "keras",
   :block/created-at 1660325590841,
   :block/updated-at 1660325590841}
+ {:block/name "ketamine",
+  :block/created-at 1661113361981,
+  :block/updated-at 1661113361981}
  {:block/name "klebsiella",
   :block/created-at 1660325596802,
   :block/updated-at 1660325596802}
@@ -595,6 +630,9 @@
  {:block/name "kpi",
   :block/created-at 1660742383004,
   :block/updated-at 1660742383004}
+ {:block/name "kynurenine",
+  :block/created-at 1661113361981,
+  :block/updated-at 1661113361981}
  {:block/name "labor",
   :block/created-at 1660325605819,
   :block/updated-at 1660325605819}
@@ -673,6 +711,9 @@
  {:block/name "may 20th, 2002",
   :block/created-at 1660325653674,
   :block/updated-at 1660325653674}
+ {:block/name "mechanism design",
+  :block/created-at 1660909117520,
+  :block/updated-at 1660909117520}
  {:block/name "met-enkephalin",
   :block/created-at 1660325584887,
   :block/updated-at 1660325584887}
@@ -689,8 +730,8 @@
   :block/created-at 1660325588909,
   :block/updated-at 1660325588909}
  {:block/name "mirtazapine",
-  :block/created-at 1660325581063,
-  :block/updated-at 1660325581063}
+  :block/created-at 1661113361980,
+  :block/updated-at 1661113361980}
  {:block/name "mnemonic",
   :block/created-at 1660325605827,
   :block/updated-at 1660325605827}
@@ -724,6 +765,9 @@
  {:block/name "nir",
   :block/created-at 1660325589761,
   :block/updated-at 1660325589761}
+ {:block/name "nmda",
+  :block/created-at 1661113361981,
+  :block/updated-at 1661113361981}
  {:block/name "node",
   :block/created-at 1660325608713,
   :block/updated-at 1660325608713}
@@ -819,10 +863,10 @@
   :block/updated-at 1660325624794}
  {:block/name "oct 4th, 2021",
   :block/created-at 1660325576917,
-  :block/updated-at 1660325576917}
+  :block/updated-at 1660902665395}
  {:block/name "omega-3",
-  :block/created-at 1660325581063,
-  :block/updated-at 1660325581063}
+  :block/created-at 1661113361982,
+  :block/updated-at 1661113361982}
  {:block/name "optimal f",
   :block/created-at 1660325609846,
   :block/updated-at 1660325609846}
@@ -1000,6 +1044,9 @@
  {:block/name "society",
   :block/created-at 1660325605834,
   :block/updated-at 1660325605834}
+ {:block/name "ssri'",
+  :block/created-at 1661113361980,
+  :block/updated-at 1661113361980}
  {:block/name "staphylococcus",
   :block/created-at 1660325596796,
   :block/updated-at 1660325596796}
@@ -1063,6 +1110,9 @@
  {:block/name "triglyceride",
   :block/created-at 1660325571996,
   :block/updated-at 1660325571996}
+ {:block/name "tryptophan",
+  :block/created-at 1661113361981,
+  :block/updated-at 1661113361981}
  {:block/name "uniswap",
   :block/created-at 1660325576896,
   :block/updated-at 1660325576896}
@@ -1492,9 +1542,6 @@
  {:block/name "страх смерти",
   :block/created-at 1660325598800,
   :block/updated-at 1660325598800}
- {:block/name "страхи",
-  :block/created-at 1660325598787,
-  :block/updated-at 1660325598787}
  {:block/name "струна",
   :block/created-at 1660325615890,
   :block/updated-at 1660325615890}
