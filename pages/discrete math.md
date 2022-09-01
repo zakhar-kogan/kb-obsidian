@@ -11,4 +11,5 @@
 	- ### Empty set
 		- A collection of NO objects
 		- Notation: $\{\}$ or $\emptyset$
-		- Is a $\emptyset$ a subset of $\{1,2,3\}$? Yes, it's the so-called
+		- Is a $\emptyset$ a subset of $\{1,2,3\}$? Yes, it's the so-called *vacuous truth*
+		-
