@@ -5,4 +5,5 @@
 	- A is a subset of B if all the elements of A are in B: $A\subseteq B$
 	- ### Set-roster notation
 		- If there are a lot of elements in a set AND there is some clear pattern to them, we can use a set-roster notation: $\{0,2,4,6...\}, \{...-6,-4,-2,0,2,4,6...\}$
-		-
+	- ### Set-builder notation
+		- If there are a lot of elements, but no clear pattern => we can denote the elements using a function, essentially a lambda function:
