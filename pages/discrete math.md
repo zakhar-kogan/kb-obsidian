@@ -10,4 +10,5 @@
 		- ![image.png](../assets/image_1662022517613_0.png)
 	- ### Empty set
 		- A collection of NO objects
+		- Notation: $\{\}$ or $\emptyset$
 		-
