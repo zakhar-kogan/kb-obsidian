@@ -8,4 +8,6 @@
 	- ### Set-builder notation
 		- If there are a lot of elements, but no clear pattern => we can denote the elements using a function, essentially a lambda function with "such that": $\{x|x=twice\ a\ number\}$
 		- ![image.png](../assets/image_1662022517613_0.png)
+	- ### Empty set
+		- A collection of NO objects
 		-
