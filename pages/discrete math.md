@@ -1,4 +1,4 @@
 - # Set theory
 - ## Set
 	- A number of elements; order and repetition don't matter.
-	-
+	- ${1,3,4,5} = {1,1,1,1,4,}
