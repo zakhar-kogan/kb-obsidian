@@ -3,4 +3,4 @@
 	- A number of elements; order and repetition don't matter.
 	- $\{1,3,4,5\} = \{1,1,1,1,4,3,5\} = \{5,3,4,1\}$
 	- A is a subset of B if all the elements of A are in B: $A\subseteq B$
-	-
+	- ###
