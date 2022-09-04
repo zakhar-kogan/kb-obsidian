@@ -18,5 +18,6 @@
 		- *a, b* can come from [[different]] sets
 		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\in A$ and $b\in B$
 		- $A \{a,b\} \times B \{0,1\} = \{(a,0), (a,1), (b,0), (b,1)\}$
-	- ### Relations between two sets
-		-
+	- ### Function, formal definition
+		- Function F between A and B is:
+			- For every element $x\
