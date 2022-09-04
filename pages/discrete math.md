@@ -2,7 +2,7 @@
 - ## Set
 	- A number of elements; order and repetition don't matter.
 	- $\{1,3,4,5\} = \{1,1,1,1,4,3,5\} = \{5,3,4,1\}$
-	- A is a subset of B if all the elements of A are in B: $A\subseteq B$
+	- A is a subset of B if all the elements of A are in B: $A\in B$
 	- ### Set-roster notation
 		- If there are a lot of elements in a set AND there is some clear pattern to them, we can use a set-roster notation: $\{0,2,4,6...\}, \{...-6,-4,-2,0,2,4,6...\}$
 	- ### Set-builder notation
@@ -16,6 +16,6 @@
 		- Ordered pairs: order matters
 		- $(a,b) = (c,d)$ if $a=c \ \&\ b=d$
 		- *a, b* can come from [[different]] sets
-		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\subseteq A$ and $b\subseteq B$
+		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\in A$ and $b\in B$
 		-
 	-
