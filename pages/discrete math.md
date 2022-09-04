@@ -21,5 +21,4 @@
 	- ### Function, formal definition
 		- Function F between A and B is:
 			- For every element $x \in A$ there is an element $y \in B$ such that $(x,y) \in F$, i.e. for every input x, there's some output y, so $F(x)=y$
-			- If $(x,y) \in F$ and $(x,z) \in F$, then $y=z$
-			-
+			- If $(x,y) \in F$ and $(x,z) \in F$, then $y=z$ => the same
