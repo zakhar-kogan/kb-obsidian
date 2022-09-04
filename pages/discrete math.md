@@ -20,4 +20,4 @@
 		- $A \{a,b\} \times B \{0,1\} = \{(a,0), (a,1), (b,0), (b,1)\}$
 	- ### Function, formal definition
 		- Function F between A and B is:
-			- For every element $x\
+			- For every element $x \in A$ there is an element $y \in B$ such that $(x,y) \in F$, i.e. for every input x, there's some output y, so $F(x)=
