@@ -17,5 +17,5 @@
 		- $(a,b) = (c,d)$ if $a=c \ \&\ b=d$
 		- *a, b* can come from [[different]] sets
 		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\in A$ and $b\in B$
-		-
+		- $A {a,b} \times B {0,1} = {(a,b),}$
 	-
