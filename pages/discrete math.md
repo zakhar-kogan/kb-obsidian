@@ -16,5 +16,5 @@
 		- Ordered pairs: order matters
 		- $(a,b) = (c,d)$ if $a=c \ \&\ b=d$
 		- *a, b* can come from [[different]] sets
-		-
+		- Cartesian product $A\cartB$
 	-
