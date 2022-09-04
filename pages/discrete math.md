@@ -24,6 +24,8 @@
 			- If $(x,y) \in F$ and $(x,z) \in F$, then $y=z$ => the same input produces the same output (vertical line test)
 	- ### Logical statements
 		- ~p => not p
-		- $p \^ q$
+		- $p \wedge q$ => p AND q
+		- $p \vee q$ => p OR q
+		-
 		-
 		-
