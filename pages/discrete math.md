@@ -13,5 +13,6 @@
 		- Notation: $\{\}$ or $\emptyset$
 		- Is a $\emptyset$ a subset of $\{1,2,3\}$? Yes, it's the so-called *vacuous truth*
 	- ### Cartesian Product of Two Sets A x B
-		- Ordered pairs
+		- Ordered pairs: order matters
+		- $(a,b) = (c,d)$ if $a=c &
 	-
