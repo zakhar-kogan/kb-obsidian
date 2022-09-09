@@ -32,4 +32,7 @@
 		- **Contradiction** is a statement that is **always false**.
 		- #### DeMorgan's Laws
 			- $\sim(p \vee q) \equiv (\sim p) \wedge (\sim q)$
-			-
+			- $\sim(p \wedge q) \equiv (\sim p) \wedge (\vee q)$
+			- $\sim (\sim p) \equiv p$
+			- $p \vee$
+-
