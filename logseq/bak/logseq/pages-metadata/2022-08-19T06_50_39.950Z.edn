@@ -4,18 +4,12 @@
  {:block/name "0501_зона_комфорта",
   :block/created-at 1660325599777,
   :block/updated-at 1660325599777}
- {:block/name "1",
-  :block/created-at 1660325576899,
-  :block/updated-at 1660325576899}
  {:block/name "11_13_19",
   :block/created-at 1660325617858,
   :block/updated-at 1660325617858}
  {:block/name "1_29_20",
   :block/created-at 1660325618510,
   :block/updated-at 1660325618510}
- {:block/name "2",
-  :block/created-at 1660325576912,
-  :block/updated-at 1660325576912}
  {:block/name "2021",
   :block/created-at 1660325600850,
   :block/updated-at 1660325600850}

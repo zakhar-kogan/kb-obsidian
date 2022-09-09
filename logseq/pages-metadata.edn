@@ -428,7 +428,7 @@
   :block/updated-at 1660772283210}
  {:block/name "discrete math",
   :block/created-at 1662020748493,
-  :block/updated-at 1662023455769}
+  :block/updated-at 1662295922151}
  {:block/name "doing",
   :block/created-at 1660390754052,
   :block/updated-at 1660390754052}
@@ -1083,6 +1083,24 @@
  {:block/name "sep 3rd, 2022",
   :block/created-at 1662152401646,
   :block/updated-at 1662152401646}
+ {:block/name "sep 4th, 2022",
+  :block/created-at 1662239549302,
+  :block/updated-at 1662239549302}
+ {:block/name "sep 5th, 2022",
+  :block/created-at 1662325202936,
+  :block/updated-at 1662325202936}
+ {:block/name "sep 6th, 2022",
+  :block/created-at 1662412092295,
+  :block/updated-at 1662412092295}
+ {:block/name "sep 7th, 2022",
+  :block/created-at 1662498004749,
+  :block/updated-at 1662498004749}
+ {:block/name "sep 8th, 2022",
+  :block/created-at 1662586677289,
+  :block/updated-at 1662586677289}
+ {:block/name "sep 9th, 2022",
+  :block/created-at 1662671246971,
+  :block/updated-at 1662711206489}
  {:block/name "sesame",
   :block/created-at 1660325571992,
   :block/updated-at 1660325571992}
