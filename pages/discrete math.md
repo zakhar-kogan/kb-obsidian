@@ -33,10 +33,13 @@
 		- #### DeMorgan's Laws
 			- $\sim(p \vee q) \equiv (\sim p) \wedge (\sim q)$
 			- $\sim(p \wedge q) \equiv (\sim p) \wedge (\vee q)$
-		- Double negative
+		- #### Double negative
 			- $\sim (\sim p) \equiv p$
-		- Identity laws
+		- #### Identity laws
 			- $p \vee c \equiv p$
 			- $p \wedge t \equiv p$
-		- Universal
+		- #### Universal bound laws
+			- $p \vee t \equiv t$
+			- $p \wedge c \equiv c$
+			-
 -
