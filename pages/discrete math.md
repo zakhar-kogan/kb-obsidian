@@ -27,8 +27,9 @@
 		- $p \wedge q$ => p AND q
 		- $p \vee q$ => p OR q
 		- Two statements are equivalent ==if their truth tables are identical.==
-		- $P \equiv ~~P$
+		- $P \equiv ~P$
 		- **Tautology** is a statement that is **always true**.
 		- **Contradiction** is a statement that is **always false**.
 		- #### DeMorgan's Laws
-			- $~
+			- $\~(p \vee q) \equiv (~p) \wedge (~q)$
+			-
