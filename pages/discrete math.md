@@ -30,4 +30,5 @@
 		- $P \equiv ~~P$
 		- **Tautology** is a statement that is **always true**.
 		- **Contradiction** is a statement that is **always false**.
-		-
+		- #### DeMorgan's Laws
+			-
