@@ -28,6 +28,6 @@
 		- $p \vee q$ => p OR q
 		- Two statements are equivalent ==if their truth tables are identical.==
 		- $P \equiv ~~P$
-		-
+		- **Tautology** is a statement that is **always true**.
 		-
 		-
