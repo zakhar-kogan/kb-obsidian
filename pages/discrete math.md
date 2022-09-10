@@ -63,7 +63,7 @@
 	- ### Biconditional statement | if and only if
 		- ==Biconditional== $p \leftrightarrow q$ means **both** $p \rightarrow q$ and $q \rightarrow p$
 		- *Study hard -> pass* $\wedge$ *pass -> studied hard* => I will pass **if and only if** I study hard
-		-
+		- I.e. *both directions are true*
 		-
 		-
 		-
