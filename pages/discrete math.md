@@ -59,7 +59,8 @@
 	- ### Converse and inverse of a statement
 		- ==Converse== of $p \rightarrow q$ is $q \rightarrow p$; they are NOT logically equivalent
 		- If it's a dog, it's a mammal => if it's a mammal, it's a dog
-		- ==Inverse== of $p
+		- ==Inverse== of $p \rightarrow q$ is $\sim p \rightarrow \sim q$
+		-
 		-
 		-
 		-
