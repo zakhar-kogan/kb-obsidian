@@ -48,4 +48,6 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1662792519956_0.png)
 			-
+	- ### Vacuous statements
+		- A statement is true, but in an unimportant (vacuous) way
 	-
