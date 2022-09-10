@@ -52,5 +52,6 @@
 		- A statement is true, but in an unimportant (vacuous) way
 	- ### Negating a conditional
 		- $\sim (p \rightarrow q) \equiv \sim(\sim p \vee q) \equiv (\sim \sim p \wedge q)$ (DeMorgan's)
-		- $(\sim \sim p \wedge q) \equiv p$
+		- $(\sim \sim p \wedge q) \equiv p \wedge \sim q$
+		-
 		-
