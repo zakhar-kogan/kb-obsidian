@@ -60,6 +60,8 @@
 		- ==Converse== of $p \rightarrow q$ is $q \rightarrow p$; they are NOT logically equivalent
 		- If it's a dog, it's a mammal => if it's a mammal, it's a dog
 		- ==Inverse== of $p \rightarrow q$ is $\sim p \rightarrow \sim q$
+	- ### Biconditional statement | if and only if
+		- Biconditional $p \doublearrow q$
 		-
 		-
 		-
