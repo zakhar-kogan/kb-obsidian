@@ -44,6 +44,8 @@
 			- $p \wedge c \equiv c$
 			-
 	- ### Conditional statements
-		- $p \rightarrow q \equiv $
-		-
+		- $p \rightarrow q \equiv \sim p \vee q$
+		  collapsed:: true
+			- ![image.png](../assets/image_1662792519956_0.png)
+			-
 		-
