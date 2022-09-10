@@ -44,4 +44,6 @@
 			- $p \wedge c \equiv c$
 			-
 	- ### Conditional statements
+		- $p \rightarrow q \equiv $
+		-
 		-
