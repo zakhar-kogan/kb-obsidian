@@ -50,4 +50,5 @@
 			-
 	- ### Vacuous statements
 		- A statement is true, but in an unimportant (vacuous) way
-	-
+	- ### Negating a conditional
+		- $\sim (p \rightarrow q) \equiv \sim(\sim p )
