@@ -61,7 +61,8 @@
 		- If it's a dog, it's a mammal => if it's a mammal, it's a dog
 		- ==Inverse== of $p \rightarrow q$ is $\sim p \rightarrow \sim q$
 	- ### Biconditional statement | if and only if
-		- Biconditional $p \doublearrow q$
+		- ==Biconditional== $p \leftrightarrow q$ means **both** $p \rightarrow q$ and $q \rightarrow p$
+		-
 		-
 		-
 		-
