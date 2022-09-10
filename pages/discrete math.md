@@ -56,7 +56,8 @@
 	- ### Contrapositive of a conditional statement
 		- $p \rightarrow q \equiv \sim q \rightarrow \sim p \equiv \sim p \vee q \equiv p \vee \sim q$
 		- Study hard -> pass == ~pass -> ~study hard (didn't study hard) == ~study hard OR pass == study hard OR ~pass
-		-
+	- ### Converse and inverse of a statement
+		- Converse of $p \rightarrow q$ is $q \rightarrow p$
 		-
 		-
 		-
