@@ -62,7 +62,7 @@
 		- ==Inverse== of $p \rightarrow q$ is $\sim p \rightarrow \sim q$
 	- ### Biconditional statement | if and only if
 		- ==Biconditional== $p \leftrightarrow q$ means **both** $p \rightarrow q$ and $q \rightarrow p$
-		-
+		- If
 		-
 		-
 		-
