@@ -55,6 +55,7 @@
 		- $(\sim \sim p \wedge q) \equiv p \wedge \sim q$
 	- ### Contrapositive of a conditional statement
 		- $p \rightarrow q \equiv \sim q \rightarrow \sim p \equiv \sim p \vee q \equiv p \vee \sim q$
+		- Study hard -> pass == ~study hard -> ~pass == ~study hard OR pass == study hard OR ~pass
 		-
 		-
 		-
