@@ -53,5 +53,7 @@
 	- ### Negating a conditional
 		- $\sim (p \rightarrow q) \equiv \sim(\sim p \vee q) \equiv (\sim \sim p \wedge q)$ (DeMorgan's)
 		- $(\sim \sim p \wedge q) \equiv p \wedge \sim q$
+	- ### Contrapositive of a conditional statement
+		- $p \rightarrow q \equiv \sim p \$
 		-
 		-
