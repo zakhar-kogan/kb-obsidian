@@ -99,5 +99,7 @@
 		- $P(6)$: **factor of 12** + **positive integer** => $True$
 		- $P(5)$: not a factor of 12 + **positive integer** => $False$
 		- $P(\frac{1}{3})$: not a positive integer => $Non sense$
+		- Truth set
+			-
 		-
 		-
