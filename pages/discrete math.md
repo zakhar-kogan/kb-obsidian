@@ -80,5 +80,5 @@
 		-
 		-
 	- ### Modus ponens & Modus tollens
-		- Ponens: ==If $p$, then $q$. $p$. Therefore, $q$==
-		-
+		- **Ponens**: If $p$, then $q$. $p$. Therefore, $q$
+		- **Tollens**:
