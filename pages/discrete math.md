@@ -87,4 +87,8 @@
 		- **Generalization**
 			- $p$. Therefore, $p \vee q$
 			- Example: I'm Israeli => I'm Israeli **or** I'm a helicopter.
-		-
+		- **Specialization**
+			- $p \wedge q$. Therefore, $p$
+			- Example: I'm Israeli **and** I have an MSc. Therefore, I'm Israeli.
+		- **Contradiction**
+			-
