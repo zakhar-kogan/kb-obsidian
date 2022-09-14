@@ -22,12 +22,13 @@
 		- *a, b* can come from [[different]] sets
 		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\in A$ and $b\in B$
 		- $A \{a,b\} \times B \{0,1\} = \{(a,0), (a,1), (b,0), (b,1)\}$
-	- ### Function, formal definition
-	  collapsed:: true
-		- Function F between A and B is:
-			- For every element $x \in A$ there is an element $y \in B$ such that $(x,y) \in F$, i.e. for every input x, there's some output y, so $F(x)=y$
-			- If $(x,y) \in F$ and $(x,z) \in F$, then $y=z$ => the same input produces the same output (vertical line test)
-	- ### Logical statements
+- ### Function, formal definition
+  collapsed:: true
+	- Function F between A and B is:
+		- For every element $x \in A$ there is an element $y \in B$ such that $(x,y) \in F$, i.e. for every input x, there's some output y, so $F(x)=y$
+		- If $(x,y) \in F$ and $(x,z) \in F$, then $y=z$ => the same input produces the same output (vertical line test)
+- ### Logical statements
+	- #### Basics
 	  collapsed:: true
 		- ~p => not p
 		- $p \wedge q$ => p AND q
@@ -47,7 +48,6 @@
 		- #### Universal bound laws
 			- $p \vee t \equiv t$
 			- $p \wedge c \equiv c$
-			-
 	- ### Conditional statements
 	  collapsed:: true
 		- $p \rightarrow q \equiv \sim p \vee q$
@@ -84,6 +84,7 @@
 		- **Ponens**: If $p$, then $q$. $p$. Therefore, $q$
 		- **Tollens**: If $p$, then $q$. $\sim p$. Therefore, $\sim q$
 	- ### Logical Argument Forms: Generalizations, Specialization, Contradiction
+	  collapsed:: true
 		- **Generalization**
 			- $p$. Therefore, $p \vee q$
 			- Example: I'm Israeli => I'm Israeli **or** I'm a helicopter.
@@ -92,5 +93,5 @@
 			- Example: I'm Israeli **and** I have an MSc. Therefore, I'm Israeli.
 		- **Contradiction**
 			- $\sim p \rightarrow c$. Therefore, $p$
-	- ###
-	- # Predicates and their Truth Sets
+	- ### Predicates and their Truth Sets
+		-
