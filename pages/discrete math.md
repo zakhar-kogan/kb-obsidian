@@ -84,6 +84,7 @@
 		- **Ponens**: If $p$, then $q$. $p$. Therefore, $q$
 		- **Tollens**: If $p$, then $q$. $\sim p$. Therefore, $\sim q$
 	- ### Logical Argument Forms: Generalizations, Specialization, Contradiction
-		- Generalization
+		- **Generalization**
 			- $p$. Therefore, $p \vee q$
-			- Example:
+			- Example: I'm Israeli => I'm Israeli **or** I'm a helicopter.
+		-
