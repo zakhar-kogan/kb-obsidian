@@ -95,5 +95,6 @@
 			- $\sim p \rightarrow c$. Therefore, $p$
 	- ### Predicates and their Truth Sets
 		- Predicate is a **sentence** depending on variables which becomes a **statement** upon substituting values in the domain.
-		- Example: $x$ is a factor of 12 with domain $\mathbb{z}$
+		- Example $P(x)$: $x$ is a factor of 12 with domain $\mathbb{Z}^+$
+		- $P(6)$: factor of 12 + integer => $True$
 		-
