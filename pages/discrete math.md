@@ -91,4 +91,4 @@
 			- $p \wedge q$. Therefore, $p$
 			- Example: I'm Israeli **and** I have an MSc. Therefore, I'm Israeli.
 		- **Contradiction**
-			-
+			- $\sim p\
