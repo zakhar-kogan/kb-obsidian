@@ -80,5 +80,10 @@
 		-
 		-
 	- ### Modus ponens & Modus tollens
+	  collapsed:: true
 		- **Ponens**: If $p$, then $q$. $p$. Therefore, $q$
 		- **Tollens**: If $p$, then $q$. $\sim p$. Therefore, $\sim q$
+	- ### Logical Argument Forms: Generalizations, Specialization, Contradiction
+		- Generalization
+			- $p$. Therefore, $p \vee q$
+			- Example:
