@@ -96,5 +96,6 @@
 	- ### Predicates and their Truth Sets
 		- Predicate is a **sentence** depending on variables which becomes a **statement** upon substituting values in the domain.
 		- Example $P(x)$: $x$ is a factor of 12 with domain $\mathbb{Z}^+$
-		- $P(6)$: factor of 12 + integer => $True$
+		- $P(6)$: **factor of 12** + **integer** => $True$
+		- $P(5)$: not a factor of 12 + **integer** => $False$
 		-
