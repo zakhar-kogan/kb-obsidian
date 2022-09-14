@@ -79,4 +79,6 @@
 		-
 		-
 		-
-	-
+	- ### Modus ponens & Modus tollens
+		- Ponens: ==If $p$, then $q$. $p$. Therefore, $q$==
+		-
