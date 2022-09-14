@@ -100,6 +100,7 @@
 		- $P(5)$: not a factor of 12 + **positive integer** => $False$
 		- $P(\frac{1}{3})$: not a positive integer => $Non sense$
 		- Truth set
+			- ${x \in D | P(x)}$ => All values *x* in the domain *D* where *P(x)* is true
 			-
 		-
 		-
