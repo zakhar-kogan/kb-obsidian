@@ -92,4 +92,5 @@
 			- Example: I'm Israeli **and** I have an MSc. Therefore, I'm Israeli.
 		- **Contradiction**
 			- $\sim p \rightarrow c$. Therefore, $p$
-			-
+	- ###
+	- # Predicates and their Truth Sets
