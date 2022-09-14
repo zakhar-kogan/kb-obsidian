@@ -94,4 +94,5 @@
 		- **Contradiction**
 			- $\sim p \rightarrow c$. Therefore, $p$
 	- ### Predicates and their Truth Sets
-		-
+		- Predicate is a **sentence** depending on variables which becomes a **statement** upon substituting values in the domain.
+		- Example: $x
