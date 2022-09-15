@@ -110,3 +110,4 @@
 		- #### Statement vs predicate
 			- *P: Roofus is a mammal* => statement
 			- *P(x): x is a mammal* => predicate (depends on the variable)
+	-
