@@ -103,9 +103,10 @@
 		  collapsed:: true
 			- ${x \in D | P(x)}$ => All values *x* in the domain *D* where *P(x)* is true
 	- ### Universal and Existential Quantifiers
-		- $\forall$ -> "for all"
+		- **Universal quantifier**: $\forall$ -> "for all"
 			- Example: $\forall x \in D, P(x)$ => "for all x in domain D, P(x) is true"
-		- $\exists$ -> "there exists"
+		- **Existential quantifier**: $\exists$ -> "there exists"
+			-
 			-
 		-
 		-
