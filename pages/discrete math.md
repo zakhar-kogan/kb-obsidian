@@ -128,6 +128,9 @@
 			- $\sim B \equiv \forall x \in D, \exists y \in D, x < y$ (or generally: $\sim P(x)$)
 			-
 	- ### Universal Conditionals P(x) implies Q(x)
+	  collapsed:: true
 		- $P(x) \Rightarrow Q(x) \equiv \forall x \in D, P(x) \rightarrow Q(x)$
 			- "If x is POTUS (*P(x)*), then x is a US citizen (*Q(x)*)", *D = [[People]]*
 			- "Every POTUS is a US citizen"
+	- ### Necessary and Sufficient Conditions
+		-
