@@ -120,4 +120,5 @@
 		- **Negating an existential**: $\exists x \in D, P(x)$
 			- $\sim (\exists x \in D, P(x)) \equiv \forall x \in D, \sim P(x)$
 	- ### Negating Logical Statements with Multiple Quantifiers
+		- "Every integer has a larger integer": $\forall x \in \mathbb Z, \exists y \in \mathbb Z, y > x$
 		-
