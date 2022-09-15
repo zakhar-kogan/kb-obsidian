@@ -127,4 +127,5 @@
 		  collapsed:: true
 			- $\sim B \equiv \forall x \in D, \exists y \in D, x < y$ (or generally: $\sim P(x)$)
 			-
-	-
+	- ### Universal Conditionals P(x) implies Q(x)
+		-
