@@ -111,6 +111,7 @@
 			- *P: Roofus is a mammal* => statement
 			- *P(x): x is a mammal* => predicate (depends on the variable)
 	- ### Negating Universal and Existential Quantifiers
-		- Negate $\forall x \in \mathbb Z^+, x>3$ => $\exists x \in \mathbb Z^+, x \ngtr 3$ or $\exists x \in \mathbb Z^+, x \leq 3$
 		- **Negating a universal**: $\sim (\forall x \in \mathbb Z^+, P(x)) \equiv \exists x \in \mathbb Z^+, \sim P(x)$
-		- **Negating an existential**: $\exists x \in D
+			- Negate $\forall x \in \mathbb Z^+, x>3$ => $\exists x \in \mathbb Z^+, x \ngtr 3$ or $\exists x \in \mathbb Z^+, x \leq 3$
+		- **Negating an existential**: $\exists x \in D, P(x)$
+			-
