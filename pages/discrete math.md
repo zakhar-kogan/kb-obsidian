@@ -133,4 +133,4 @@
 			- "If x is POTUS (*P(x)*), then x is a US citizen (*Q(x)*)", *D = [[People]]*
 			- "Every POTUS is a US citizen"
 	- ### Necessary and Sufficient Conditions
-		-
+		- *If x is a *
