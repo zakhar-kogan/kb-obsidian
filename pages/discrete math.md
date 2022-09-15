@@ -138,4 +138,5 @@
 		- *If x is a Rectangle, then x is a Quadrilateral* => *If B(x), then C(x)*
 		- Contrapositive: *If x is ==not== Quadrilateral, then x is ==not== a Rectangle* => *If ~C(x), then ~B(x)*
 		- C(x) is a ==necessary== condition for B(x), i.e. "x being a Quadrilateral is **necessary** to conclude x is a Rectangle"
-		- Sufficient: every
+		- **Sufficient**: every x is ..., so just a condition is enough
+		- **Necessary**: not every x is..., so just a condition is not enough
