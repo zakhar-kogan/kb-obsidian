@@ -114,4 +114,5 @@
 		- **Negating a universal**: $\sim (\forall x \in \mathbb Z^+, P(x)) \equiv \exists x \in \mathbb Z^+, \sim P(x)$
 			- Negate $\forall x \in \mathbb Z^+, x>3$ => $\exists x \in \mathbb Z^+, x \ngtr 3$ or $\exists x \in \mathbb Z^+, x \leq 3$
 		- **Negating an existential**: $\exists x \in D, P(x)$
+			- $\sim (\exists x \in D, P(x)) \equiv \forall x \in D, \sim P(x)$
 			-
