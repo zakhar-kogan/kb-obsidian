@@ -128,5 +128,5 @@
 			- $\sim B \equiv \forall x \in D, \exists y \in D, x < y$ (or generally: $\sim P(x)$)
 			-
 	- ### Universal Conditionals P(x) implies Q(x)
-		- $P(x) => Q(x) \equiv \forall x \in D, P(x) -> Q(x)$
-		-
+		- $P(x) \Rightarrow Q(x) \equiv \forall x \in D, P(x) -> Q(x)$
+		- "If x is POTUS, then x is a US
