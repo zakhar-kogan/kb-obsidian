@@ -1,5 +1,6 @@
 - # Set theory
 - ## Set
+  collapsed:: true
 	- A number of elements; order and repetition don't matter.
 	- $\{1,3,4,5\} = \{1,1,1,1,4,3,5\} = \{5,3,4,1\}$
 	- A is a subset of B if all the elements of A are in B: $A\in B$
@@ -22,12 +23,12 @@
 		- *a, b* can come from [[different]] sets
 		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\in A$ and $b\in B$
 		- $A \{a,b\} \times B \{0,1\} = \{(a,0), (a,1), (b,0), (b,1)\}$
-- ### Function, formal definition
+- ## Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
 		- For every element $x \in A$ there is an element $y \in B$ such that $(x,y) \in F$, i.e. for every input x, there's some output y, so $F(x)=y$
 		- If $(x,y) \in F$ and $(x,z) \in F$, then $y=z$ => the same input produces the same output (vertical line test)
-- ### Logical statements
+- ## Logical statements
 	- #### Basics
 	  collapsed:: true
 		- ~p => not p
@@ -94,6 +95,7 @@
 		- **Contradiction**
 			- $\sim p \rightarrow c$. Therefore, $p$
 	- ### Predicates and their Truth Sets
+	  collapsed:: true
 		- Predicate is a **sentence** depending on variables which becomes a **statement** upon substituting values in the domain.
 		- Example $P(x)$: $x$ is a factor of 12 with domain $\mathbb{Z}^+$
 		- $P(6)$: **factor of 12** + **positive integer** => $True$
@@ -103,6 +105,7 @@
 		  collapsed:: true
 			- ${x \in D | P(x)}$ => All values *x* in the domain *D* where *P(x)* is true
 	- ### Universal and Existential Quantifiers
+	  collapsed:: true
 		- **Universal quantifier**: $\forall$ -> "for all"
 			- Example: $\forall x \in D, P(x)$ => "for all x in domain D, P(x) is true"
 		- **Existential quantifier**: $\exists$ -> "there exists"
@@ -111,8 +114,10 @@
 			- *P: Roofus is a mammal* => statement
 			- *P(x): x is a mammal* => predicate (depends on the variable)
 	- ### Negating Universal and Existential Quantifiers
+	  collapsed:: true
 		- **Negating a universal**: $\sim (\forall x \in \mathbb Z^+, P(x)) \equiv \exists x \in \mathbb Z^+, \sim P(x)$
 			- Negate $\forall x \in \mathbb Z^+, x>3$ => $\exists x \in \mathbb Z^+, x \ngtr 3$ or $\exists x \in \mathbb Z^+, x \leq 3$
 		- **Negating an existential**: $\exists x \in D, P(x)$
 			- $\sim (\exists x \in D, P(x)) \equiv \forall x \in D, \sim P(x)$
-			-
+	- ### Negating Logical Statements with Multiple Quantifiers
+		-
