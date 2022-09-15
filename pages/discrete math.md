@@ -100,7 +100,12 @@
 		- $P(5)$: not a factor of 12 + **positive integer** => $False$
 		- $P(\frac{1}{3})$: not a positive integer => $Non sense$
 		- Truth set
+		  collapsed:: true
 			- ${x \in D | P(x)}$ => All values *x* in the domain *D* where *P(x)* is true
-			-
+	- ### Universal and Existential Quantifiers
+		- $\forall$ -> "for all"
+		- $\exists$ -> "there exists"
+		-
+		-
 		-
 		-
