@@ -107,9 +107,6 @@
 			- Example: $\forall x \in D, P(x)$ => "for all x in domain D, P(x) is true"
 		- **Existential quantifier**: $\exists$ -> "there exists"
 			- Example: $\exists x \in D, P(x)$ => "there exists an x in the domain D, such that P(x) is true"
-			-
-			-
-		-
-		-
-		-
-		-
+		- #### Statement vs predicate
+			- *P: Roofus is a mammal* => statement
+			- *P(x): x is a mammal* => predicate (depends on the variable)
