@@ -146,5 +146,7 @@
 			- Informal: n is an even integer if n can be written as [[2]]*integer
 			- Formal: n is an even integer if $\exists k \in \mathbb Z | n = 2k$
 		- Odd
-			- Informal: n is an odd integer if n is
+			- Informal: n is an odd integer if n is an integer that is not even
+			- Formal: n is an odd integer if $\exists k \in \mathbb Z | n = 2k+1$
+			-
 		-
