@@ -170,4 +170,5 @@
 			- $\exists p_1,p_2 \in \mathbb Z, \exists q_1,q_2 \in \mathbb Z \{0\}$ such that $m=\frac{p_1}{q_1}, n=\frac{p_2}{q_2}$
 			- Manipulations
 				- Then, $m+n=\frac{p_1}{q_1} + \frac{p_2}{q_2}=\frac{p_1*q_2 + p_2*q_1}{q_1*q_2}$
+				- Let $p_3 = p_1*q_2 + p_2*q_1$ and $q_3=q_1*q_2$
 				-
