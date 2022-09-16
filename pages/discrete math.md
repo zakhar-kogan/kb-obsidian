@@ -162,14 +162,14 @@
 			- Manipulate!
 			- Deduce conslusion
 	- ### Proof example
-		- Informal definition: n is a rational number if it is a fraction, e.g. 3/7
-		- Formal definition: n is a rational number if $\exists p \in \mathbb Z, \exists q \in \mathbb Z \{0\}$ such that $n=\frac{p}{q}$
-		- Theorem: the sum of two rational numbers is another rational number
-		- Proof
+		- **Informal definition**: n is a rational number if it is a fraction, e.g. 3/7
+		- **Formal definition**: n is a rational number if $\exists p \in \mathbb Z, \exists q \in \mathbb Z \{0\}$ such that $n=\frac{p}{q}$
+		- **Theorem**: the sum of two rational numbers is another rational number
+		- **Proof**
 			- Suppose *m* and *n* are rational.
 			- $\exists p_1,p_2 \in \mathbb Z, \exists q_1,q_2 \in \mathbb Z \{0\}$ such that $m=\frac{p_1}{q_1}, n=\frac{p_2}{q_2}$
-			- Manipulations
+			- **Manipulations**
 				- Then, $m+n=\frac{p_1}{q_1} + \frac{p_2}{q_2}=\frac{p_1*q_2 + p_2*q_1}{q_1*q_2}$
 				- Let $p_3 = p_1*q_2 + p_2*q_1$ and $q_3=q_1*q_2$
 				- Hence, $\exists p_3 \in \mathbb Z, \exists q_3 \in \mathbb Z \{0\}$ so $m+n = \frac{p_3}{q_3}$
-				- Thus $m+n$ is rationak
+				- Thus $m+n$ is rational
