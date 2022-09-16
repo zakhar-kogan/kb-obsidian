@@ -143,4 +143,5 @@
 		- **Necessary**: not every x is..., so just a condition is not enough
 	- ### Formal Definitions in [[math]] | Ex: Even & Odd Integers
 		- Informal: n is an even integer if n can be written as [[2]]*integer
-		- Formal: n is an even integer
+		- Formal: n is an even integer if $\exists k \in \mathbb Z | n = 2k$
+		-
