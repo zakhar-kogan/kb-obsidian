@@ -141,4 +141,6 @@
 		- C(x) is a ==necessary== condition for B(x), i.e. "x being a Quadrilateral is **necessary** to conclude x is a Rectangle"
 		- **Sufficient**: every x is ..., so just a condition is enough
 		- **Necessary**: not every x is..., so just a condition is not enough
-	-
+	- ### Formal Definitions in [[math]] | Ex: Even & Odd Integers
+		- Informal: n is an even integer if n can be written as [[2]]*integer
+		- Formal: n is an even integer
