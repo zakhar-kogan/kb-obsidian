@@ -154,7 +154,10 @@
 	- ### Proofs
 		- Define terms
 		- State theorem formally
-		- Manipulations; play around
+		- Play around
 		- Formal proof
 			- Start with assumptions
-			-
+			- Apply definitions
+			- Manipulate!
+			- Deduce conslusion
+		-
