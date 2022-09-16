@@ -133,6 +133,7 @@
 			- "If x is POTUS (*P(x)*), then x is a US citizen (*Q(x)*)", *D = [[People]]*
 			- "Every POTUS is a US citizen"
 	- ### Necessary and Sufficient Conditions
+	  collapsed:: true
 		- *If x is a Square, then x is a Rectangle* => *If A(x), then B(x)*.
 		- A(x) is a ==sufficient== condition for B(x), i.e. "x being a Square is **sufficient** to conclude x is a Rectangle"
 		- *If x is a Rectangle, then x is a Quadrilateral* => *If B(x), then C(x)*
@@ -140,3 +141,4 @@
 		- C(x) is a ==necessary== condition for B(x), i.e. "x being a Quadrilateral is **necessary** to conclude x is a Rectangle"
 		- **Sufficient**: every x is ..., so just a condition is enough
 		- **Necessary**: not every x is..., so just a condition is not enough
+	-
