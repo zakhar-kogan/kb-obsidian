@@ -152,6 +152,7 @@
 			-
 		-
 	- ### Proofs
+	  collapsed:: true
 		- Define terms
 		- State theorem formally
 		- Play around
@@ -160,4 +161,6 @@
 			- Apply definitions
 			- Manipulate!
 			- Deduce conslusion
-		-
+	- ### Proof example
+		- Informal definition: n is a rational number if it is a fraction, e.g. 3/7
+		- Formal definition:
