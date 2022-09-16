@@ -153,4 +153,8 @@
 		-
 	- ### Proofs
 		- Define terms
-		-
+		- State theorem formally
+		- Manipulations; play around
+		- Formal proof
+			- Start with assumptions
+			-
