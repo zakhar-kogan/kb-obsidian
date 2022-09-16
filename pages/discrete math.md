@@ -167,4 +167,4 @@
 		- Theorem: the sum of two rational numbers is another rational number
 		- Proof
 			- Suppose *m* and *n* are rational.
-			-
+			- $\exists p_1,p_2 \in \mathbb Z, \exists q_1,q_2 \in \mathbb Z \{0\}$ such that $n_1=\frac{p_1}{q_1}, n_2=\frac{p_2}{}$
