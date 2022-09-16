@@ -164,4 +164,7 @@
 	- ### Proof example
 		- Informal definition: n is a rational number if it is a fraction, e.g. 3/7
 		- Formal definition: n is a rational number if $\exists p \in \mathbb Z, \exists q \in \mathbb Z \{0\}$ such that $n=\frac{p}{q}$
-		-
+		- Theorem: the sum of two rational numbers is another rational number
+		- Proof
+			- Suppose *m* and *n* are rational.
+			-
