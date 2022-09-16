@@ -171,4 +171,4 @@
 			- Manipulations
 				- Then, $m+n=\frac{p_1}{q_1} + \frac{p_2}{q_2}=\frac{p_1*q_2 + p_2*q_1}{q_1*q_2}$
 				- Let $p_3 = p_1*q_2 + p_2*q_1$ and $q_3=q_1*q_2$
-				-
+				- Hence, $\exists p_3
