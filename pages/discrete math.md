@@ -193,4 +193,6 @@ automatic-ignore:: true
 		- Sum notation: $a_m+a_{m+1}+...+a_n=\sum\limits^{n}_{k=m} a_k$
 		- Product notation: $a_m*a_{m+1}*...*a_n=\prod\limits^{n}_{k=m} a_k$
 - # Mathematical Induction
-	-
+	- Prove P(1) is true
+	- Assume P(k) is true
+	- Prove P(k)
