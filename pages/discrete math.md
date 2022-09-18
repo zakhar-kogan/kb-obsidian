@@ -179,8 +179,9 @@ automatic-ignore:: true
 				- Hence, $\exists p_3 \in \mathbb Z, \exists q_3 \in \mathbb Z \{0\}$ so $m+n = \frac{p_3}{q_3}$
 				- Thus $m+n$ is rational
 	- ### Sequences
-		- $a_k$ is the $k^{th}$ term
-		- $a_k = k : 1,2,3,4...$
-		- $b_k = (-1)^k*(3k):-3,6,-9...$
-		-
-		-
+		- Defined by explicit formula
+			- $a_k$ is the $k^{th}$ term
+			- $a_k = k : 1,2,3,4...$
+			- $b_k = (-1)^k*(3k):-3,6,-9...$
+		- The formal definition of a sequence
+			-
