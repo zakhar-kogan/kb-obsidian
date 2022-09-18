@@ -180,7 +180,7 @@ automatic-ignore:: true
 				- Thus $m+n$ is rational
 	- ### Sequences
 		- $a_k$ is the $k^{th}$ term
-		- $a_k = k : [[1]],[[2]],3,4...$
-		- $b_k = (-[[1]])^k*(3k)
+		- $a_k = k : 1,2,3,4...$
+		- $b_k = (-1)^k*(3k):-3,6,-9...$
 		-
 		-
