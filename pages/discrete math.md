@@ -179,6 +179,7 @@ automatic-ignore:: true
 				- Hence, $\exists p_3 \in \mathbb Z, \exists q_3 \in \mathbb Z \{0\}$ so $m+n = \frac{p_3}{q_3}$
 				- Thus $m+n$ is rational
 	- ### Sequences
+	  collapsed:: true
 		- Defined by explicit formula
 			- $a_k$ is the $k^{th}$ term
 			- $a_k = k : 1,2,3,4...$
@@ -189,4 +190,5 @@ automatic-ignore:: true
 		- Sum and product of finite sequences
 			- Sum notation: $a_m+a_{m+1}+...+a_n=\sum\limits^{n}_{k=m} a_k$
 			- Product notation: $a_m*a_{m+1}*...*a_n=\prod\limits^{n}_{k=m} a_k$
-			-
+	- ## Mathematical Induction
+		-
