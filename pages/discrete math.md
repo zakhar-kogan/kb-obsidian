@@ -25,12 +25,12 @@ automatic-ignore:: true
 		- *a, b* can come from [[different]] sets
 		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\in A$ and $b\in B$
 		- $A \{a,b\} \times B \{0,1\} = \{(a,0), (a,1), (b,0), (b,1)\}$
-- ## Function, formal definition
+- # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
 		- For every element $x \in A$ there is an element $y \in B$ such that $(x,y) \in F$, i.e. for every input x, there's some output y, so $F(x)=y$
 		- If $(x,y) \in F$ and $(x,z) \in F$, then $y=z$ => the same input produces the same output (vertical line test)
-- ## Logical statements
+- # Logical statements
 	- #### Basics
 	  collapsed:: true
 		- ~p => not p
@@ -153,16 +153,16 @@ automatic-ignore:: true
 			- Formal: n is an odd integer if $\exists k \in \mathbb Z | n = 2k+[[1]]$
 			-
 		-
-	- ### Proofs
-	  collapsed:: true
-		- Define terms
-		- State theorem formally
-		- Play around
-		- Formal proof
-			- Start with assumptions
-			- Apply definitions
-			- Manipulate!
-			- Deduce conslusion
+- # Proofs
+  collapsed:: true
+	- Define terms
+	- State theorem formally
+	- Play around
+	- Formal proof
+		- Start with assumptions
+		- Apply definitions
+		- Manipulate!
+		- Deduce conslusion
 	- ### Proof example
 	  collapsed:: true
 		- **Informal definition**: n is a rational number if it is a fraction, e.g. 3/7
@@ -178,17 +178,17 @@ automatic-ignore:: true
 				- Let $p_3 = p_1*q_2 + p_2*q_1$ and $q_3=q_1*q_2$
 				- Hence, $\exists p_3 \in \mathbb Z, \exists q_3 \in \mathbb Z \{0\}$ so $m+n = \frac{p_3}{q_3}$
 				- Thus $m+n$ is rational
-	- ### Sequences
-	  collapsed:: true
-		- Defined by explicit formula
-			- $a_k$ is the $k^{th}$ term
-			- $a_k = k : 1,2,3,4...$
-			- $b_k = (-1)^k*(3k):-3,6,-9...$
-		- The formal definition of a sequence
-			- A sequence is a function $f: \mathbb Z^+ \rightarrow C$
-			- $f(k)=(-1)^k*(3k)=a_k$
-		- Sum and product of finite sequences
-			- Sum notation: $a_m+a_{m+1}+...+a_n=\sum\limits^{n}_{k=m} a_k$
-			- Product notation: $a_m*a_{m+1}*...*a_n=\prod\limits^{n}_{k=m} a_k$
-	- ## Mathematical Induction
-		-
+- # Sequences
+  collapsed:: true
+	- Defined by explicit formula
+		- $a_k$ is the $k^{th}$ term
+		- $a_k = k : 1,2,3,4...$
+		- $b_k = (-1)^k*(3k):-3,6,-9...$
+	- The formal definition of a sequence
+		- A sequence is a function $f: \mathbb Z^+ \rightarrow C$
+		- $f(k)=(-1)^k*(3k)=a_k$
+	- Sum and product of finite sequences
+		- Sum notation: $a_m+a_{m+1}+...+a_n=\sum\limits^{n}_{k=m} a_k$
+		- Product notation: $a_m*a_{m+1}*...*a_n=\prod\limits^{n}_{k=m} a_k$
+- # Mathematical Induction
+	-
