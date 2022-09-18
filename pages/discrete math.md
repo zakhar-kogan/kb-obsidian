@@ -187,5 +187,5 @@ automatic-ignore:: true
 			- A sequence is a function $f: \mathbb Z^+ \rightarrow C$
 			- $f(k)=(-1)^k*(3k)=a_k$
 		- Sum and product of finite sequences
-			- $a_m+a_{m+1}+...+a_n=\sum\limits^{n}_{k=m} a_k$
+			- Sum notation: $a_m+a_{m+1}+...+a_n=\sum\limits^{n}_{k=m} a_k$
 			-
