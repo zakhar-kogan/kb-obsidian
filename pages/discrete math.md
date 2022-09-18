@@ -1,24 +1,25 @@
 automatic-ignore:: true
 
 - # Set theory
-- ## Set
   collapsed:: true
-	- A number of elements; order and repetition don't matter.
-	- $\{1,3,4,5\} = \{1,1,1,1,4,3,5\} = \{5,3,4,1\}$
-	- A is a subset of B if all the elements of A are in B: $A\in B$
-	- ### Set-roster notation
+	- ## Set
+	  collapsed:: true
+		- A number of elements; order and repetition don't matter.
+		- $\{1,3,4,5\} = \{1,1,1,1,4,3,5\} = \{5,3,4,1\}$
+		- A is a subset of B if all the elements of A are in B: $A\in B$
+	- ## Set-roster notation
 	  collapsed:: true
 		- If there are a lot of elements in a set AND there is some clear pattern to them, we can use a set-roster notation: $\{0,2,4,6...\}, \{...-6,-4,-2,0,2,4,6...\}$
-	- ### Set-builder notation
+	- ## Set-builder notation
 	  collapsed:: true
 		- If there are a lot of elements, but no clear pattern => we can denote the elements using a function, essentially a lambda function with "such that": $\{x|x=twice\ a\ number\}$
 		- ![image.png](../assets/image_1662022517613_0.png)
-	- ### Empty set
+	- ## Empty set
 	  collapsed:: true
 		- A collection of NO objects
 		- Notation: $\{\}$ or $\emptyset$
 		- Is a $\emptyset$ a subset of $\{1,2,3\}$? Yes, it's the so-called *vacuous truth*
-	- ### Cartesian Product of Two Sets A x B
+	- ## Cartesian Product of Two Sets A x B
 	  collapsed:: true
 		- Ordered pairs: order matters
 		- $(a,b) = (c,d)$ if $a=c \ \&\ b=d$
@@ -31,6 +32,7 @@ automatic-ignore:: true
 		- For every element $x \in A$ there is an element $y \in B$ such that $(x,y) \in F$, i.e. for every input x, there's some output y, so $F(x)=y$
 		- If $(x,y) \in F$ and $(x,z) \in F$, then $y=z$ => the same input produces the same output (vertical line test)
 - # Logical statements
+  collapsed:: true
 	- #### Basics
 	  collapsed:: true
 		- ~p => not p
