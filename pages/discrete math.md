@@ -176,5 +176,6 @@
 				- Let $p_3 = p_1*q_2 + p_2*q_1$ and $q_3=q_1*q_2$
 				- Hence, $\exists p_3 \in \mathbb Z, \exists q_3 \in \mathbb Z \{0\}$ so $m+n = \frac{p_3}{q_3}$
 				- Thus $m+n$ is rational
-	- ### Quotient-Remainder Theorem and Modular Arithmetic
-		-
+	- ### Sequences
+		- $a_k$ is the $k^{th}$ term
+		- $a_k = k : $
