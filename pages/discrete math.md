@@ -196,4 +196,7 @@ automatic-ignore:: true
 	- Prove P(1) is true | *Basic step*
 	- Assume P(k) is true
 	- Prove P(k+1) is true | *Induction step*
+	- **Example**
+	  collapsed:: true
+		- ![image.png](../assets/image_1663493762414_0.png)
 	-
