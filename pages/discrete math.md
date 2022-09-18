@@ -195,4 +195,5 @@ automatic-ignore:: true
 - # Mathematical Induction
 	- Prove P(1) is true
 	- Assume P(k) is true
-	- Prove P(k)
+	- Prove P(k+1) is true
+	-
