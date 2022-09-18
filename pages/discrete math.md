@@ -184,4 +184,6 @@ automatic-ignore:: true
 			- $a_k = k : 1,2,3,4...$
 			- $b_k = (-1)^k*(3k):-3,6,-9...$
 		- The formal definition of a sequence
-			- A sequence is a function $f: \mathbb Z^+
+			- A sequence is a function $f: \mathbb Z^+ \rightarrow C$
+			- $f(k)=(-1)^k*(3k)=a_k$
+			-
