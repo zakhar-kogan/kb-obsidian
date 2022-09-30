@@ -195,8 +195,9 @@ automatic-ignore:: true
 		- Sum notation: $a_m+a_{m+1}+...+a_n=\sum\limits^{n}_{k=m} a_k$
 		- Product notation: $a_m*a_{m+1}*...*a_n=\prod\limits^{n}_{k=m} a_k$
 	- ## Recursive sequences
-		- Initial terms
-		- Later terms described *_recursively* by previous terms
+		- Initial terms, e.g. $a_1 = 1$
+		- Later terms described *recursively* by previous terms, e.g. $a_k=a_{k-1}=3, k>1$
+		-
 - # Mathematical Induction
 	- Prove P(1) is true | *Basic step*
 	- Assume P(k) is true
