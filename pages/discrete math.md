@@ -1,7 +1,6 @@
 automatic-ignore:: true
 
 - # Set theory
-  collapsed:: true
 	- ## Set
 	  collapsed:: true
 		- A number of elements; order and repetition don't matter.
@@ -26,6 +25,9 @@ automatic-ignore:: true
 		- *a, b* can come from [[different]] sets
 		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\in A$ and $b\in B$
 		- $A \{a,b\} \times B \{0,1\} = \{(a,0), (a,1), (b,0), (b,1)\}$
+	- ## Union & Intersection
+		- Union: $A \union B$
+		-
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
@@ -181,6 +183,7 @@ automatic-ignore:: true
 				- Hence, $\exists p_3 \in \mathbb Z, \exists q_3 \in \mathbb Z \{0\}$ so $m+n = \frac{p_3}{q_3}$
 				- Thus $m+n$ is rational
 - # Sequences
+  collapsed:: true
 	- Defined by explicit formula
 	  collapsed:: true
 		- $a_k$ is the $k^{th}$ term
@@ -197,7 +200,6 @@ automatic-ignore:: true
 	- ## Recursive sequences
 		- Initial terms, e.g. $a_1 = 1$
 		- Later terms described *recursively* by previous terms, e.g. $a_k=a_{k-1}=3, k>1$
-		-
 - # Mathematical Induction
 	- Prove P(1) is true | *Basic step*
 	- Assume P(k) is true
