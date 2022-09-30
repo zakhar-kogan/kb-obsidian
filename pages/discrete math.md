@@ -26,7 +26,7 @@ automatic-ignore:: true
 		- Cartesian product $A\times B$ is the set of all ordered pairs (a,b) where $a\in A$ and $b\in B$
 		- $A \{a,b\} \times B \{0,1\} = \{(a,0), (a,1), (b,0), (b,1)\}$
 	- ## Union & Intersection
-		- Union: $A \union B$
+		- Union: $A \cup B = {x|x \in A \wedge}$
 		-
 - # Function, formal definition
   collapsed:: true
