@@ -181,17 +181,22 @@ automatic-ignore:: true
 				- Hence, $\exists p_3 \in \mathbb Z, \exists q_3 \in \mathbb Z \{0\}$ so $m+n = \frac{p_3}{q_3}$
 				- Thus $m+n$ is rational
 - # Sequences
-  collapsed:: true
 	- Defined by explicit formula
+	  collapsed:: true
 		- $a_k$ is the $k^{th}$ term
 		- $a_k = k : 1,2,3,4...$
 		- $b_k = (-1)^k*(3k):-3,6,-9...$
 	- The formal definition of a sequence
+	  collapsed:: true
 		- A sequence is a function $f: \mathbb Z^+ \rightarrow C$
 		- $f(k)=(-1)^k*(3k)=a_k$
 	- Sum and product of finite sequences
+	  collapsed:: true
 		- Sum notation: $a_m+a_{m+1}+...+a_n=\sum\limits^{n}_{k=m} a_k$
 		- Product notation: $a_m*a_{m+1}*...*a_n=\prod\limits^{n}_{k=m} a_k$
+	- ## Recursive sequences
+		- Initial terms
+		- Later terms described *_recursively* by previous terms
 - # Mathematical Induction
 	- Prove P(1) is true | *Basic step*
 	- Assume P(k) is true
@@ -199,4 +204,4 @@ automatic-ignore:: true
 	- **Example**
 	  collapsed:: true
 		- ![image.png](../assets/image_1663493762414_0.png)
-	- ## Strong induction
+-
