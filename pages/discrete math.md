@@ -36,6 +36,8 @@ automatic-ignore:: true
 	- ## Power Sets and the Cardinality of the Continuum
 		- $A = \{1,2,3\}, \{1,3\} \in A, \{1,4\} \notin A$
 		- A power set $P(A)$ is the set of ==all== subsets of $A$
+		  collapsed:: true
+			- ![image.png](../assets/image_1664604066599_0.png)
 		-
 - # Function, formal definition
   collapsed:: true
