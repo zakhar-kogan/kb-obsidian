@@ -38,7 +38,7 @@ automatic-ignore:: true
 		- A power set $P(A)$ is the set of ==all== subsets of $A$
 		  collapsed:: true
 			- ![image.png](../assets/image_1664604066599_0.png)
-		-
+		- a
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
