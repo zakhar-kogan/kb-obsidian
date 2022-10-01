@@ -46,6 +46,7 @@ automatic-ignore:: true
 		- **Reflexive** relation is a relation of an element to itself: relation on $A$ is reflexive if $xRx, \forall x \in A$
 		- **Symmetric** relation: if x relates to y, then y relates to x => $\forall x, y \in A, if\ xRy\ then\ yRx$
 		- **Transitive** relation: $\forall x, z \in A, if\ xRy\ and\ yRz\ then\ xRz$
+		- **Equivalence** relation: a relation that is **reflexive + symmetric + transitive** at once
 		-
 - # Function, formal definition
   collapsed:: true
