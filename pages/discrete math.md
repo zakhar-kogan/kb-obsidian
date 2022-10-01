@@ -34,6 +34,7 @@ automatic-ignore:: true
 		- Universe $U$ is the larger set that gives the context
 		- $A_c = \{x \in U | x \notin A\}
 	- ## Power Sets and the Cardinality of the Continuum
+	  collapsed:: true
 		- $A = \{1,2,3\}, \{1,3\} \in A, \{1,4\} \notin A$
 		- A power set $P(A)$ is the set of ==all== subsets of $A$
 		  collapsed:: true
@@ -41,7 +42,7 @@ automatic-ignore:: true
 		- A power set of an empty set is a set containing an empty set, a box within a box
 		- Number of elements $|P(A)|$ in a power set $|A| = n$ is $|P(A)| = 2^n$, where $n$ is the number of elements. That's because each element can be either included in a power set, or not
 		- $P(\mathbb N)$ is uncountably infinite. $P(A)$ has greater **cardinality** than $A$
-		-
+	-
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
