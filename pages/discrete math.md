@@ -39,7 +39,8 @@ automatic-ignore:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1664604066599_0.png)
 		- A power set of an empty set is a set containing an empty set, a box within a box
-		- Number of elements in a power set is $2_n$, where $n$ is the number of elements. That's because
+		- Number of elements  in a power set is $2^n$, where $n$ is the number of elements. That's because each element can be either included in a power set, or not
+		-
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
