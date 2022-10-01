@@ -44,6 +44,7 @@ automatic-ignore:: true
 		- $P(\mathbb N)$ is uncountably infinite. $P(A)$ has greater **cardinality** than $A$
 	- ## Relations
 		- **Reflexive relation** is a relation of an element to itself: relation on $A$ is reflexive if $xRx, \forall x \in A$
+		- **Symmetric** relation: if x relates to y, then y relates to x => $\forall x, y \in A, if xRy then yRx$
 		-
 - # Function, formal definition
   collapsed:: true
