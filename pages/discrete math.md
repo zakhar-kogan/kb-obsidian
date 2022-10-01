@@ -38,7 +38,8 @@ automatic-ignore:: true
 		- A power set $P(A)$ is the set of ==all== subsets of $A$
 		  collapsed:: true
 			- ![image.png](../assets/image_1664604066599_0.png)
-		- a
+		- A power set of an empty set is a set containing an empty set, a box within a box
+		- Number of elements in a power set is $2_n$, where $n$ is the number of elements. That's because
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
