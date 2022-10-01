@@ -45,7 +45,8 @@ automatic-ignore:: true
 	- ## Relations
 		- **Reflexive** relation is a relation of an element to itself: relation on $A$ is reflexive if $xRx, \forall x \in A$
 		- **Symmetric** relation: if x relates to y, then y relates to x => $\forall x, y \in A, if\ xRy\ then\ yRx$
-		- **Transitive** relation: $\
+		- **Transitive** relation: $\forall x, z \in A, if\ xRy\ and\ yRz\ then\ xRz$
+		-
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
