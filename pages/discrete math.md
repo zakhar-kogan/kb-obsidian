@@ -30,7 +30,7 @@ automatic-ignore:: true
 		- Union: $A \cup B = \{x|x \in A \vee x \in B\}$
 		- Intersection: $A \cap B = \{x| x \in A \wedge x \in B\}
 	- ## Universes and complements
-		-
+		- Universe $U$
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
