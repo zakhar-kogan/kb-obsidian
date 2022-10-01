@@ -1,6 +1,7 @@
 automatic-ignore:: true
 
 - # Set theory
+  collapsed:: true
 	- ## Set
 	  collapsed:: true
 		- A number of elements; order and repetition don't matter.
@@ -43,11 +44,11 @@ automatic-ignore:: true
 		- Number of elements $|P(A)|$ in a power set $|A| = n$ is $|P(A)| = 2^n$, where $n$ is the number of elements. That's because each element can be either included in a power set, or not
 		- $P(\mathbb N)$ is uncountably infinite. $P(A)$ has greater **cardinality** than $A$
 	- ## Relations
+	  collapsed:: true
 		- **Reflexive** relation is a relation of an element to itself: relation on $A$ is reflexive if $xRx, \forall x \in A$
 		- **Symmetric** relation: if x relates to y, then y relates to x => $\forall x, y \in A, if\ xRy\ then\ yRx$
 		- **Transitive** relation: $\forall x, z \in A, if\ xRy\ and\ yRz\ then\ xRz$
 		- **Equivalence** relation: a relation that is **reflexive + symmetric + transitive** at once
-		-
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
@@ -221,10 +222,13 @@ automatic-ignore:: true
 		- Initial terms, e.g. $a_1 = 1$
 		- Later terms described *recursively* by previous terms, e.g. $a_k=a_{k-1}=3, k>1$
 - # Mathematical Induction
+  collapsed:: true
 	- Prove P(1) is true | *Basic step*
 	- Assume P(k) is true
 	- Prove P(k+1) is true | *Induction step*
 	- **Example**
 	  collapsed:: true
 		- ![image.png](../assets/image_1663493762414_0.png)
--
+- # Probability
+	-
+- # Graph theory
