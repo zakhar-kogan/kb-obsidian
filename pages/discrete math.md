@@ -42,7 +42,8 @@ automatic-ignore:: true
 		- A power set of an empty set is a set containing an empty set, a box within a box
 		- Number of elements $|P(A)|$ in a power set $|A| = n$ is $|P(A)| = 2^n$, where $n$ is the number of elements. That's because each element can be either included in a power set, or not
 		- $P(\mathbb N)$ is uncountably infinite. $P(A)$ has greater **cardinality** than $A$
-	-
+	- ## Relations
+		- Refle
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
