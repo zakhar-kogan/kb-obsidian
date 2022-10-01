@@ -34,7 +34,8 @@ automatic-ignore:: true
 		- Universe $U$ is the larger set that gives the context
 		- $A_c = \{x \in U | x \notin A\}
 	- ## Power Sets and the Cardinality of the Continuum
-		- $A =
+		- $A = \{1,2,3\}, \{1,3\} \in A, \{1,4\} \notin A$
+		- A power set $A$ is the set of ==all== subsets
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
