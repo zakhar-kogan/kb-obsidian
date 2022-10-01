@@ -30,9 +30,11 @@ automatic-ignore:: true
 		- Union: $A \cup B = \{x|x \in A \vee x \in B\}$
 		- Intersection: $A \cap B = \{x| x \in A \wedge x \in B\}
 	- ## Universes and complements
+	  collapsed:: true
 		- Universe $U$ is the larger set that gives the context
 		- $A_c = \{x \in U | x \notin A\}
-		-
+	- ## Power Sets and the Cardinality of the Continuum
+		- $A =
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
