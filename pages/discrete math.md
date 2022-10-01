@@ -35,7 +35,8 @@ automatic-ignore:: true
 		- $A_c = \{x \in U | x \notin A\}
 	- ## Power Sets and the Cardinality of the Continuum
 		- $A = \{1,2,3\}, \{1,3\} \in A, \{1,4\} \notin A$
-		- A power set $A$ is the set of ==all== subsets
+		- A power set $P(A)$ is the set of ==all== subsets of $A$
+		-
 - # Function, formal definition
   collapsed:: true
 	- Function F between A and B is:
