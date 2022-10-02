@@ -236,6 +236,7 @@ automatic-ignore:: true
 		- How many ways to order four letters from the word **FORMULA**? => $N(S)=7*6*5*4$ (we're using our possibilities with each slot) => $\frac {7!}{3!}=$
 		- The number of permutations that pick $r$ items from $n$ possibilities without repeats, in order, is $P(n, r) = \frac {n!}{(n-r)!}
 	- ## Summation rule for disjoint unions
+	  collapsed:: true
 		- How many 1, 2 or 3-letter passwords are there, using 26 letters? With repeats
 			- 1-letter => $N(S_1)=26^1$
 			- 2-letter => $N(S_2)=26^2$
@@ -245,5 +246,6 @@ automatic-ignore:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1664700438624_0.png)
 		- When the Sample Space is a disjoint union = $S=S_1 + S_2$, $N(S)=N(S_1) + N(S_2)$
-		-
+	- ## Counting formula for two intersecting sets: N(A union B)=N(A)+N(B)-N(A intersect B)
+		- When the Sample Space is a **union** $S=S_1 \cup S_2$, $N(S)=N(S_1)+N(S_2)-
 - # Graph theory
