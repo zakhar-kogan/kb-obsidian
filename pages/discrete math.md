@@ -267,5 +267,6 @@ automatic-ignore:: true
 			- Order **matters** => $5*4*3 = \frac{5!}{(5-3)!}$
 			- Order **doesn't matter** => $\frac {P(5,3)}{ways\ to\ reorder}=\frac{P(5,3)}{3!}$
 			- Choose **r** objects out of **n** without caring about order => $\frac {n!}{r!(n-r)!}$
-			-
+			- How many rearrangements of a word MISSISSIPPI are there?
+				-
 - # Graph theory
