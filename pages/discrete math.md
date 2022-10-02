@@ -257,7 +257,12 @@ automatic-ignore:: true
 			- $N(S_4)=25$, $N(S_6)=16$, $N(S_4 \cap S_6) = 8$ (multiples of 12)
 			- $N(S_4) + N(S_6) - N(S_4 \cap S_6) = 25 + 16 - 8 = 33$
 	- ## Triple intersections
+	  collapsed:: true
 		- $N(S_1 \cup S_2 \cup S_3)=N(S_1) + N(S_2) + N(S_3) - N(S_1 \cap S_2) - N(S_1 \cap S_3) - N(S_2 \cap S_3) + N(S_1 \cap S_2 \cap S_3)$
+		  collapsed:: true
 			- ![image.png](../assets/image_1664701872984_0.png)
 		-
+	- ## Combinations Formula
+		- How many ways can I pick 3 people from 5 people?
+			- Order matters => $5*
 - # Graph theory
