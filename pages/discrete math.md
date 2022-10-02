@@ -242,5 +242,8 @@ automatic-ignore:: true
 			- 3-letter => $N(S_3)=26^3$
 			- Total: $26^1 + 26^2 + 26^3 = 18278$
 		- When $A \cap B = \emptyset$, the union is called the **disjoint union** and is denoted $A \sqcup B$
+		  collapsed:: true
+			- ![image.png](../assets/image_1664700438624_0.png)
+		- When the Sample Space is a disjoint union = $S=S_1 + S_2$, $N(S)=N(S_1) + N(S_2)$
 		-
 - # Graph theory
