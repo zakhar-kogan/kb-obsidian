@@ -360,7 +360,7 @@
   :block/updated-at 1660772283210}
  {:block/name "discrete math",
   :block/created-at 1662020748493,
-  :block/updated-at 1663493770781}
+  :block/updated-at 1664606381821}
  {:block/name "doing",
   :block/created-at 1660390754052,
   :block/updated-at 1660390754052}
@@ -820,6 +820,9 @@
  {:block/name "numpy",
   :block/created-at 1660325572693,
   :block/updated-at 1660325572693}
+ {:block/name "oct 1st, 2022",
+  :block/created-at 1664572430455,
+  :block/updated-at 1664572430455}
  {:block/name "oct 20th, 2002",
   :block/created-at 1660325647747,
   :block/updated-at 1660325647747}
@@ -844,6 +847,9 @@
  {:block/name "oct 28th, 2021",
   :block/created-at 1660325624794,
   :block/updated-at 1660325624794}
+ {:block/name "oct 2nd, 2022",
+  :block/created-at 1664658191335,
+  :block/updated-at 1664658191335}
  {:block/name "oct 4th, 2021",
   :block/created-at 1660325576917,
   :block/updated-at 1660902665395}
@@ -1030,12 +1036,45 @@
  {:block/name "sep 19th, 2022",
   :block/created-at 1663535162290,
   :block/updated-at 1663535162290}
+ {:block/name "sep 20th, 2022",
+  :block/created-at 1663621949825,
+  :block/updated-at 1663621949825}
+ {:block/name "sep 21st, 2022",
+  :block/created-at 1663707601247,
+  :block/updated-at 1663707601247}
+ {:block/name "sep 22nd, 2022",
+  :block/created-at 1663794047334,
+  :block/updated-at 1663794047334}
  {:block/name "sep 23rd, 2021",
   :block/created-at 1660325575728,
   :block/updated-at 1660325575728}
+ {:block/name "sep 23rd, 2022",
+  :block/created-at 1663874358107,
+  :block/updated-at 1663874358107}
+ {:block/name "sep 24th, 2022",
+  :block/created-at 1663959603916,
+  :block/updated-at 1663959603916}
+ {:block/name "sep 25th, 2022",
+  :block/created-at 1664046772793,
+  :block/updated-at 1664046772793}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1664132954972,
+  :block/updated-at 1664132954972}
+ {:block/name "sep 27th, 2022",
+  :block/created-at 1664228377703,
+  :block/updated-at 1664228377703}
+ {:block/name "sep 28th, 2022",
+  :block/created-at 1664316947391,
+  :block/updated-at 1664316947391}
+ {:block/name "sep 29th, 2022",
+  :block/created-at 1664399556909,
+  :block/updated-at 1664399556909}
  {:block/name "sep 30th, 2020",
   :block/created-at 1660325569498,
   :block/updated-at 1660325569498}
+ {:block/name "sep 30th, 2022",
+  :block/created-at 1664485694894,
+  :block/updated-at 1664485694894}
  {:block/name "sep 9th, 2022",
   :block/created-at 1662671246971,
   :block/updated-at 1663141805859}
