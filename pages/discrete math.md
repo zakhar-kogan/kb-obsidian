@@ -241,5 +241,5 @@ automatic-ignore:: true
 			- 2-letter => $N(S_2)=26^2$
 			- 3-letter => $N(S_3)=26^3$
 			- Total: $26^1 + 26^2 + 26^3 = 18278$
-		- When $A \
+		- When $A \cap B = \emptyset$, the union is called the **disjoint union** and is denoted
 - # Graph theory
