@@ -266,5 +266,6 @@ automatic-ignore:: true
 		- How many ways can I pick 3 people from 5 people?
 			- Order **matters** => $5*4*3 = \frac{5!}{(5-3)!}$
 			- Order **doesn't matter** => $\frac {P(5,3)}{ways\ to\ reorder}=\frac{P(5,3)}{3!}$
-			- Choose **r** objects out of **n**
+			- Choose **r** objects out of **n** without caring about order => $\frac {n!}{r!(n-r)!}$
+			-
 - # Graph theory
