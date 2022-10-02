@@ -251,5 +251,6 @@ automatic-ignore:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1664700648102_0.png)
 		- We're subtracting the intersection to *eliminate the double counting* from $S_1$ and $S_2$
-		-
+		- How many numbers between 1 and 100 are multiples of 4 or 6?
+			-
 - # Graph theory
