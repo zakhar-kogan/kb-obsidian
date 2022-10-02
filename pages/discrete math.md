@@ -250,5 +250,6 @@ automatic-ignore:: true
 		- When the Sample Space is a **union** $S=S_1 \cup S_2$, $N(S)=N(S_1)+N(S_2)-N(S_1 \cap S_2)$
 		  collapsed:: true
 			- ![image.png](../assets/image_1664700648102_0.png)
+		- We're subtracting the intersection to *eliminate the double counting* from $S_1$ and $S_2$
 		-
 - # Graph theory
