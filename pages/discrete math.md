@@ -232,5 +232,5 @@ automatic-ignore:: true
 - # Probability
 	- ## Permutations
 		- Letters in the word **FORM** (no repeats) => factorial of number of "slots": $N(S)=4*3*2*1=4!$
-		-
+		- How many ways to order four letters from the word **FORMULA**?
 - # Graph theory
