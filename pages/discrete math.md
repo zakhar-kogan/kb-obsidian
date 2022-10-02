@@ -236,8 +236,9 @@ automatic-ignore:: true
 		- How many ways to order four letters from the word **FORMULA**? => $N(S)=7*6*5*4$ (we're using our possibilities with each slot) => $\frac {7!}{3!}=$
 		- The number of permutations that pick $r$ items from $n$ possibilities without repeats, in order, is $P(n, r) = \frac {n!}{(n-r)!}
 	- ## Summation rule for disjoint unions
-		- How many 1, 2 or 3-letter passwords are there, using 26 letters?
-			- 1-letter => $N(S_1)=26^1
-			- 2-letter:
-			- 3-letter:
+		- How many 1, 2 or 3-letter passwords are there, using 26 letters? With repeats
+			- 1-letter => $N(S_1)=26^1$
+			- 2-letter => $N(S_2)=26^2$
+			- 3-letter => $N(S_3)=26^3$
+		-
 - # Graph theory
