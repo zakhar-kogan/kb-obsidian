@@ -257,7 +257,8 @@ automatic-ignore:: true
 			- $N(S_4)=25$, $N(S_6)=16$, $N(S_4 \cap S_6) = 8$ (multiples of 12)
 			- $N(S_4) + N(S_6) - N(S_4 \cap S_6) = 25 + 16 - 8 = 33$
 	- ## Triple intersections
-		- $N(S_1 \cup S_2 \cup S_3)=N(S_1) + N(S_2) + N(S_3) - \sum\limits_{1}^{n} (N(S_1) \cap N_S
+		- $N(S_1 \cup S_2 \cup S_3)=N(S_1) + N(S_2) + N(S_3) - \sum\limits_{1}^{n} (N(S_1) \cap N(S_n) - N(S_1)...\cap...N(S_n))$
+			-
 			-
 			- ![image.png](../assets/image_1664701872984_0.png)
 		-
