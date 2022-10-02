@@ -253,5 +253,6 @@ automatic-ignore:: true
 		- We're subtracting the intersection to *eliminate the double counting* from $S_1$ and $S_2$
 		- How many numbers between 1 and 100 are multiples of 4 or 6?
 			- $N(S_4)=25$, $N(S_6)=16$, $N(S_4 \cap S_6) = 8$ (multiples of 12)
-			- $N(S_4) + N(S_6)
+			- $N(S_4) + N(S_6) - N(S_4 \cap S_6) = 25 + 16 - 8 = 33$
+			-
 - # Graph theory
