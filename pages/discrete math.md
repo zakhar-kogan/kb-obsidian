@@ -247,12 +247,16 @@ automatic-ignore:: true
 			- ![image.png](../assets/image_1664700438624_0.png)
 		- When the Sample Space is a disjoint union = $S=S_1 + S_2$, $N(S)=N(S_1) + N(S_2)$
 	- ## Counting formula for two intersecting sets: N(A union B)=N(A)+N(B)-N(A intersect B)
+	  collapsed:: true
 		- When the Sample Space is a **union** $S=S_1 \cup S_2$, $N(S)=N(S_1)+N(S_2)-N(S_1 \cap S_2)$
 		  collapsed:: true
 			- ![image.png](../assets/image_1664700648102_0.png)
 		- We're subtracting the intersection to *eliminate the double counting* from $S_1$ and $S_2$
 		- How many numbers between 1 and 100 are multiples of 4 or 6?
+		  collapsed:: true
 			- $N(S_4)=25$, $N(S_6)=16$, $N(S_4 \cap S_6) = 8$ (multiples of 12)
 			- $N(S_4) + N(S_6) - N(S_4 \cap S_6) = 25 + 16 - 8 = 33$
-			-
+	- ## Triple intersections
+		- ![image.png](../assets/image_1664701872984_0.png)
+		-
 - # Graph theory
