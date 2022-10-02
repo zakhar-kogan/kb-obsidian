@@ -265,5 +265,5 @@ automatic-ignore:: true
 	- ## Combinations Formula
 		- How many ways can I pick 3 people from 5 people?
 			- Order **matters** => $5*4*3 = \frac{5!}{(5-3)!}$
-			- Order **doesn't matter** =>
+			- Order **doesn't matter** => P
 - # Graph theory
