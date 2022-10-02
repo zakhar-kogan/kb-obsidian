@@ -230,5 +230,6 @@ automatic-ignore:: true
 	  collapsed:: true
 		- ![image.png](../assets/image_1663493762414_0.png)
 - # Probability
-	-
+	- ## Permutations
+		- Letters in the word **FORM** => factorial of number of
 - # Graph theory
