@@ -240,5 +240,6 @@ automatic-ignore:: true
 			- 1-letter => $N(S_1)=26^1$
 			- 2-letter => $N(S_2)=26^2$
 			- 3-letter => $N(S_3)=26^3$
+			- Total: $26^1 + 26^2 + 26^3 = 18278$
 		-
 - # Graph theory
