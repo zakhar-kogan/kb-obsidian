@@ -231,5 +231,6 @@ automatic-ignore:: true
 		- ![image.png](../assets/image_1663493762414_0.png)
 - # Probability
 	- ## Permutations
-		- Letters in the word **FORM** => factorial of number of
+		- Letters in the word **FORM** (no repeats) => factorial of number of "slots": $N(S)=4*3*2*1=4!$
+		-
 - # Graph theory
