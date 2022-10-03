@@ -231,6 +231,7 @@ automatic-ignore:: true
 		- ![image.png](../assets/image_1663493762414_0.png)
 - # Probability
 	- ## Permutations
+		- No repeats allowed => $n^s$, where $n$ is number of possibilities and $s$ is the number of "slots" to fill
 		- Letters in the word **FORM** (no repeats) => factorial of number of "slots": $N(S)=4*3*2*1=4!$
 		- How many ways to order four letters from the word **FORMULA**? => $N(S)=7*6*5*4$ (we're using our possibilities with each slot) => $\frac {7!}{3!}=$
 		- The number of permutations that pick $r$ items from $n$ possibilities without repeats, in order, is $P(n, r) = \frac {n!}{(n-r)!}$
