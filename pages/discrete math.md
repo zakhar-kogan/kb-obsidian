@@ -231,10 +231,9 @@ automatic-ignore:: true
 		- ![image.png](../assets/image_1663493762414_0.png)
 - # Probability
 	- ## Permutations
-	  collapsed:: true
 		- Letters in the word **FORM** (no repeats) => factorial of number of "slots": $N(S)=4*3*2*1=4!$
 		- How many ways to order four letters from the word **FORMULA**? => $N(S)=7*6*5*4$ (we're using our possibilities with each slot) => $\frac {7!}{3!}=$
-		- The number of permutations that pick $r$ items from $n$ possibilities without repeats, in order, is $P(n, r) = \frac {n!}{(n-r)!}
+		- The number of permutations that pick $r$ items from $n$ possibilities without repeats, in order, is $P(n, r) = \frac {n!}{(n-r)!}$
 	- ## Summation rule for disjoint unions
 	  collapsed:: true
 		- How many 1, 2 or 3-letter passwords are there, using 26 letters? With repeats
