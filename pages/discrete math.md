@@ -269,5 +269,6 @@ automatic-ignore:: true
 			- Order **doesn't matter** => $\frac {P(5,3)}{ways\ to\ reorder}=\frac{P(5,3)}{3!}$
 			- Choose **r** objects out of **n** without caring about order => $\frac {n!}{r!(n-r)!}$
 	- ## Conditional probability
-		- $P(A|B) = \frac {P(A) \cap P(B)}{}
+		- $P(A|B) = \frac {P(A) \cap P(B)}{P(B)}$, i.e. probability of **both events happening** out of the probability of **just** B
+			-
 - # Graph theory
