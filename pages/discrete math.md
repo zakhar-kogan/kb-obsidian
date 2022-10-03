@@ -231,6 +231,7 @@ automatic-ignore:: true
 		- ![image.png](../assets/image_1663493762414_0.png)
 - # Probability
 	- ## Permutations
+	  collapsed:: true
 		- No repeats allowed => $n^s$, where $n$ is number of possibilities and $s$ is the number of "slots" to fill
 		- Letters in the word **FORM** (no repeats) => factorial of number of "slots": $N(S)=4*3*2*1=4!$
 		- How many ways to order four letters from the word **FORMULA**? => $N(S)=7*6*5*4$ (we're using our possibilities with each slot) => $\frac {7!}{3!}=$
@@ -267,6 +268,6 @@ automatic-ignore:: true
 			- Order **matters** => $5*4*3 = \frac{5!}{(5-3)!}$
 			- Order **doesn't matter** => $\frac {P(5,3)}{ways\ to\ reorder}=\frac{P(5,3)}{3!}$
 			- Choose **r** objects out of **n** without caring about order => $\frac {n!}{r!(n-r)!}$
-			- How many rearrangements of a word MISSISSIPPI are there?
-				-
+	- ## Conditional probability
+		- $P(A|B) = \frac {P(A) \cap P(B)}{}
 - # Graph theory
