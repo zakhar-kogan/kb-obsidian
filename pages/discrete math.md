@@ -270,5 +270,7 @@ automatic-ignore:: true
 			- Choose **r** objects out of **n** without caring about order => $\frac {n!}{r!(n-r)!}$
 	- ## Conditional probability
 		- $P(A|B) = \frac {P(A) \cap P(B)}{P(B)}$, i.e. probability of **both events happening** out of the probability of **just** B
-			-
+		  collapsed:: true
+			- ![image.png](../assets/image_1664773528868_0.png)
+		-
 - # Graph theory
