@@ -291,4 +291,8 @@ automatic-ignore:: true
 		- $S_n = P^n S_0$
 - # Linear programming + simplex method
 	- Optimize => $f(x,y) = 180x + 200y$
-	- Constraints => $
+	- Constraints => $5x + 4y <= 80
+	  10x + 20y <= 200
+	  x \geq 0
+	  y \geq 0$
+	-
