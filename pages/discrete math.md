@@ -280,4 +280,9 @@ automatic-ignore:: true
 	- Transition & tri-diagram
 	  collapsed:: true
 		- ![image.png](../assets/image_1664870031355_0.png)
-	- Transitiom
+	- Transition matrices
+		- \begin{pmatrix}
+		  0.75 & 0.4\\
+		  0.25 & 0.6
+		  \end{pmatrix}
+		-
