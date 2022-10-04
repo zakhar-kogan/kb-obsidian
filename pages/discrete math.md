@@ -276,4 +276,6 @@ automatic-ignore:: true
 			- ![image.png](../assets/image_1664773528868_0.png)
 - # Graph theory
 - # Markov chains
-	-
+	- A probabilistic state machine or graph
+	- Transition & tri-diagram
+		-
