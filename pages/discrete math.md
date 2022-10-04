@@ -230,6 +230,7 @@ automatic-ignore:: true
 	  collapsed:: true
 		- ![image.png](../assets/image_1663493762414_0.png)
 - # Probability
+  collapsed:: true
 	- ## Permutations
 	  collapsed:: true
 		- No repeats allowed => $n^s$, where $n$ is number of possibilities and $s$ is the number of "slots" to fill
@@ -264,6 +265,7 @@ automatic-ignore:: true
 			- ![image.png](../assets/image_1664701872984_0.png)
 		-
 	- ## Combinations Formula
+	  collapsed:: true
 		- How many ways can I pick 3 people from 5 people?
 			- Order **matters** => $5*4*3 = \frac{5!}{(5-3)!}$
 			- Order **doesn't matter** => $\frac {P(5,3)}{ways\ to\ reorder}=\frac{P(5,3)}{3!}$
@@ -273,3 +275,5 @@ automatic-ignore:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1664773528868_0.png)
 - # Graph theory
+- # Markov chains
+	-
