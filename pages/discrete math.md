@@ -289,4 +289,6 @@ automatic-ignore:: true
 		  \end{pmatrix}
 		- $S_1 = P*S_0$
 		- $S_n = P^n S_0$
-- # Linear programmin
+- # Linear programming + simplex method
+	- Optimize => $f(x,y) = 180x + 200y$
+	- Constraints => $
