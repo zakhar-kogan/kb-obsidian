@@ -287,4 +287,5 @@ automatic-ignore:: true
 		  B & 0.25 & 0.6
 		  \end{pmatrix}
 		- $S_1 = P*S_0$
+		- $S_n = P^n S_0$
 		-
