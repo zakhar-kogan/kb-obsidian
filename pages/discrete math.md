@@ -307,4 +307,4 @@ automatic-ignore:: true
 		- $f(\frac{40}{3}, \frac{10}{3}) = 180 \frac{40}{3} + 200 \frac {10}{3} = 3066.7$
 	- **Iso-value line** is tangent to the vertex and contains the "best solutions"
 	- Extreme values occur at **vertices** of a **bounded feasible region**
-	-
+	- x+18 = 2(y-)
