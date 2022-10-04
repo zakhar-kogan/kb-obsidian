@@ -282,7 +282,8 @@ automatic-ignore:: true
 		- ![image.png](../assets/image_1664870031355_0.png)
 	- Transition matrices
 		- \begin{pmatrix}
-		  0.75 & 0.4\\
-		  0.25 & 0.6
+		  \ & A & B\\
+		  A & 0.75 & 0.4\\
+		  B & 0.25 & 0.6
 		  \end{pmatrix}
-		-
+		- $S_1 =
