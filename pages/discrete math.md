@@ -298,3 +298,4 @@ automatic-ignore:: true
 	- Feasible region (with possible solutions)
 	  collapsed:: true
 		- ![image.png](../assets/image_1664871453260_0.png)
+	- Then we solve the
