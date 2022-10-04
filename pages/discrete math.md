@@ -278,4 +278,6 @@ automatic-ignore:: true
 - # Markov chains
 	- A probabilistic state machine or graph
 	- Transition & tri-diagram
-		-
+	  collapsed:: true
+		- ![image.png](../assets/image_1664870031355_0.png)
+	-
