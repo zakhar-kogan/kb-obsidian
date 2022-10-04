@@ -304,4 +304,4 @@ automatic-ignore:: true
 		- $20 - \frac{5}{4}x = 10 - \frac{x}{2}$
 		- $x = \frac{40}{3} \simeq 13.33$
 		- $y = \frac{10}{3} \simeq 3.33$
-		- $f(\frac{40}{3}, \frac{10}{3})
+		- $f(\frac{40}{3}, \frac{10}{3}) = 180 \frac{40}{3} + 200 \frac {10}
