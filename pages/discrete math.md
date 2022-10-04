@@ -295,4 +295,6 @@ automatic-ignore:: true
 	  $10x + 20y \leq 200$
 	  $x \geq 0$
 	  $y \geq 0$
-	-
+	- Feasible region (with possible solutions)
+	  collapsed:: true
+		- ![image.png](../assets/image_1664871453260_0.png)
