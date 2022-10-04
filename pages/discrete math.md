@@ -302,5 +302,6 @@ automatic-ignore:: true
 		- $5x + 4y = 80 \rightarrow y = 20 - \frac{5}{4}x$
 		- $10x + 20y = 200 \rightarrow y = 10 - \frac{x}{2}$
 		- $20 - \frac{5}{4}x = 10 - \frac{x}{2}$
-		- $x = \frac{40}{3} \appr 13.33$
-		-
+		- $x = \frac{40}{3} \simeq 13.33$
+		- $y = \frac{10}{3} \simeq 3.33$
+		- $f(\frac{40}{3},
