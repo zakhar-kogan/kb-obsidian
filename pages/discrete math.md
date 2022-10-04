@@ -286,4 +286,5 @@ automatic-ignore:: true
 		  A & 0.75 & 0.4\\
 		  B & 0.25 & 0.6
 		  \end{pmatrix}
-		- $S_1 =
+		- $S_1 = P*S_0$
+		-
