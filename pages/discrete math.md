@@ -276,6 +276,7 @@ automatic-ignore:: true
 			- ![image.png](../assets/image_1664773528868_0.png)
 - # Graph theory
 - # Markov chains
+  collapsed:: true
 	- A probabilistic state machine or graph
 	- Transition & tri-diagram
 	  collapsed:: true
@@ -288,4 +289,4 @@ automatic-ignore:: true
 		  \end{pmatrix}
 		- $S_1 = P*S_0$
 		- $S_n = P^n S_0$
-		-
+- # Linear programmin
