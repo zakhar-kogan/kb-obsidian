@@ -300,4 +300,7 @@ automatic-ignore:: true
 		- ![image.png](../assets/image_1664871453260_0.png)
 	- Then we solve the equations for one of the vertices:
 		- $5x + 4y = 80 \rightarrow y = 20 - \frac{5}{4}x$
-		- $10x + 20y = 200 \rightarrow y =
+		- $10x + 20y = 200 \rightarrow y = 10 - \frac{x}{2}$
+		- $20 - \frac{5}{4}x = 10 - \frac{x}{2}$
+		- $x = \frac{40}{3} \appr 13.33$
+		-
