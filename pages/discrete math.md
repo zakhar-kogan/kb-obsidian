@@ -305,4 +305,5 @@ automatic-ignore:: true
 		- $x = \frac{40}{3} \simeq 13.33$
 		- $y = \frac{10}{3} \simeq 3.33$
 		- $f(\frac{40}{3}, \frac{10}{3}) = 180 \frac{40}{3} + 200 \frac {10}{3} = 3066.7$
-		-
+	- Iso-value line is tangent to the vertex and contains the "best solutions"
+	- Extreme values
