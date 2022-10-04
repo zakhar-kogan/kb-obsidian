@@ -360,7 +360,7 @@
   :block/updated-at 1660772283210}
  {:block/name "discrete math",
   :block/created-at 1662020748493,
-  :block/updated-at 1664704603216}
+  :block/updated-at 1664872225864}
  {:block/name "doing",
   :block/created-at 1660390754052,
   :block/updated-at 1660390754052}
@@ -850,9 +850,15 @@
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664658191335,
   :block/updated-at 1664658191335}
+ {:block/name "oct 3rd, 2022",
+  :block/created-at 1664744434540,
+  :block/updated-at 1664744434540}
  {:block/name "oct 4th, 2021",
   :block/created-at 1660325576917,
   :block/updated-at 1660902665395}
+ {:block/name "oct 4th, 2022",
+  :block/created-at 1664835664149,
+  :block/updated-at 1664835664149}
  {:block/name "omega-3",
   :block/created-at 1661113361982,
   :block/updated-at 1661113361982}
