@@ -321,5 +321,6 @@ automatic-ignore:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1664959039083_0.png)
 			- ![image.png](../assets/image_1664959059611_0.png)
-		- **Subgraph**: $V_1, E_1$ is a *subgraph* of $V_2, E_2$ if it is a graph where $V_1 \ineq V_2$
+		- **Subgraph**: $V_1, E_1$ is a *subgraph* of $V_2, E_2$ if it is a graph where $V_1 \subseteq V_2$ and $E_1 \subset E_2$
+		-
 		-
