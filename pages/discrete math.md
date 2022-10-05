@@ -335,4 +335,4 @@ automatic-ignore:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1664959702467_0.png)
 		- **Euler path** walks through a graph using every edge exactly once. **Euler circuit** additionally starts and stops at the same vertex
-			-
+			- If a graph has an **Euler circuit**, every vertex has *even degree*
