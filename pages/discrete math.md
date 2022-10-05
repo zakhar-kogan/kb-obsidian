@@ -312,4 +312,5 @@ automatic-ignore:: true
 	- A graph $(v,e)$ has a set of **v**, vertices, and a set **e**, edges
 	  collapsed:: true
 		- ![image.png](../assets/image_1664958770538_0.png)
+	- Graph isomorphism => if you've got the same list of vertices and edges, your graphs are the same
 	-
