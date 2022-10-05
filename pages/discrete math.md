@@ -331,4 +331,7 @@ automatic-ignore:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1664959559525_0.png)
 		- Maximum No of connections possible in $n$ number of vertices is $n(n-1)/2$
+		- **Graph cycle**
+		  collapsed:: true
+			- ![image.png](../assets/image_1664959702467_0.png)
 		-
