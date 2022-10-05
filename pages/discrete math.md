@@ -334,4 +334,5 @@ automatic-ignore:: true
 		- **Graph cycle**
 		  collapsed:: true
 			- ![image.png](../assets/image_1664959702467_0.png)
-		- **Euler path**
+		- **Euler path** walks through a graph using every edge exactly once. **Euler circuit** additionally starts and stops at the same vertex
+			-
