@@ -290,6 +290,7 @@ automatic-ignore:: true
 		- $S_1 = P*S_0$
 		- $S_n = P^n S_0$
 - # Linear programming + simplex method
+  collapsed:: true
 	- Optimize => $f(x,y) = 180x + 200y$
 	- Constraints => $5x + 4y \leq 80$
 	  $10x + 20y \leq 200$
@@ -307,3 +308,5 @@ automatic-ignore:: true
 		- $f(\frac{40}{3}, \frac{10}{3}) = 180 \frac{40}{3} + 200 \frac {10}{3} = 3066.7$
 	- **Iso-value line** is tangent to the vertex and contains the "best solutions"
 	- Extreme values occur at **vertices** of a **bounded feasible region**
+- # Graph theory
+	-
