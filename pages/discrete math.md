@@ -313,4 +313,5 @@ automatic-ignore:: true
 	  collapsed:: true
 		- ![image.png](../assets/image_1664958770538_0.png)
 	- Graph isomorphism => if you've got the same list of vertices and edges, your graphs are the same
-	-
+	- ## Graph properties
+		- $K_n$ is the **complete graph** on *n* vertices, i.e. one of every
