@@ -334,4 +334,4 @@ automatic-ignore:: true
 		- **Graph cycle**
 		  collapsed:: true
 			- ![image.png](../assets/image_1664959702467_0.png)
-		-
+		- **Euler path**
