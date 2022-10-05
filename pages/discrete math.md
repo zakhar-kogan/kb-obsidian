@@ -328,5 +328,7 @@ automatic-ignore:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1664959374863_0.png)
 		- **Degree**: the *degree* of a vertex is a number of *edges* attached to each vertex
+		  collapsed:: true
 			- ![image.png](../assets/image_1664959559525_0.png)
+		- Maximum No of connections possible in $n$ number of vertices is $n(n-1)/2$
 		-
