@@ -327,5 +327,6 @@ automatic-ignore:: true
 		- **Induced subgraph**: $V_1, E_1$ is an *induced subgraph* of $V_2, E_2$ if it is a graph where $V_1 \subseteq V_2$ and $E_1$ contains all edges of $E_2$ which are subsets of $V_1$. Basically it's the largest possible subgraph for the given graph.
 		  collapsed:: true
 			- ![image.png](../assets/image_1664959374863_0.png)
-		-
+		- **Degree**: the *degree* of a vertex is a number of *edges* attached to each vertex
+			- ![image.png](../assets/image_1664959559525_0.png)
 		-
