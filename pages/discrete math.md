@@ -314,4 +314,7 @@ automatic-ignore:: true
 		- ![image.png](../assets/image_1664958770538_0.png)
 	- Graph isomorphism => if you've got the same list of vertices and edges, your graphs are the same
 	- ## Graph properties
-		- $K_n$ is the **complete graph** on *n* vertices, i.e. one of every
+		- Completeness: $K_n$ is the **complete graph** on *n* vertices, i.e. one of every possible edge
+		  collapsed:: true
+			- ![image.png](../assets/image_1664958983976_0.png)
+		- Connectedness: A graph is **connected** if you can get from any vertex to
