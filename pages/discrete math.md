@@ -309,6 +309,7 @@ automatic-ignore:: true
 	- **Iso-value line** is tangent to the vertex and contains the "best solutions"
 	- Extreme values occur at **vertices** of a **bounded feasible region**
 - # Graph theory
+  collapsed:: true
 	- A graph $(v,e)$ has a set of **v**, vertices, and a set **e**, edges
 	  collapsed:: true
 		- ![image.png](../assets/image_1664958770538_0.png)
