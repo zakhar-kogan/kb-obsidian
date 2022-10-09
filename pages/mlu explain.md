@@ -1,4 +1,5 @@
 - # Logistic regression
+  collapsed:: true
 	- https://mlu-explain.github.io/logistic-regression/
 	- logistic regression: a supervised learning algorithm that can be used to classify data into categories, or classes, by predicting the probability that an observation falls into a particular class based on its features.
 	- The typical setup for logistic regression is as follows: there is an outcome y*y* that falls into one of two categories (say 0 or 1), and the following equation is used to estimate the probability that y*y* belongs to a particular category given inputs $X=(x_1​,x_2​,...,x _k):$
@@ -12,4 +13,7 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1665346959257_0.png)
 	- To understand **log-odds**, we must first understand odds. Odds are calculated as $\frac{p}{1-p}$​. This gives the ratio of the probability of a sunny day to that of a rainy day. Say that the probability of a sunny day is *0.75*. This implies that the probability of a rainy day is *0.25.* The odds would then be $\frac{0.75}{0.25}$ = 3, which means that the odds of a sunny day are 3 to 1. If the probability of rain is 0.5, then the odds would be $\frac{0.5}{0.5} = 1$, meaning that the odds of a sunny day are 1 to 1, so sun and rain are equally likely. Taking the log of the odds yields the log-odds, and taking ratios of log-odds yields log-odds ratios.
--
+- # ROC & AUC curves
+	- https://mlu-explain.github.io/roc-auc/
+	- ROC curves were first employed during World War 2 to analyze radar signals: After missing the Japanese aircraft that carried out the attack on Pearl Harbor, the US wanted their radar receiver operators to better identify aircraft from signal noise (e.g. clouds). The operator's ability to identify as many true positives as possible while minimizing false positives was named the *Receiver Operating Characteristic*, and the curve analyzing their predictive abilities was called the ROC Curve. Today, ROC curves are used in a number of contexts, including clinical settings (to assess the diagnostic accuracy of a test) and machine learning (the focus of this article).
+	-
