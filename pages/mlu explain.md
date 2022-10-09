@@ -19,4 +19,5 @@
 	- In particular, the ROC curve is composed by plotting a model's True-Positive Rate (TPR) versus its False-Positive Rate (FPR) across all possible classification thresholds, where:
 		- *True Positive Rate (TPR)*: The probability that a positive sample is correctly predicted in the positive class. E.g., the percentage of radar signals predicted to be airplanes that actually are airplanes.
 		- *False Positive Rate (FPR)*: The probability that a negative sample is incorrectly predicted in the positive class. E.g., the percentage of radar signals predicted to be airplanes that actually are *not* airplanes.
+- ![image.png](../assets/image_1665347850956_0.png)
 -
