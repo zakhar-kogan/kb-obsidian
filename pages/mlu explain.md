@@ -1,5 +1,6 @@
 - # Logistic regression
 	- https://mlu-explain.github.io/logistic-regression/
 	- logistic regression: a supervised learning algorithm that can be used to classify data into categories, or classes, by predicting the probability that an observation falls into a particular class based on its features.
-	- The typical setup for logistic regression is as follows: there is an outcome y*y* that falls into one of two categories (say 0 or 1), and the following equation is used to estimate the probability that y*y* belongs to a particular category given inputs $X = (x_1, x_2, ..., x_k)*X*=(*x*1​,*x*2​,...,*x**k*​):$
+	- The typical setup for logistic regression is as follows: there is an outcome y*y* that falls into one of two categories (say 0 or 1), and the following equation is used to estimate the probability that y*y* belongs to a particular category given inputs $X=(x_1​,x_2​,...,x _k):$
+		- ![image.png](../assets/image_1665346708331_0.png)
 	-
