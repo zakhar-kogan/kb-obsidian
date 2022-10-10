@@ -74,4 +74,6 @@
 - # Bias variance tradeoff
 	- https://mlu-explain.github.io/bias-variance/
 	- Prediction errors can be decomposed into two main subcomponents of interest: error from bias, and error from variance. The tradeoff between a model's ability to minimize bias and variance is foundational to training machine learning models, so it's worth taking the time to understand the concept.
-	-
+	- The test error is even higher than the train error =>
+	- In this case, we say that our model is underfitting the data: our model is so simple that it fails to adequately capture the relationships in the data. The high test error is a direct result of the lack of complexity of our model.
+	- An underfit model is one that is too simple to accurately capture the relationships between its features X and label Y.
