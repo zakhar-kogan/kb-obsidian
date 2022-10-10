@@ -81,4 +81,4 @@
 	- In the general case, **mean-squared error** can be decomposed into three components: error due to bias, error to to variance, and error due to noise => $Error = {Bias}^2 + {Variance} + {Noise}$
 	- **Bias** represents the difference between the average prediction and the true value. For underfit (low-complexity) models, the majority of our error comes from bias.
 	- **Variance** measures how much, on average, predictions vary for a given data point. Predictions from overfit (high-complexity) models show a lot more error from variance than from bias.
-	-
+	- By trading some bias for variance (i.e. increasing the complexity of our model), and without going overboard, we can find a balanced model for our dataset.The ideal model aims to minimize both bias and variance. It lays in the sweet spot - not too simple, nor too complex. Achieving such a balance will yield the minimum error.
