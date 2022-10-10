@@ -79,5 +79,6 @@
 	- Unsurprisingly, our model is **too complicated**. We say that it **overfits** the data. Instead of learning the true trends underlying our dataset, it memorized noise and, as a result, the model is not generalizable to datasets beyond its training data.
 	- Overfitting refers to the case when a model is so specific to the data on which it was trained that it is no longer applicable to different datasets. In situations where your **training error is low but your test error is high**, you've likely overfit your model.
 	- In the general case, **mean-squared error** can be decomposed into three components: error due to bias, error to to variance, and error due to noise => $Error = {Bias}^2 + {Variance} + {Noise}$
-	- **Bias** represents the difference between the average prediction and the true value
+	- **Bias** represents the difference between the average prediction and the true value. For underfit (low-complexity) models, the majority of our error comes from bias.
+	- **Variance** measures how much, on average, predictions vary for a given data point. Predictions from overfit (high-complexity) models show a lot more error from variance than from bias.
 	-
