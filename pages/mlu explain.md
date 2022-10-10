@@ -24,4 +24,10 @@
 	- **AUC** ranges in value from 0 to 1, with higher numbers indicating better performance. A perfect classifier will have an AUC of 1, while a perfectly random classifier an AUC of 0.5. A model that always predicts that a negative sample is more likely to have a positive label than a positive sample will have AUC of 0, indicating severe failure on the modeling side. Scores in the range [0.5, 1] imply good performance, while anything under 0.5 indicates very poor performance.
 	- The *AUC* is the probability that the model will rank a randomly chosen positive example more highly than a randomly chosen negative example.
 - # Training, test and evaluation sets
+	- https://mlu-explain.github.io/train-test-validation/
+	- In most supervised machine learning tasks, best practice recommends to split your data into three independent sets: a **training set**, a **testing set**, and a **validation set**.
+	- Randomly split our data into three independent sets:
+		- **Training Set**: The dataset that we feed our model to learn potential underlying patterns and relationships.
+		- **Validation Set**: The dataset that we use to understand our model's performance across different model types and hyperparameter choices.
+		- **Test Set**: The dataset that we use to approximate our model's unbiased accuracy in the wild.
 	-
