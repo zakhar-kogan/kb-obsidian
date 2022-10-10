@@ -46,4 +46,7 @@
 	- One such metric is **precision**. Precision is the ratio of correctly predicted positive classes to *all items predicted to be positive:* $\frac{\mathrm{TP}}{\mathrm{TP + FP}} = \frac{3 }{6} \approx 50\%$. Intuitively, this tells us how correct, or *precise*, are our model's positive predictions.
 	- A related metric is recall. Recall is the ratio of correctly predicted positive classes to *all items that are actually positive:* $\frac{\mathrm{TP}}{\mathrm{TP + FN}} = \frac{6 }{8} \approx 75\%$. It measures how many of the actual positive instances we were able to correctly predict (or *recall*).
 	- Ideally, our model would have both perfect precision *and* perfect recall. However, in practice there often exists a tradeoff between the two.
-	-
+	- Thus, it's important to understand and decide ahead of time what's more consequential, False Positives or False Negatives, to investigate how the tradeoff manifests for your particular dataset, and to design your model accordingly.
+	- Given this competing tradeoff, it would be very convenient to have a single performance metric that takes into account *both* precision and recall. And, given that I wrote that sentence in the first place, you can probably guess that there is. And that it's called the F1-score... Nice.
+	- The F1-score (also sometimes called the *F-Measure*) is a single performance metric that takes both precision and recall into account. It's calculated by taking the harmonic mean of the two metrics: $F_1 = \frac{2\cdot {Precision}\cdot {Recall}}
+	- {\mathrm{Precision}+\mathrm{Recall}} \end{aligned}*F*1​=Precision+Recall2⋅Precision⋅Recall​​which is equivalent to\begin{aligned}\frac{\mathrm{TP}}{\mathrm{TP} + \frac{1}{2}(\mathrm{FP} + \mathrm{FN})}\end{aligned}.TP+21​(FP+FN)TP​​.
