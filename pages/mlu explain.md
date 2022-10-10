@@ -43,7 +43,7 @@
 		- **False Positives (FP):** The number of negative instances incorrectly classified as positive. E.g., predicting an email is spam when it actually is not spam.
 		- **True Negatives (TN):** The number of negative instances correctly classified as negative. E.g., predicting an email is not spam when it actually is not spam.
 		- **False Negatives (FN):** The number of positive instances incorrectly classified as negative. E.g., predicting an email is not spam when it actually is spam.
-	- Our model's accuracy is then: $\frac{\mathrm{TP + TN}}{\mathrm{TP + FP + TN + FN}} = \frac{26 }{34} \end{aligned}TP+FP+TN+FNTP+TN​=3426​​ \approx 76\%≈76%
+	- Our model's accuracy is then: $\frac{\mathrm{TP + TN}}{\mathrm{TP + FP + TN + FN}} = \frac{26 }{34} \approx 76\%$
 	- One such metric is **precision**. Precision is the ratio of correctly predicted positive classes to *all items predicted to be positive:* $\frac{\mathrm{TP}}{\mathrm{TP + FP}} = \frac{3 }{6} \approx 50\%$. Intuitively, this tells us how correct, or *precise*, are our model's positive predictions.
 	- A related metric is recall. Recall is the ratio of correctly predicted positive classes to *all items that are actually positive:* $\frac{\mathrm{TP}}{\mathrm{TP + FN}} = \frac{6 }{8} \approx 75\%$. It measures how many of the actual positive instances we were able to correctly predict (or *recall*).
 	- Ideally, our model would have both perfect precision *and* perfect recall. However, in practice there often exists a tradeoff between the two.
@@ -51,4 +51,6 @@
 	- Given this competing tradeoff, it would be very convenient to have a single performance metric that takes into account *both* precision and recall. And, given that I wrote that sentence in the first place, you can probably guess that there is. And that it's called the F1-score... Nice.
 	- The **F1-score** (also sometimes called the *F-Measure*) is a single performance metric that takes both precision and recall into account. It's calculated by taking the harmonic mean of the two metrics: $F_1 = \frac{2\cdot {Precision}\cdot {Recall}} {\mathrm{Precision}+\mathrm{Recall}}$, which is equivalent to $\frac{\mathrm{TP}}{\mathrm{TP} + \frac{1}{2}(\mathrm{FP} + \mathrm{FN})}$
 	- For this reason, it *takes values from zero to one*, with values closer to one indicating better performance, and values closer to zero indicating poorer performance. In situations where *either* precision or recall are poor, the F1-score will also be poor. Only when *both* precision and recall have good performance will the F1-score be high.
-	-
+	- ## The trade-off
+		-
+-
