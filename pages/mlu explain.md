@@ -44,4 +44,5 @@
 		- **True Negatives (TN):** The number of negative instances correctly classified as negative. E.g., predicting an email is not spam when it actually is not spam.
 		- **False Negatives (FN):** The number of positive instances incorrectly classified as negative. E.g., predicting an email is not spam when it actually is spam.
 	- One such metric is **precision**. Precision is the ratio of correctly predicted positive classes to *all items predicted to be positive:* $\frac{\mathrm{TP}}{\mathrm{TP + FP}} = \frac{3 }{6} \approx 50\%$. Intuitively, this tells us how correct, or *precise*, are our model's positive predictions.
+	- A related metric is recall. Recall is the ratio of correctly predicted positive classes to *all items that are actually positive:* $\frac{\mathrm{TP}}{\mathrm{TP + FN}} = \frac{6 }{8} \approx 75\%$. It measures how many of the actual positive instances we were able to correctly predict (or *recall*).
 -
