@@ -62,4 +62,6 @@
 	- https://mlu-explain.github.io/random-forest/
 	- In machine learning, this concept of multiple models working together to come to an aggregate prediction is called **ensemble learning.**
 		- ![image.png](../assets/image_1665391593680_0.png)
+	- Ensemble learning creates a stronger model by aggregating the predictions of multiple weak models, such as decision trees.
+	- **Condorcet’s Jury Theorem** suggests that the majority vote aggregation can have better accuracy than the individual models. There are other methods to aggregate predictions, such as weighted majority vote.
 	-
