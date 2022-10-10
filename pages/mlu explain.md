@@ -32,4 +32,5 @@
 		- **Test Set**: The dataset that we use to approximate our model's unbiased accuracy in the wild.
 	- The training set is the dataset that we employ to train our model. The training set should be as representative as possible of the population that we are trying to model. Additionally, we need to be careful and ensure that it is as unbiased as possible, as any bias at this stage may be propagated downstream during inference.
 	- **This is where the validation set comes in** — it acts as an independent, unbiased dataset for comparing the performance of different algorithms trained on our training set.
+	- Once we have used the validation set to determine the algorithm and parameter choices that we would like to use in production, the **test set** is used to approximate the models's true performance in the wild.
 	-
