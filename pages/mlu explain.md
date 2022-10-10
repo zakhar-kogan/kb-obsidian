@@ -36,4 +36,6 @@
 	- Remember that the test performance is not a number to optimize over — it is a metric to assess future performance.
 - # Precision & recall
 	- https://mlu-explain.github.io/precision-recall/
+	- Evaluating classifiers requires careful consideration. In this article, we'll explore why accuracy isn't always a great measure of classification performance, and discuss three other evaluation metrics often used in its place: **precision**, **recall**, and the **F1-score**. To help qualify the importance of these metrics, we'll make use of the **confusion matrix**, a simple technique for visualizing the performance of a classification model.
+	  id:: 6343d515-a31c-486a-9e62-3b0c9dc50710
 	-
