@@ -71,4 +71,7 @@
 		- We previously discussed [how decision tree model suffers from high variance.](https://mlu-explain.github.io/decision-tree/) However, this variance among trees is employed in the random forest as a feature, not a bug. The inventor of the random forest model Leo Breiman says in his paper *"[o]ur results indicate that better (lower generalization error) random forests have lower correlation between classifiers and higher strength."* [Random Forest Article]
 		- The high variance of the decision tree model can help keep the correlation among trees low. The Bagging Method as well as the Feature Selection are the key innovations to keep correlation low.
 	- As expected, the random forest model performs the best overall even if there are trees with **very low accuracy.**
--
+- # Bias variance tradeoff
+	- https://mlu-explain.github.io/bias-variance/
+	- Prediction errors can be decomposed into two main subcomponents of interest: error from bias, and error from variance. The tradeoff between a model's ability to minimize bias and variance is foundational to training machine learning models, so it's worth taking the time to understand the concept.
+	-
