@@ -38,4 +38,8 @@
 	- https://mlu-explain.github.io/precision-recall/
 	- Evaluating classifiers requires careful consideration. In this article, we'll explore why accuracy isn't always a great measure of classification performance, and discuss three other evaluation metrics often used in its place: **precision**, **recall**, and the **F1-score**. To help qualify the importance of these metrics, we'll make use of the **confusion matrix**, a simple technique for visualizing the performance of a classification model.
 	  id:: 6343d515-a31c-486a-9e62-3b0c9dc50710
-	-
+	- Instead of looking at the model's raw accuracy (the number of correctly assigned categories divided by te total number of predictions) , the confusion matrix decomposes predictions into several categories of interest, making explicit how one class may be *confused* for another:
+		- **True Positives (TP):** The number of positive instances correctly classified as positive. E.g., predicting an email as spam when it actually is spam.
+		- **False Positives (FP):** The number of negative instances incorrectly classified as positive. E.g., predicting an email is spam when it actually is not spam.
+		- **True Negatives (TN):** The number of negative instances correctly classified as negative. E.g., predicting an email is not spam when it actually is not spam.
+		- **False Negatives (FN):** The number of positive instances incorrectly classified as negative. E.g., predicting an email is not spam when it actually is spam.
