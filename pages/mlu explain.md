@@ -67,4 +67,5 @@
 	- The **Bagging (Bootstrap Aggregating) method** randomly draws a fixed number of samples from the training set with replacement. This means that a data point can be drawn more than once.
 	- ## Decision tree
 		- ![image.png](../assets/image_1665392112378_0.png)
-		-
+		- We previously discussed [how decision tree model suffers from high variance.](https://mlu-explain.github.io/decision-tree/) However, this variance among trees is employed in the random forest as a feature, not a bug. The inventor of the random forest model Leo Breiman says in his paper *"[o]ur results indicate that better (lower generalization error) random forests have lower correlation between classifiers and higher strength."* [Random Forest Article]
+		- The high variance of the decision tree model can help keep the correlation among trees low. The Bagging Method as well as the Feature Selection are the key innovations to keep correlation low.
