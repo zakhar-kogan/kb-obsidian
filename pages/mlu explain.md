@@ -77,4 +77,5 @@
 	- The test error is even higher than the train error => In this case, we say that our model is underfitting the data: our model is so simple that it fails to adequately capture the relationships in the data. The high test error is a direct result of the lack of complexity of our model.
 	- An **underfit** model is one that is **too simple** to accurately capture the relationships between its features X and label Y.
 	- Unsurprisingly, our model is **too complicated**. We say that it **overfits** the data. Instead of learning the true trends underlying our dataset, it memorized noise and, as a result, the model is not generalizable to datasets beyond its training data.
-	- Overfitting refers to the case when a model is so specific to the data on which it was trained that it is no longer applicable to different datasets.
+	- Overfitting refers to the case when a model is so specific to the data on which it was trained that it is no longer applicable to different datasets. In situations where your **training error is low but your test error is high**, you've likely overfit your model.
+	-
