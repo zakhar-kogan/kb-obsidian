@@ -51,6 +51,6 @@
 	- Given this competing tradeoff, it would be very convenient to have a single performance metric that takes into account *both* precision and recall. And, given that I wrote that sentence in the first place, you can probably guess that there is. And that it's called the F1-score... Nice.
 	- The **F1-score** (also sometimes called the *F-Measure*) is a single performance metric that takes both precision and recall into account. It's calculated by taking the harmonic mean of the two metrics: $F_1 = \frac{2\cdot {Precision}\cdot {Recall}} {\mathrm{Precision}+\mathrm{Recall}}$, which is equivalent to $\frac{\mathrm{TP}}{\mathrm{TP} + \frac{1}{2}(\mathrm{FP} + \mathrm{FN})}$
 	- For this reason, it *takes values from zero to one*, with values closer to one indicating better performance, and values closer to zero indicating poorer performance. In situations where *either* precision or recall are poor, the F1-score will also be poor. Only when *both* precision and recall have good performance will the F1-score be high.
-	- ## The trade-off
+	- ## The tradeoff
+		- ![image.png](../assets/image_1665390960647_0.png)
 		-
--
