@@ -22,5 +22,5 @@
 - ![image.png](../assets/image_1665347850956_0.png)
 - **AUC** (sometimes written AUROC) is just the area underneath the entire ROC curve. Think integration from calculus. AUC provides us with a nice, single measure of performance for our classifiers, independent of the exact classification threshold chosen. This allows us to compare models to each other without even looking at their ROC curves (though visualizing the performance of your models is never a bad idea!).
 - **AUC** ranges in value from 0 to 1, with higher numbers indicating better performance. A perfect classifier will have an AUC of 1, while a perfectly random classifier an AUC of 0.5. A model that always predicts that a negative sample is more likely to have a positive label than a positive sample will have AUC of 0, indicating severe failure on the modeling side. Scores in the range [0.5, 1] imply good performance, while anything under 0.5 indicates very poor performance.
-- *The **AUC** is the probability that the model will rank a randomly chosen positive example more highly than a randomly chosen negative example.*
+- *The *AUC** is the probability that the model will rank a randomly chosen positive example more highly than a randomly chosen negative example.*
 -
