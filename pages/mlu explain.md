@@ -59,6 +59,7 @@
 		- ![image.png](../assets/image_1665390960647_0.png)
 		- When it comes to evaluating classifiers (or any type of model), the above metrics are by no means exhaustive. Many other techniques exist, including *calibration, popular diagnostic tools (specificity, likelihood ratios, etc.), and expectation frameworks*.
 - # Random forest
+  collapsed:: true
 	- https://mlu-explain.github.io/random-forest/
 	- In machine learning, this concept of multiple models working together to come to an aggregate prediction is called **ensemble learning.**
 		- ![image.png](../assets/image_1665391593680_0.png)
