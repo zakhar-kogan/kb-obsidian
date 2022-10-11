@@ -85,4 +85,5 @@
 	- By trading some bias for variance (i.e. increasing the complexity of our model), and without going overboard, we can find a balanced model for our dataset.The ideal model aims to minimize both bias and variance. It lays in the sweet spot - not too simple, nor too complex. Achieving such a balance will yield the minimum error.
 - # Decision trees
 	- https://mlu-explain.github.io/decision-tree/
+	- A Decision Tree consists of a series of sequential decisions, or decision nodes, on some data set's features. The resulting flow-like structure is navigated via conditional control statements, or if-then rules, which split each decision node into two or more subnodes. Leaf nodes, also known as terminal nodes, represent prediction outputs for the model.
 	-
