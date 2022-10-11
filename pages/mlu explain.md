@@ -72,6 +72,7 @@
 		- The high variance of the decision tree model can help keep the correlation among trees low. The Bagging Method as well as the Feature Selection are the key innovations to keep correlation low.
 	- As expected, the random forest model performs the best overall even if there are trees with **very low accuracy.**
 - # Bias variance tradeoff
+  collapsed:: true
 	- https://mlu-explain.github.io/bias-variance/
 	- Prediction errors can be decomposed into two main subcomponents of interest: error from bias, and error from variance. The tradeoff between a model's ability to minimize bias and variance is foundational to training machine learning models, so it's worth taking the time to understand the concept.
 	- The test error is even higher than the train error => In this case, we say that our model is underfitting the data: our model is so simple that it fails to adequately capture the relationships in the data. The high test error is a direct result of the lack of complexity of our model.
@@ -82,3 +83,6 @@
 	- **Bias** represents the difference between the average prediction and the true value. For underfit (low-complexity) models, the majority of our error comes from bias.
 	- **Variance** measures how much, on average, predictions vary for a given data point. Predictions from overfit (high-complexity) models show a lot more error from variance than from bias.
 	- By trading some bias for variance (i.e. increasing the complexity of our model), and without going overboard, we can find a balanced model for our dataset.The ideal model aims to minimize both bias and variance. It lays in the sweet spot - not too simple, nor too complex. Achieving such a balance will yield the minimum error.
+- # Decision trees
+	- https://mlu-explain.github.io/decision-tree/
+	-
