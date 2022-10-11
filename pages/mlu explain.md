@@ -59,7 +59,6 @@
 		- ![image.png](../assets/image_1665390960647_0.png)
 		- When it comes to evaluating classifiers (or any type of model), the above metrics are by no means exhaustive. Many other techniques exist, including *calibration, popular diagnostic tools (specificity, likelihood ratios, etc.), and expectation frameworks*.
 - # Random forest
-  collapsed:: true
 	- https://mlu-explain.github.io/random-forest/
 	- In machine learning, this concept of multiple models working together to come to an aggregate prediction is called **ensemble learning.**
 		- ![image.png](../assets/image_1665391593680_0.png)
@@ -67,6 +66,7 @@
 	- **Condorcet’s Jury Theorem** suggests that the majority vote aggregation can have better accuracy than the individual models. There are other methods to aggregate predictions, such as weighted majority vote.
 	- The **Bagging (Bootstrap Aggregating) method** randomly draws a fixed number of samples from the training set with replacement. This means that a data point can be drawn more than once.
 	- ## Decision tree
+	  collapsed:: true
 		- ![image.png](../assets/image_1665392112378_0.png)
 		- We previously discussed [how decision tree model suffers from high variance.](https://mlu-explain.github.io/decision-tree/) However, this variance among trees is employed in the random forest as a feature, not a bug. The inventor of the random forest model Leo Breiman says in his paper *"[o]ur results indicate that better (lower generalization error) random forests have lower correlation between classifiers and higher strength."* [Random Forest Article]
 		- The high variance of the decision tree model can help keep the correlation among trees low. The Bagging Method as well as the Feature Selection are the key innovations to keep correlation low.
@@ -84,6 +84,7 @@
 	- **Variance** measures how much, on average, predictions vary for a given data point. Predictions from overfit (high-complexity) models show a lot more error from variance than from bias.
 	- By trading some bias for variance (i.e. increasing the complexity of our model), and without going overboard, we can find a balanced model for our dataset.The ideal model aims to minimize both bias and variance. It lays in the sweet spot - not too simple, nor too complex. Achieving such a balance will yield the minimum error.
 - # Decision trees
+  collapsed:: true
 	- https://mlu-explain.github.io/decision-tree/
 	- A Decision Tree consists of a series of sequential decisions, or decision nodes, on some data set's features. The resulting flow-like structure is navigated via conditional control statements, or if-then rules, which split each decision node into two or more subnodes. Leaf nodes, also known as terminal nodes, represent prediction outputs for the model.
 	- To train a Decision Tree from data means to figure out the order in which the decisions should be assembled from the root to the leaves. New data may then be passed from the top down until reaching a leaf node, representing a prediction for that data point.
@@ -110,4 +111,4 @@
 	- ## Decision trees' weakness
 		- DTs can be **extremely sensitive to small perturbations in the data**: a minor change in the training examples can result in a drastic change in the structure of the Decision Tree.
 		- If left unchecked, the ID3 algorithm to train Decision Trees will **work endlessly to minimize entropy**. It will continue splitting the data until all leaf nodes are completely pure - that is, consisting of only one class. Such a process may yield very deep and complex Decision Trees.
-		-
+		- Perhaps ironically, one way to alleviate the instability induced by perturbations is to introduce an extra layer of randomness in the training process. In practice this can be achieved by creating collections of Decision Trees trained on slightly different versions of the data set, the combined predictions of which do not suffer so heavily from high variance. This approach opens the door to one of the most successful Machine Learning algorithms thus far: random forests.
