@@ -96,10 +96,12 @@
 		- $H=0$ only if all but one of the $p_i$​ are zero, this one having the value of 1. Thus the entropy vanishes only when there is no uncertainty in the outcome, meaning that the sample is completely unsurprising.
 		- $H$ is maximum when all the $p_i$​ are equal. This is the most uncertain, or 'impure', situation.
 		- Any change towards the equalization of the probabilities $(p_1, p_2, \dots, p_n)$ increases $H$
+		- An alternative to the entropy for the construction of Decision Trees is the [Gini impurity](https://en.wikipedia.org/wiki/Decision_tree_learning#Gini_impurity). This quantity is also a measure of information and can be seen as a variation of Shannon's entropy. Decision trees trained using entropy or Gini impurity are comparable, and only in a few cases do results differ considerably. In the case of imbalanced data sets, entropy might be more prudent. Yet Gini might train faster as it does not make use of logarithms.
 	- ## Information gain
 		- As the name implies, **information gain** measures an amount the information that we gain. It does so using entropy. The idea is to subtract from the entropy of our data before the split the entropy of each possible partition thereafter. We then select the split that yields the largest reduction in entropy, or equivalently, the largest increase in information.
 		- The core algorithm to calculate information gain is called [ID3](https://en.wikipedia.org/wiki/ID3_algorithm). It's a recursive procedure that starts from the root node of the tree and iterates top-down on all non-leaf branches in a greedy manner, calculating at each depth the difference in entropy.
 		- ### ID3 Algorithm Steps
+		  collapsed:: true
 			- Calculate the entropy associated to every feature of the data set.
 			- Partition the data set into subsets using different features and cutoff values. For each, compute the information gain $\Delta IG$ as the difference in entropy before and after the split using the formula above. For the total entropy of all children nodes after the split, use the weighted average taking into account $N_{\text{child}}$​, i.e. how many of the $N$ samples end up on each child branch.
 			- Identify the partition that leads to the maximum information gain. Create a decision node on that feature and split value.
