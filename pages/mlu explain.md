@@ -109,4 +109,5 @@
 			- Recurse on all subsets. Recursion stops if after a split all elements in a child node are of the same type. Additional stopping conditions may be imposed, such as requiring a minimum number of samples per leaf to continue splitting, or finishing when the trained tree has reached a given maximum depth.
 	- ## Decision trees' weakness
 		- DTs can be **extremely sensitive to small perturbations in the data**: a minor change in the training examples can result in a drastic change in the structure of the Decision Tree.
+		- If left unchecked, the ID3 algorithm to train Decision Trees will **work endlessly to minimize entropy**. It will continue splitting the data until all leaf nodes are completely pure - that is, consisting of only one class. Such a process may yield very deep and complex Decision Trees.
 		-
