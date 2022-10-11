@@ -91,12 +91,18 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1665466913743_0.png)
 	- **Don't Go Too Deep.** If we do, the resulting regions would start becoming increasingly complex, and our tree would become unreasonably deep. Such a Decision Tree would learn too much from the noise of the training examples and not enough generalizable rules.
-	- **Entropy** measures the amount of information of some variable or event. We'll make use of it to identify regions consisting of a large number of similar (pure) or dissimilar (impure) elements.
-	- ### Entropy Properties
+	- ### Entropy & its properties
+		- **Entropy** measures the amount of information of some variable or event. We'll make use of it to identify regions consisting of a large number of similar (pure) or dissimilar (impure) elements.
 		- $H=0$ only if all but one of the $p_i$​ are zero, this one having the value of 1. Thus the entropy vanishes only when there is no uncertainty in the outcome, meaning that the sample is completely unsurprising.
 		- $H$ is maximum when all the $p_i$​ are equal. This is the most uncertain, or 'impure', situation.
 		- Any change towards the equalization of the probabilities $(p_1, p_2, \dots, p_n)$ increases $H$
-	-
-	- As the name implies, **information gain** measures an amount the information that we gain. It does so using entropy. The idea is to subtract from the entropy of our data before the split the entropy of each possible partition thereafter. We then select the split that yields the largest reduction in entropy, or equivalently, the largest increase in information.
-	- The core algorithm to calculate information gain is called [ID3](https://en.wikipedia.org/wiki/ID3_algorithm). It's a recursive procedure that starts from the root node of the tree and iterates top-down on all non-leaf branches in a greedy manner, calculating at each depth the difference in entropy.
-	-
+	- ## Information gain
+		- As the name implies, **information gain** measures an amount the information that we gain. It does so using entropy. The idea is to subtract from the entropy of our data before the split the entropy of each possible partition thereafter. We then select the split that yields the largest reduction in entropy, or equivalently, the largest increase in information.
+		- The core algorithm to calculate information gain is called [ID3](https://en.wikipedia.org/wiki/ID3_algorithm). It's a recursive procedure that starts from the root node of the tree and iterates top-down on all non-leaf branches in a greedy manner, calculating at each depth the difference in entropy.
+		- ### ID3 Algorithm Steps
+			- Calculate the entropy associated to every feature of the data set.
+			- Partition the data set into subsets using different features and cutoff values. For each, compute the information gain $\Delta IG$ as the difference in entropy before and after the split using the formula above. For the total entropy of all children nodes after the split, use the weighted average taking into account $N_{\text{child}}$​, i.e. how many of the N*N* samples end up on each child branch.
+			- Identify the partition that leads to the maximum information gain. Create a decision node on that feature and split value.
+			- When no further splits can be done on a subset, create a leaf node and label it with the most common class of the data points within it if doing classification or with the average value if doing regression.
+			- Recurse on all subsets. Recursion stops if after a split all elements in a child node are of the same type. Additional stopping conditions may be imposed, such as requiring a minimum number of samples per leaf to continue splitting, or finishing when the trained tree has reached a given maximum depth.
+-
