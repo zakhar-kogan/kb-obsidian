@@ -97,3 +97,6 @@
 		- $H$ is maximum when all the $p_i$​ are equal. This is the most uncertain, or 'impure', situation.
 		- Any change towards the equalization of the probabilities $(p_1, p_2, \dots, p_n)$ increases $H$
 	-
+	- As the name implies, **information gain** measures an amount the information that we gain. It does so using entropy. The idea is to subtract from the entropy of our data before the split the entropy of each possible partition thereafter. We then select the split that yields the largest reduction in entropy, or equivalently, the largest increase in information.
+	- The core algorithm to calculate information gain is called [ID3](https://en.wikipedia.org/wiki/ID3_algorithm). It's a recursive procedure that starts from the root node of the tree and iterates top-down on all non-leaf branches in a greedy manner, calculating at each depth the difference in entropy.
+	-
