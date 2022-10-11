@@ -1,9 +1,4 @@
-- # Чт
-  collapsed:: true
-  :LOGBOOK:
-  CLOCK: [2022-10-11 Tue 09:16:07]
-  :END:
-  о такое венчурный фонд и как он работает?
+- # Что такое венчурный фонд и как он работает?
 	- https://www.youtube.com/watch?v=MhuG_K-Crh0
 	- ![image.png](../assets/image_1664918713408_0.png)
 	- ![image.png](../assets/image_1664918726234_0.png)
@@ -45,5 +40,7 @@
 	- ![image.png](../assets/image_1664963590321_0.png)
 	-
 	-
-	-
+- fdvdfb
+-
+-
 -
