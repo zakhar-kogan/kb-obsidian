@@ -87,3 +87,7 @@
 	- https://mlu-explain.github.io/decision-tree/
 	- A Decision Tree consists of a series of sequential decisions, or decision nodes, on some data set's features. The resulting flow-like structure is navigated via conditional control statements, or if-then rules, which split each decision node into two or more subnodes. Leaf nodes, also known as terminal nodes, represent prediction outputs for the model.
 	- To train a Decision Tree from data means to figure out the order in which the decisions should be assembled from the root to the leaves. New data may then be passed from the top down until reaching a leaf node, representing a prediction for that data point.
+	- ## Example tree
+	  collapsed:: true
+		- ![image.png](../assets/image_1665466913743_0.png)
+	- **Don't Go Too Deep.** If we do, the resulting regions would start becoming increasingly complex, and our tree would become unreasonably deep. Such a Decision Tree would learn too much from the noise of the training examples and not enough generalizable rules.
