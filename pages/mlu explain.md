@@ -93,6 +93,7 @@
 	- **Don't Go Too Deep.** If we do, the resulting regions would start becoming increasingly complex, and our tree would become unreasonably deep. Such a Decision Tree would learn too much from the noise of the training examples and not enough generalizable rules.
 	- **Entropy** measures the amount of information of some variable or event. We'll make use of it to identify regions consisting of a large number of similar (pure) or dissimilar (impure) elements.
 	- ### Entropy Properties
-	- $H=0$ only if all but one of the $p_i$​ are zero, this one having the value of 1. Thus the entropy vanishes only when there is no uncertainty in the outcome, meaning that the sample is completely unsurprising.
-	- $H$ is maximum when all the $p_i$​ are equal. This is the most uncertain, or 'impure', situation.
-	- Any change towards the equalization of the probabilities $(p_1, p_2, \dots, p_n)$ increases H*H*.
+		- $H=0$ only if all but one of the $p_i$​ are zero, this one having the value of 1. Thus the entropy vanishes only when there is no uncertainty in the outcome, meaning that the sample is completely unsurprising.
+		- $H$ is maximum when all the $p_i$​ are equal. This is the most uncertain, or 'impure', situation.
+		- Any change towards the equalization of the probabilities $(p_1, p_2, \dots, p_n)$ increases $H$
+	-
