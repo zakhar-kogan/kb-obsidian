@@ -107,4 +107,6 @@
 			- Identify the partition that leads to the maximum information gain. Create a decision node on that feature and split value.
 			- When no further splits can be done on a subset, create a leaf node and label it with the most common class of the data points within it if doing classification or with the average value if doing regression.
 			- Recurse on all subsets. Recursion stops if after a split all elements in a child node are of the same type. Additional stopping conditions may be imposed, such as requiring a minimum number of samples per leaf to continue splitting, or finishing when the trained tree has reached a given maximum depth.
--
+	- ## Decision trees' weakness
+		- DTs can be **extremely sensitive to small perturbations in the data**: a minor change in the training examples can result in a drastic change in the structure of the Decision Tree.
+		-
