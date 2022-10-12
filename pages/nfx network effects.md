@@ -16,6 +16,7 @@
 	- ## White hot center
 	- ## Directional / non-directional / bidirectional links
 	- ## 1-1 / 1-many / many-many
+	  collapsed:: true
 		- ### Sarnoff's law
 		  collapsed:: true
 			- ![image.png](../assets/image_1665553956551_0.png)
@@ -27,6 +28,9 @@
 			- Works for many-to-many
 			- $V=n^2$
 		- ### Reed's law
+		  collapsed:: true
 			- ![image.png](../assets/image_1665554065662_0.png)
 			- An improvement on Metcalfe's law by a MIT professor in 1999
-			-
+			- Because of local clusters, the real value may grow as $V=2^n$
+	- ## Critical mass
+	-
