@@ -163,3 +163,5 @@
 			- And by repeating that again and again, alongside a **clear visual identity that's consistent** and then **amplifying** that across as many media channels as possible, will create an efficient but important platform to build a long-term successful brand.
 			- The best early stage brands are often ones that are **surprisingly quite controversial.** They stand for something, they make an impact, they make you think. And that can be quite uncomfortable.
 			- ![image.png](../assets/image_1665560645211_0.png)
+		- ## Why is brand important
+			- So brand is particularly important in categories where there's like many options, so it could be commodity products or services, 'cause it helps consumers to shortcut the decision-making process and choose the brand or service that's right for them. And also enables their company to have, you know, easier customer acquisition and higher prices.
