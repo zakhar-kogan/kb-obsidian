@@ -7,4 +7,10 @@
 	- Viral effects are ==not== network effects. Network effect is *every user joining the product increases its value for all the other users*, Metcalfe effect.
 - # The Underlying Properties Of Network Theory
 	- https://www.nfx.com/masterclass/network-effects/network-theory-properties
+	- ## Basic network
+	  collapsed:: true
+		- ![image.png](../assets/image_1665553803829_0.png)
+	- ## Network density
+	  collapsed:: true
+		- ![image.png](../assets/image_1665553841794_0.png)
 	-
