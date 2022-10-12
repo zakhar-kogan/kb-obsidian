@@ -168,3 +168,4 @@
 			- The other end is those that are really **high consideration purchases**, where trust is paramount. *If you are going to choose an investment bank to make you go public, you don't want a no-name organization. You want the strong, branded, trustworthy service.*
 			- The same goes for **enterprise software** where building a thoughtful brand that's trusted and well-known is critical for the success of that organization.
 	- ## Embedding
+		- So what **embedding** is, is it's deeply integrating your product or service into another customer's operations. So it's deeply wound into that and bound into that organization, making it very hard to remove, thus increasing the switching costs of that product or service into the others' organization. So when people think of embedding, they often think first of enterprise software.
