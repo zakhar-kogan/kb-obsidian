@@ -59,4 +59,8 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1665554753592_0.png)
 		- The two sides, in this case, are the supply and the demand. So the value is the more supply on the network, the more value to the demand side. So that's **cross-side network effect**, cross-side value being created, and that can be quite intense.
-	-
+	- ## Negative network effects
+		- ### Congestion
+		  collapsed:: true
+			- There's so many nodes on the network that are trying to use the network that the network starts to **break down**. A good example of that would be **Ethereum**, where the more people using Ethereum, the more the gas prices go up. It just becomes unaffordable to use that network.
+		-
