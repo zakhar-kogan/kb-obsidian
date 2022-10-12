@@ -148,7 +148,9 @@
 		- ![image.png](../assets/image_1665559549202_0.png)
 - # 4 Pillars Of Defensibility
 	- https://www.nfx.com/masterclass/network-effects/4-pillars-of-defensibility
+	- ![image.png](../assets/image_1665559918969_0.png)
 	- ## Why you should care
 		- So defensibility really means **resilience**.
 		- And the fact that *companies can survive against what the reality will be of any successful business is an onslaught of competitors or substitutes.* And understanding how you can build that defensibility early on means not only you can have a successful company, but also you can have one that can dominate the category that it's executing in.
-		-
+	- ## Network effects
+		- But it's **critical you think about network effects from the beginning.** It's so much harder to add those in at a later stage, and picking businesses and markets and products that can have that network effect at the beginning is critical to enabling you to incorporate those later on.
