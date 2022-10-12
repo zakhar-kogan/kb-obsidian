@@ -183,4 +183,6 @@
 	- ## Intellectual property
 		- We also see **IP as a defensibility**, particularly in *science and bio.* In our focus on TechBio companies, we see IP defensibility being often a critical component. Helping and finding these novel scientific innovations with really proprietary IP can be a form of core defensibility.
 		- ![image.png](../assets/image_1665561787437_0.png)
-	-
+	- ## Defensibility as an early-stage founder
+		- Many of the larger startups and companies have a combination of these defensibilities. They build a brand, they have embedding, and they have core network effects. So they work absolutely in concert.
+		- The earlier stage startups, we **generally prefer early stage focus on network effects** because they're digitally native, because they scale so quickly and they're often the most capital-efficient to get going. And then *over time, companies can incorporate other defensibilities, such as brand, such as embedding.* And at larger startups, they can provide scale.
