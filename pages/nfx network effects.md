@@ -210,3 +210,9 @@
 		- Value of using the product. So the value of your product is actually the first and most useful thing that you can still do going forward.
 		- cash. US dollars, or Euros, or Bitcoins, or whatever they might want to get paid to join your network. You can see this in a lot of entertainment products, with celebrities, and whatnot.
 		- equity shares, traditionally, to your employees. But increasingly, people are wondering whether it should be shared beyond employees.
+		- discounted fees.
+		- premier placements and traffic and attention, extra traffic and attention to people. People are willing to bond to you if you promise them things like that. You give them status symbols in the system.
+		- early access to various pieces, or to different communities within your product.
+		- voting or decision making, the ability to edit things or to change things, really power in your network.
+		- premier software features. Functionality like power that other people don't have.
+		- membership into this valuable click, or access to other nodes they wouldn't normally get access to.
