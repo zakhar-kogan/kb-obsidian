@@ -266,5 +266,5 @@
 		- Give them their metrics transparently about their behavior and their network so that they can see how they're doing, don't keep them in the dark.
 		- Find their highest and best use, possibly by giving them credits to an AI or a human career coach, to let every node in your network perform at its highest and best use. It's good for them and it's good for you and your network.
 		- Let labor multi-tenant, meaning they can work for more than one employer at a time. Multi-tenanting is the way of the future. It's a necessary and you need to allow people to do that, to take their data with them.
-		-
+		- add an ombudsman to your network. So the ombudsman is an old thing that used to happen in newspapers, which is a network effect business it's a marketplace between advertisers and viewers. They used to have ombudsman there that were beholden
 		-
