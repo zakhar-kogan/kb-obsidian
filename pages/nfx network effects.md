@@ -142,4 +142,7 @@
 			- You can also see this in effect with **TikTok**, where people put up their material, they *hope that it gets brought into the algorithms and that they get a lot of likes and a lot of followers*, and that they will again keep growing their own network within this hub and spoke system.
 	- ## Reinforcement
 		- Typically when we build these startups, we start by building a product and software and a network and clusters, right?
-		- The minimum viable cluster, and we build one network effect and we get that going and we get it going, once you've got the first one going, the sky's the limit, because you can reinforce that network effect with other network effects. And part of the journey of the different seasons of running your business is to pick what is the next network effect I'm going to add to the one I've already got? How does it relate? How does it easily flow? How do I take the people I already have and move them into a new space? How do I bring in new nodes?
+		- The minimum viable cluster, and we build **one network effect** and we get that going and we get it going, once you've got the first one going, the **sky's the limit,** because you can **reinforce that network effect with other network effects.**
+		- And part of the journey of the different seasons of running your business is to pick *what is the next network effect I'm going to add to the one I've already got? How does it relate? How does it easily flow? How do I take the people I already have and move them into a new space? How do I bring in new nodes?*
+		- ![image.png](../assets/image_1665559535103_0.png)
+		- ![image.png](../assets/image_1665559549202_0.png)
