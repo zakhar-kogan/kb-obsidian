@@ -70,4 +70,6 @@
 	- ## Chicken egg problem
 		- ![image.png](../assets/image_1665555056315_0.png)
 		- Called **network start problem** for direct effect businesses. **Chicken and egg problem** for marketplaces.
+		- You can't get anyone to join your network **unless there's already somebody there**.
+		- *But how do you get them to sit there long enough? How do you attract them there at all? And then once you get them there, how do you attract enough of the demand so that these people stick around?* So there's a timing issue with bringing people in at the right time.
 		-
