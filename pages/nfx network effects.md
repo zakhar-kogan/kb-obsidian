@@ -96,4 +96,5 @@
 	- ## Indirect (cross-side)
 		- ## 2-sided marketplace
 			- ![image.png](../assets/image_1665557061057_0.png)
+			- Very common, whether it's **Craigslist** or **Monster.com** or **Uber**, you've got a supply side and a demand side, *the more supply you have, the more value the demand gets* and vice versa
 			-
