@@ -204,5 +204,5 @@
 			- **Time since inception of the company.** The longer it is from the such of the company, the less you're going to be willing to pay.
 			- **Promise of the node.** The node has some following on Twitter, they have some performance they've had in the past. There's some promise to them that you could probably measure in calculating what you should be willing to pay them.
 			- **Engagement and performance they have after they bond to your network.** So for instance, if we use Twitter as another example. You could pay someone with a big following to join your Twitter network, to grow out the graph, and to grow attention into that ecosystem. *But if they don't tweet, that's a huge problem for you. People will go to their profile, they'll see that they haven't tweeted, and they'll think, "Oh, this Twitter thing is dead." This isn't cool enough for Kobe to be tweeting"* And so without Kobe tweeting, it actually hurts your network to have Kobe having bonded in your network. So you actually want to compensate each node for their performance after their initial bonding.
-			- Different curves you can use in declining how much you're willing to pay somebody.
+			- **Different curves you can use in declining** how much you're willing to pay somebody.
 		- ![image.png](../assets/image_1665563718258_0.png)
