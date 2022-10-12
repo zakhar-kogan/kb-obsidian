@@ -94,7 +94,10 @@
 			- And basically how it works is, if you have a wedding, let's say, you're going to need a florist, you're going to need a venue, you're going to need a wedding planner, you're going to need a caterer, these are all nodes on a network collaborating on a project, and in the real world they know each other, they connect with each other, but we haven't seen it put in digital format yet so a market network puts it in digital.
 			- And once you're on there, once you've got your name and your reputation and your transaction history there, *you're not going to want to leave because it's your source of income, just like a marketplace would be.* But in this case, it's N-sided, everybody in 360 degrees can transact with each other.
 	- ## Indirect (cross-side)
+		- Now, they **can be attacked**, right? I mean, eBay's been attacked by Amazon marketplace very successfully, by building pro seller tools that were basically better than what eBay had, so people multi-tenanted and moved off, but still these are *very durable network effects*, eBay is still with us, so is Amazon marketplace.
 		- ## 2-sided marketplace
 			- ![image.png](../assets/image_1665557061057_0.png)
 			- Very common, whether it's **Craigslist** or **Monster.com** or **Uber**, you've got a supply side and a demand side, *the more supply you have, the more value the demand gets* and vice versa
+		- ## Platform
+			- ![image.png](../assets/image_1665557209783_0.png)
 			-
