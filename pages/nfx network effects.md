@@ -153,4 +153,7 @@
 		- So defensibility really means **resilience**.
 		- And the fact that *companies can survive against what the reality will be of any successful business is an onslaught of competitors or substitutes.* And understanding how you can build that defensibility early on means not only you can have a successful company, but also you can have one that can dominate the category that it's executing in.
 	- ## Network effects
-		- But it's **critical you think about network effects from the beginning.** It's so much harder to add those in at a later stage, and picking businesses and markets and products that can have that network effect at the beginning is critical to enabling you to incorporate those later on.
+		- But it's **critical you think about network effects from the beginning.** It's *so much harder to add those in at a later stage,* and picking businesses and markets and products that can have that network effect at the beginning is critical to enabling you to incorporate those later on.
+	- ## Brand
+		- **Brand** arises when consumers or companies *understand who you are and what you do. And it drives this psychological switching cost.* You have this **natural preference** over one company or one brand over another, and that's really critical to enable consumers to be drawn to your product.
+		-
