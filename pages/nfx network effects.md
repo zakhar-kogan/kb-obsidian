@@ -48,4 +48,7 @@
 		- ![image.png](../assets/image_1665554488688_0.png)
 		- Conversely, **homogeneity** allows you to grow your network faster, but then often leaves you more vulnerable to attack by other competitors and other networks, simply because people are interchangeable. You think about Uber, you think about Lyft, you think about businesses where the needs are very clear and obvious, but it helps you grow faster at the beginning. So it's a trade off.
 	- ## Asymptoting
-		- Another interesting network property is what we call asymptoting. And asymptoting takes place when you might be adding more nodes onto the network, but the value doesn't actually continue to grow it. So the value of an Uber network or a Lyft network asymptotes even though you keep getting more drivers on the network,
+	  collapsed:: true
+		- Another interesting network property is what we call **asymptoting**. And asymptoting takes place when you might be adding more nodes onto the network, but the value doesn't actually continue to grow it. So the value of an Uber network or a Lyft network asymptotes even though you keep getting more drivers on the network, because if you're putting on your jacket or getting your bag, or you need to go to the bathroom before they come, you don't really care if they come faster than 4 minutes. It's nice if they come at 3 minutes, but as long as they come in under 10 or 6, it's pretty much good. And so the value doesn't actually get much higher.
+	- ## Assymetry
+		- In most marketplaces, one side is harder than the other. In some cases, much harder than the other. Example: Outdoorsy, doing an RV marketplace. They discovered that the supply side was much harder to get
