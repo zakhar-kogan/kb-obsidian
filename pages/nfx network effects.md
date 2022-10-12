@@ -76,5 +76,6 @@
 	- ## Effects map
 		- ![image.png](../assets/image_1665556326681_0.png)
 	- ## Physical (direct)
-		-
+		- Okay, so the first time we saw a commercial application of network effects was way back, 1907. The chairman of the board of AT&T who was deploying physical phones and copper wires to connect them all together so they could talk to each other, he said in his report, his annual report, *"You know, you might want to buy our stock because what we've noticed is that when we go into a town and we get a few nodes and a few of these copper wire links, nobody can compete with us, and we end up taking all the business in the town. So in every town we get into, we own everything. We're probably going to have a pretty good business here."* He noticed it, he explained it, and he gave business reasons why it was important and boy, was he right.
+		- Now, this **physical direct network effect**, the physical being the copper wires, the physical being these telephones, these heavy black telephones that would sit in people's homes, this was the first commercial network effect discovered and it turns out to be the strongest network that we know of.
 	-
