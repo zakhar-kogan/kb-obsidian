@@ -108,4 +108,5 @@
 			- Meaning you don't want the car coming in more than four minutes, doesn't really help, you still need to go to the bathroom before you get in.
 			- We've seen this again with data network effects where it asymptotes, these marketplaces for data asymptote, because the *value doesn't keep increasing as the network size increases* and you see this quite a lot.
 		- ## Expertise
+			- ![image.png](../assets/image_1665557777555_0.png)
 			-
