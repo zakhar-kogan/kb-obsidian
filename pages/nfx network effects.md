@@ -180,4 +180,7 @@
 		- By **scale effects**, we really mean economies of scale. In that at scale, an organization is *able to reduce the unit cost of a particular component or service its providing,* so to provide these economies of scale to *enable that product to be done cheaper or better* than could be done otherwise by a smaller competitor. So *as an organization scales, they build that inherent cost or functionality advantage as they get bigger.*
 		- We often see **scale** effects exhibiting a **flywheel effect.** In that take, for example, a company that's manufacturing. The *more they manufacture, the cheaper the cost* of those individual components are to manufacture, *thus the cheaper the entire product or service* that they're building is. **That attracts more customers.** Then it enables them to buy the component materials at a cheaper price. And so the flywheel continues.
 		- ![image.png](../assets/image_1665561717195_0.png)
-		-
+	- ## Intellectual property
+		- We also see **IP as a defensibility**, particularly in *science and bio.* In our focus on TechBio companies, we see IP defensibility being often a critical component. Helping and finding these novel scientific innovations with really proprietary IP can be a form of core defensibility.
+		- ![image.png](../assets/image_1665561787437_0.png)
+	-
