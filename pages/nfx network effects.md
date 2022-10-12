@@ -132,4 +132,6 @@
 			- But if someone says, "I don't like the Celtics, I like the New York Knicks", I get upset, I want to fight them, okay? Or the same thing for sororities, fraternities, for universities, right?
 			- There's *lots of tribes that we as humans create that become very emotional for us, and will actually cause us to stay inside a network and add more value to that network,* maybe even detract value from another network, so you have network on network violence.
 		- ## Bandwagon
-			-
+			- It's the *sense that humans have about not wanting to be left out.*
+			- So **Apple** is the master at creating this fear of being left out, people are waiting in line to get the latest iPhone or whatever, because they want to get on the bandwagon. They don't want to be left behind.
+			- **Slack** was very much like this. You know, there was **Hip Chat** well before **Slack**, but Slack was cooler, and the companies didn't want to be left behind, you *couldn't be a modern software company if you didn't have your employees using Slack*
