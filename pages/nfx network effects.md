@@ -282,4 +282,6 @@
 			- **Transition period.** Often, *when we go through these transition periods, we're more open to forming identity, to forming friendships, to forming links* within the network.
 			- **Going through something hard or something that is fear inducing.** Because again, *that opens us up, we have new experiences and then those new network links have a chance to form.*
 	- ## Layers of human networks
-		- Physical layer of your city, where you live, okay, who's in your apartment building? Who's in your office? You're in a physical space. You are put together with other nodes in the network and connecting with them,
+		- **Physical layer** of your ci*ty, where you live, okay, who's in your apartment building? Who's in your office?* You're in a physical space. You are put together with other nodes in the network and connecting with them, because of the physical topology of the world. And that itself is sort of a network fractal thing that's evolving mathematically by itself and you're in it.
+		- **Social layer,** *who do you know, who's your family? Who's your friend from school? Who are the people you go kayaking with?* These are now your social layer. And they are another network and those networks form more network nodes.
+		- **Digital realm.** There's a whole lot going on that we're just beginning to explore. And it's going to play out over the next 200 years, which is that third layer of where you are going to be getting information on your dashboard. We are going to finding your network nodes.
