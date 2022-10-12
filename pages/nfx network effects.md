@@ -119,4 +119,6 @@
 		- ## Tech performance
 			- **Bit Torrent**, or a **Skype**, where the idea is *the more people have downloaded the software to their computer and is running it on the network, if it's close to your home, you're going to be able to download a movie faster, or a photo faster, or have better connections* to a conversation you're having, because that bandwidth will be more available to you. So your tech performance actually increases. This *occurs in other mesh networks* where people are doing communications, phone calls.
 			- You could even use a *mesh network for, let's say, solar battery charging*. So if you were to have lots of Tesla batteries on your block and they had the same protocol, you could actually share, and the tech performance would increase of all the different batteries and all the different solar panels on your house. I.e. using the batteries in a mesh network as a big *energy buffer and exchanger.*
-			-
+	- ## Social (human)
+		- ## Language
+			- If you can get someone to say, "I'm going to **Google** something," it's hard for them to go off and use Bing. If you say, I'm going to grab an **Uber**, it's harder for them to open up the Lyft app, right? So language can have an impact on retaining people into a network business that you're running.
