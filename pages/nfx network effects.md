@@ -73,4 +73,8 @@
 			- ![image.png](../assets/image_1665555592998_0.png)
 - # 16 Network Effects
 	- https://www.nfx.com/masterclass/network-effects/mapping-the-16-network-effects
+	- ## Effects map
+		- ![image.png](../assets/image_1665556326681_0.png)
+	- ## Physical (direct)
+		-
 	-
