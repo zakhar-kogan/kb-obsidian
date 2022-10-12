@@ -250,4 +250,5 @@
 	- The business you start is *likely, if it's got a network effect, going to create a similar power law among your users, perhaps among your employees,* some of which will earn great riches and others who will earn some. And so you have to think about how you're going to operate within this context.
 	- Alvin Toffler wrote a book called **"Future Shock"** in 1970, in which case he laid out that we used to have the **agrarian economy** where 95% of us were involved with making food. Now, we're down to less than 1% of our society, it's transitioned. After the second **scale economy**, we've now moved into **==networked economy==**.
 		- ![image.png](../assets/image_1665586005367_0.png)
-	- The means of wealth creation were the manufacturing lines. Now, the means of production are the networks themselves. And so there's this increase of this power law because we can now reach billions overnight.
+	- The **means of wealth creation were the manufacturing lines**. Now, the **means of production are the networks themselves.** And so there's this *increase of this power law because we can now reach billions overnight.*
+	-
