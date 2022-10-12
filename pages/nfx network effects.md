@@ -268,4 +268,8 @@
 		- **Let labor multi-tenant, meaning they can work for more than one employer at a time.** Multi-tenanting is the way of the future. It's a necessary and you need to allow people to do that, to take their data with them.
 		- **Add an ombudsman to your network.** So the ombudsman is an old thing that used to happen in newspapers, which is a network effect business it's a marketplace between advertisers and viewers. They used to have ombudsman there that were beholden to. having that voice in the room, at the board meetings and in management meetings is critical to understanding who all the stakeholders are and what their needs are and having that be part of the DNA of your culture of your management team and of your network.
 		- ![image.png](../assets/image_1665586899821_0.png)
-- # Your Life Is Driven By Network Effects
+- # Network effects in our life
+	- https://www.nfx.com/masterclass/network-effects/your-life-is-driven-by-network-effects
+	- ## Nodes exchange
+		- ![image.png](../assets/image_1665587129971_0.png)
+		-
