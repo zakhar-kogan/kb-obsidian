@@ -111,4 +111,7 @@
 			- ![image.png](../assets/image_1665557777555_0.png)
 			- So because **QuickBooks** got a dominant market share, they were able to then create this network effect so that *employers are looking for people on QuickBooks, and they want to use QuickBooks so that they can always hire new people to work on QuickBooks, to augment whoever else they have, so they have a more liquid pool of labor to work on their accounting. So everyone's incentivized to get good at QuickBooks, to use QuickBooks, and to grow that ecosystem*, which creates great defensibility and retention, which is the definition of network effects. Other examples would include **Figma**, **CAD** software etc.
 		- ## Data
-			-
+			- ![image.png](../assets/image_1665558003116_0.png)
+			- ![image.png](../assets/image_1665558015172_0.png)
+			- The idea would be that the more data you get into the system, the more value your system is going to provide to everyone using the product.
+			- Now, people think this might be true, and I'll give you a great example of where this does actually work, which is Waze.
