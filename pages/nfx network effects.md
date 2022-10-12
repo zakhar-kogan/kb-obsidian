@@ -124,3 +124,7 @@
 			- If you can get someone to say, "I'm going to **Google** something," it's hard for them to go off and use Bing. If you say, I'm going to grab an **Uber**, it's harder for them to open up the Lyft app, right? So *language can have an impact on retaining people into a network* business that you're running.
 		- ## Belief
 			- If I believe that **gold** is valuable, even though I can't sleep on it, I can't eat it, I can't build with it, I can't really do much with it, doesn't have that many industrial uses honestly, *if I believe it's valuable, then it's valuable*. And we've been believing it's valuable since recorded history, so we continue to believe it. There's *reasons to believe gold will become valuable in the future and stay valuable, because it's been happening of long*, but it's just belief.
+			- Why is **Bitcoin** valuable? Because some people *believe it will be valuable in the future,* I certainly believe it will be, but there's really nothing other than that belief.
+			- So you can create a lot of value with just a belief network effect and in fact, with Bitcoin and religions and other things, that is the foundational network effect on top of which all the other network effects are built.
+		- ## Tribal
+			-
