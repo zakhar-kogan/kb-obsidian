@@ -88,6 +88,8 @@
 		- ## Personal
 			- What **Facebook** has, which is *it's my person, it's my name, it's my picture*, and I've got all my friends, it's a direct network effect, I can see them all, they can see me, I can friend somebody, can unfriend somebody, everything works, but it's not as powerful as the one with utility.
 			- When I get sick of being away from Facebook, I'll probably just go back to it, and we see this, people do this all the time, they quit Facebook and then nine months later they say, "I'm back," why? Because you have *this retention, this defensibility, this network effect that adds value to every node on the network,* and no one wants to leave it.
-	- ## Market
+	-
+	- ## Market network effect
 		- ![image.png](../assets/image_1665556899097_0.png)
-		-
+		- This is also known as an **N-sided marketplace**, but it's still a direct network effect.
+		- And basically how it works is, if you have a wedding, let's say, you're going to need a florist,
