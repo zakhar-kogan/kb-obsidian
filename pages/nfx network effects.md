@@ -134,4 +134,6 @@
 		- ## Bandwagon
 			- It's the *sense that humans have about not wanting to be left out.*
 			- So **Apple** is the master at creating this fear of being left out, people are waiting in line to get the latest iPhone or whatever, because they want to get on the bandwagon. They don't want to be left behind.
-			- **Slack** was very much like this. You know, there was **Hip Chat** well before **Slack**, but Slack was cooler, and the companies didn't want to be left behind, you *couldn't be a modern software company if you didn't have your employees using Slack*
+			- **Slack** was very much like this. You know, there was **Hip Chat** well before **Slack**, but **Slack** was cooler, and the companies didn't want to be left behind, you *couldn't be a modern software company if you didn't have your employees using Slack*
+		- ## Hub & spoke
+			-
