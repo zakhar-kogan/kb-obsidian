@@ -185,4 +185,7 @@
 		- ![image.png](../assets/image_1665561787437_0.png)
 	- ## Defensibility as an early-stage founder
 		- Many of the larger startups and companies have a combination of these defensibilities. They build a brand, they have embedding, and they have core network effects. So they work absolutely in concert.
-		- The earlier stage startups, we **generally prefer early stage focus on network effects** because they're digitally native, because they scale so quickly and they're often the most capital-efficient to get going. And then *over time, companies can incorporate other defensibilities, such as brand, such as embedding.* And at larger startups, they can provide scale.
+		- The earlier stage startups, we **generally prefer early stage focus on network effects** because they're digitally native, because they scale so quickly and they're often the most capital-efficient to get going. And then *over time, companies can incorporate other defensibilities, such as brand, such as embedding.* And at *larger startups, they can provide scale.*
+- # Network bonding theory
+	- https://www.nfx.com/masterclass/network-effects/network-bonding-theory
+	-
