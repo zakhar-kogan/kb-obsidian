@@ -200,5 +200,8 @@
 		- And again, you've got a **geometrically declining amount of equity you spend in order to get that new investor node to bond** to your network. And we've been doing this implicitly forever.
 		- And I believe that over time, ==we're going to have software, spreadsheets that will help us measure the value impact of every new employee, every new customer, every new investor, every new press release we get, that gets published around, and we're going to be able to calculate what we should be willing to pay and when to walk away from a deal, or to bring a new node into your network.==
 		- If you were to land Nike as a customer, you'll be able to tell everybody else, "Nike is a customer. They've made the decision to work with our software. They've made the decision to join our network." *That's going to help you land other customers.* You know, there's a value there. Nike knows it too, and they want you to charge them less, or, but we don't have a formula for it. In the future, ==I believe we will have formulas for all these things, because we will understand all the math about all this specific tactical network bonding that we're doing to companies.==
-		-
+		- For instance, a skeleton we can use for this is, to use maybe four factors in determining what you should be willing to pay a node to bond to your network.
+			- Time since inception of the company. The longer it is from the such of the company, the less you're going to be willing to pay.
+			- Promise of the node. The node has some following on Twitter, they have some performance they've had in the past. There's some promise to them that you could probably measure in calculating what you should be willing to pay them.
+			-
 		- ![image.png](../assets/image_1665563718258_0.png)
