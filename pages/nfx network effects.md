@@ -191,3 +191,4 @@
 	- Look, software used to be the hard part about your startup. Software is getting a lot easier. What's hard now is community building, is building the network, is getting people and other things to bond to your networks, which is how to bond people to the network of your company, because your company itself is a network.
 	- And companies have forever made implicit decisions about what to compensate people, how to pay nodes to bond to their network, particularly in the form of shares and salary compensation.
 	- At the beginning of a company, you will pay someone a lot more equity to cause them to bond to the network and then you pay less and less, and really a power law of geometrically declining rate at which you give out equity in your company, because once that network gets bigger and stronger, more and more people will join to that network.
+	- ## Single player vs multiplayer
