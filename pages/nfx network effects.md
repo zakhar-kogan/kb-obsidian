@@ -82,10 +82,12 @@
 		- Can you build a system where either or both, the supply and the demand do not want to **multi-tenant** so you can capture their share of wallet, capture their average order value, capture the overall annual take that you're going to be taking from them? That's one thing you need to think about when designing your marketplace is how to keep them from multi-tenanting.
 	- ## Related concepts
 		- ### Viral effects
-		  collapsed:: true
 			- **Viral effects** are awarding your existing users get you new users for free. There are playbooks for that and that's great, but that's not what we're talking about. Network effects are about retention. Network effects are about defensibility. And the defensibility is what ultimately adds value to your part.
 			- ![image.png](../assets/image_1665555627291_0.png)
 			- $K=\frac {Interactions*Conversion}{time}$
+			- Now, if you get a *K-factor of 1.01* for many days in a row, you will eventually start growing very geometrically. And if you can get a viral factor of 1.25, back in the day, maybe 10 or 15 years ago, it was possible to get viral factors as high as 3.0, meaning you would triple every day. And in many cases, we were registering 250,000 people a day.
+			- I know of one application that was registering 2 million people a day on top of the Facebook platform. Because there was no viral delay, the invites were going out like crazy. And the conversion rate was really high because people were already on Facebook.
+			- Those conditions don't exist today anymore. But understanding viral effects, understanding virality, how to measure your K-factor can be useful
 		- ### Linear vs geometric growth
 		  collapsed:: true
 			- ![image.png](../assets/image_1665555592998_0.png)
