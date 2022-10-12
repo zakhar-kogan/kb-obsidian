@@ -198,4 +198,5 @@
 		- So you've got this **asymptoting declination of your willingness to pay people** to join onto your network.
 		- Then, you go to an investor and you say, "I need to raise $2 million." And that investor gives you a seed check.And for $2 million, maybe they buy 15% of your company. But the next firm that comes along, they might give you $6 million for 15% of your company. And the next firm might give you $25 million for 15% of your company.
 		- And again, you've got a **geometrically declining amount of equity you spend in order to get that new investor node to bond** to your network. And we've been doing this implicitly forever.
+		- And I believe that over time, ==we're going to have software, spreadsheets that will help us measure the value impact of every new employee, every new customer, every new investor, every new press release we get, that gets published around, and we're going to be able to calculate what we should be willing to pay and when to walk away from a deal, or to bring a new node into your network.==
 		- ![image.png](../assets/image_1665563718258_0.png)
