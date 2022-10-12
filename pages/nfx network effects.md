@@ -53,4 +53,6 @@
 	- ## Assymetry
 		- So another important network property is what we call **asymmetry**.
 		- In most marketplaces, **one side is harder** than the other. In some cases, much harder than the other. Example: Outdoorsy, doing an RV marketplace. They discovered that the supply side was much harder to get because there was, let's say, 2,500 mom and pops renting out about 50,000 RVs in the United States, but there was 30 million people trying to rent those RVs.
-		- So if they could build software to allow them to work with and understand where these were, they would be able to offer that supply out for the voracious demand that was out there and build a pretty good marketplace, which they've done.
+		- So if they could build software to allow them to work with and understand where these were, they would be able to *offer that supply out for the voracious demand* that was out there and build a pretty good marketplace, which they've done.
+	- ## Cross-side network effect
+		-
