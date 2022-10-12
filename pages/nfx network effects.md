@@ -246,4 +246,6 @@
 - # Network Problems Demand Network Solutions
 	- https://www.nfx.com/masterclass/network-effects/new-social-contract
 	- ![image.png](../assets/image_1665585825772_0.png)
+	- **So everything in a network conforms to a power law**; it has always been thus. It will always thus be, but it's a problem because 95% of people are in the long tail and only the very people at the top get to have all the spoils and it makes us all upset, that it has to be so disparate.
+	- The business you start is *likely, if it's got a network effect, going to create a similar power law among your users, perhaps among your employees,* some of which will earn great riches and others who will earn some. And so you have to think about how you're going to operate within this context.
 	-
