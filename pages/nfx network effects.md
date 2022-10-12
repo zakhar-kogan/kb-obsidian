@@ -280,4 +280,5 @@
 			- **Frequency.** *What are the circumstances of your life which cause you to be in frequent connection with another individual or set of individuals?*
 			- **High degree of overlap.** So *if you know this person and they also know another person you know, that that density of the network ends up driving relationships and sort of driving a group identity* and offers up trust and allows more information and resources to move across the links between you two.
 			- **Transition period.** Often, *when we go through these transition periods, we're more open to forming identity, to forming friendships, to forming links* within the network.
-			- **Going through something hard or something that is fear inducing.** Because again, that opens us up, we have new experiences and then those new network links have a chance to form.
+			- **Going through something hard or something that is fear inducing.** Because again, *that opens us up, we have new experiences and then those new network links have a chance to form.*
+			-
