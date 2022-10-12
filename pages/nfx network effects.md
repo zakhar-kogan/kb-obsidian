@@ -251,4 +251,5 @@
 	- Alvin Toffler wrote a book called **"Future Shock"** in 1970, in which case he laid out that we used to have the **agrarian economy** where 95% of us were involved with making food. Now, we're down to less than 1% of our society, it's transitioned. After the second **scale economy**, we've now moved into **==networked economy==**.
 		- ![image.png](../assets/image_1665586005367_0.png)
 	- The **means of wealth creation were the manufacturing lines**. Now, the **means of production are the networks themselves.** And so there's this *increase of this power law because we can now reach billions overnight.*
-	-
+	- So when you go on YouTube, when you go on Trulia; when you go on Twitter and you see your numbers, **now we can see the power law**. This is a huge difference in how we live from day-to-day that didn't exist 20 years ago. *You could pretend you were a good agent. You could pretend you were famous or good looking, whatever. Now, you can see that you are not and that you're on the end of the power law; that you're a small person, and it doesn't feel good to us.*
+	- So designing your software with society in mind, with the power law in mind,
