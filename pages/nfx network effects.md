@@ -243,3 +243,6 @@
 		- If there's **network pollution.** So if there's **bad actors,** if the networks you're in aren't really clean, you're vulnerable. And likewise, *they're vulnerable to you if you can provide something better.*
 		- Fourth thing to look at would be **status**. So **a lot of networks start out pretty high status, but then they decline over time as they grow.** There's often an opportunity to attack from the top. And *if you've gotten too big, they can attack from the top as well to find a niche, to find a minimum viable cluster, and grab that from you and then build out their network around that.*
 		- If the nodes in your network are **fungible.** Like, *if they're willing to multi-tenant, that makes you vulnerable to another network attack,* because they can go and try out the other network and decide they prefer it.
+- # Network Problems Demand Network Solutions
+	- https://www.nfx.com/masterclass/network-effects/new-social-contract
+	-
