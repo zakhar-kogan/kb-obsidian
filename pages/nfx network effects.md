@@ -231,4 +231,7 @@
 		- And it's a **huge open creative area** that we've now entered into now that we have this web3 and these ownerships, these NFTs.
 	- ## Fungible tokens and bonding
 		- The **nodes that are unequal are going to start being able to see and understand, and then demand compensation for their participation in you network** in ways that they haven't been able to in the past. I mean, think about shares. 20 years ago, if you were living in Europe, most employees didn't even ask for shares.
-		- **The same thing is going to happen with tokens and with NFTs**, Non-fungible Tokens in the future with all of your nodes expecting to get compensated for the value they bring to your network. So it's going to require software spreadsheets thinking it's going to require different mindset from founders to manage in this new environment as everything gets revealed as a network, and we have ways of measuring and compensating people for the value they bring to those networks.
+		- **The same thing is going to happen with tokens and with NFTs**, Non-fungible Tokens in the future with *all of your nodes expecting to get compensated for the value they bring to your network.* So it's going to require software spreadsheets thinking it's going to require different mindset from founders to manage in this new environment as everything gets revealed as a network, and *we have ways of measuring and compensating people for the value they bring to those networks.*
+	- ## Incentives
+		- Charlie Munger says, "Show me the incentives and I'll show you the outcome." I just think that's incomplete. We are going to be subject to **overcompensating, or over-indexing if you will, on incentive models.**
+		-
