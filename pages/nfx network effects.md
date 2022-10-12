@@ -175,4 +175,7 @@
 		- ### Embedding strategy
 			- So if you are pursuing an embedding strategy, it's really important to understand **who the decision-maker is in the organization.**
 			- Many other companies are focused on **identifying who is a decision-maker** in the organization, could be a developer, and *building a community and a brand focused on those developers and giving them the tools and the documentations to make it incredibly easy, taking out the friction of the service and boarding a highly scalable platform that they can incorporate into their service.*
-			-
+			- In effect, it is practically impossible to rip these services out at scale because they *become so mission-critical to the company organization that the leadership just doesn't want to focus on changing it* and will keep that service or product in the organization.
+	- ## Scale
+		- By scale effects, we really mean economies of scale. In that at scale, an organization is able to reduce the unit cost of a particular component or service its providing, so to provide these economies of scale to enable that product to be done cheaper or better than could be done otherwise by a smaller competitor. So as an organization scales, they build that inherent cost or functionality advantage as they get bigger.
+		-
