@@ -104,4 +104,8 @@
 			- And you see this now in sort of developer programs that, you know, even these web3 companies want to get developers developing on top of **Ethereum** or on top of **Avalanche**, these are trying to make the network effects be a platform. Same thing happened with **Salesforce**, they had a SaaS tool, they launched Force and said, "This is a platform that you can build your software business on top of, please developers come develop on our platform, you'll be able to get access to distribution, access to your customers through us," and **Salesforce** has done incredibly well.
 		- ## Asymptotic marketplace
 			- ![image.png](../assets/image_1665557421753_0.png)
+			- Then you get the asymptotic marketplaces, where like we described before, **Uber** and **Lyft**, their value of their networks *grow very quickly at the beginning, but then as the network size grows, the value doesn't increase that much*, because of the way you consume the value of the marketplace.
+			- Meaning you don't want the car coming in more than four minutes, doesn't really help, you still need to go to the bathroom before you get in.
+			- We've seen this again with data network effects where it asymptotes, these marketplaces for data asymptote, because the *value doesn't keep increasing as the network size increases* and you see this quite a lot.
+		- ## Expertise
 			-
