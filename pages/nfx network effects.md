@@ -157,5 +157,8 @@
 	- ## Brand
 		- **Brand** arises when consumers or companies *understand who you are and what you do. And it drives this psychological switching cost.* You have this **natural preference** over one company or one brand over another, and that's really critical to enable consumers to be drawn to your product.
 		- In many ways, **brand is a proxy for trust** and consumers are risk-averse.
-		- So early stage founders, you really need to think about this from the earliest days. *How do you define your brand? How do you stand out? How do you have consistency in what you do and have high visibility in the brand that you're creating?
+		- So early stage founders, you really need to think about this from the earliest days. *How do you define your brand? How do you stand out? How do you have consistency in what you do and have high visibility in the brand that you're creating?*
+		- ### Building early-stage brands
+			- You do need to **ensure that your brand stands for something.** The most powerful brands in the world have a **specific purpose** and **specific mission.**
+			- And by repeating that again and again, alongside a **clear visual identity that's consistent** and then amplifying that across as many media channels as possible,
 		-
