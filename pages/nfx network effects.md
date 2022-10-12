@@ -169,4 +169,8 @@
 			- The same goes for **enterprise software** where building a thoughtful brand that's trusted and well-known is critical for the success of that organization.
 	- ## Embedding
 		- So what **embedding** is, is it's *deeply integrating your product or service into another customer's operations.* So it's deeply wound into that and bound into that organization, making it very hard to remove, thus **increasing the switching costs** of that product or service into the others' organization. So when people think of embedding, they often think first of **enterprise software.**
-		- But where we are today, we see this embedding in all sorts of forms, whether that's cloud services, APIs. Take Stripe, for example.
+		- But where we are today, we see this embedding in all sorts of forms, whether that's cloud services, APIs. Take **Stripe**, for example. They focused early on on small fast-growing companies that enabled them to scale over time very, very significantly to become a massive organization.
+		- Same with **Twilio**, providing APIs for communication services. Something that was traditionally very hard, they made very, very easy. They made that embedding very simple for developers to incorporate into their websites.
+		- ### Embedding strategy
+			- So if you are pursuing an embedding strategy, it's really important to understand **who the decision-maker is in the organization.**
+			-
