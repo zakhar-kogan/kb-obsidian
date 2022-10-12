@@ -128,4 +128,8 @@
 			- So you can *create a lot of value with just a belief network effect* and in fact, with Bitcoin and religions and other things, that is the **foundational network effect on top of which all the other network effects are built.**
 		- ## Tribal
 			- ![image.png](../assets/image_1665559035931_0.png)
-			- So these tribes grow, the more people in those tribes, the more value there is, and people feel very strong about them, in fact, they defend them. And that's the really unique thing about tribal network effects, is that if someone says,
+			- So these tribes grow, the *more people in those tribes, the more value there is, and people feel very strong about them, in fact, they defend them.* And that's the really unique thing about tribal network effects, is that if someone says, "I'm not using eBay, I'm using Amazon", I'm like, meh.
+			- But if someone says, "I don't like the Celtics, I like the New York Knicks", I get upset, I want to fight them, okay? Or the same thing for sororities, fraternities, for universities, right?
+			- There's *lots of tribes that we as humans create that become very emotional for us, and will actually cause us to stay inside a network and add more value to that network,* maybe even detract value from another network, so you have network on network violence.
+		- ## Bandwagon
+			-
