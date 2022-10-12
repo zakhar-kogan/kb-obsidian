@@ -286,4 +286,7 @@
 		- **Social layer,** *who do you know, who's your family? Who's your friend from school? Who are the people you go kayaking with?* These are now your social layer. And they are another network and those networks form more network nodes.
 		- **Digital realm.** There's a whole lot going on that we're just beginning to explore. And it's *going to play out over the next 200 years,* which is that third layer of where you are going to be getting information on your dashboard. We are going to finding your network nodes.
 		- ![image.png](../assets/image_1665587956905_0.png)
+	- ## Social brain theory
+		- ![image.png](../assets/image_1665587985630_0.png)
+	- ## 7 crossroads of your life
 		-
