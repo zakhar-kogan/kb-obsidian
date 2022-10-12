@@ -224,4 +224,5 @@
 		- **Non-fungible tokens.** NFTs, so far have been mostly about art and art communities and whatnot.
 		- ![image.png](../assets/image_1665564544297_0.png)
 	- ## Not all nodes are equal
-		-
+		- Big mental concept you've got to grab is that **not all nodes are created equal. In fact, they're very different, very unequal.**
+		- And I'm going to give you an **example** here that is a real world example we've seen in the last couple years that demonstrates this. PSG, Paris Saint-Germain, the big soccer team in Paris has recruited Lionel Messi to leave Barcelona and join them for the last years of his career. They didn't give him shares in PSG, but what they did do is they gave him fan tokens, millions of fan tokens that they had distributed out to the fans. The fans were buying them as part of the network to bond to the tribal network effect of this, of this soccer team. Now, think about it. It's just a soccer team, but it's not. It's actually a network. And in this case, we know it's a tribal network.
