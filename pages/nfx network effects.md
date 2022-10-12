@@ -156,4 +156,6 @@
 		- But it's **critical you think about network effects from the beginning.** It's *so much harder to add those in at a later stage,* and picking businesses and markets and products that can have that network effect at the beginning is critical to enabling you to incorporate those later on.
 	- ## Brand
 		- **Brand** arises when consumers or companies *understand who you are and what you do. And it drives this psychological switching cost.* You have this **natural preference** over one company or one brand over another, and that's really critical to enable consumers to be drawn to your product.
+		- In many ways, **brand is a proxy for trust** and consumers are risk-averse.
+		- So early stage founders, you really need to think about this from the earliest days. *How do you define your brand? How do you stand out? How do you have consistency in what you do and have high visibility in the brand that you're creating?
 		-
