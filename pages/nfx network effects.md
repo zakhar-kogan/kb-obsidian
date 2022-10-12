@@ -67,4 +67,7 @@
 		- ### Pollution
 		  collapsed:: true
 			- The **pollution** is when the nodes on the link are behaving badly. An example of behaving badly could be on Facebook when your grandmother gets on and she starts posting pictures of you as a kid and embarrassing you, you don't want to be on Facebook anymore.
-	-
+	- ## Chicken egg problem
+		- ![image.png](../assets/image_1665555056315_0.png)
+		- Called **network start problem** for direct effect businesses. **Chicken and egg problem** for marketplaces.
+		-
