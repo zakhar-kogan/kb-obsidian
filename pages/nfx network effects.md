@@ -125,6 +125,7 @@
 		- ## Belief
 			- If I believe that **gold** is valuable, even though I can't sleep on it, I can't eat it, I can't build with it, I can't really do much with it, doesn't have that many industrial uses honestly, *if I believe it's valuable, then it's valuable*. And we've been believing it's valuable since recorded history, so we continue to believe it. There's *reasons to believe gold will become valuable in the future and stay valuable, because it's been happening of long*, but it's just belief.
 			- Why is **Bitcoin** valuable? Because some people *believe it will be valuable in the future,* I certainly believe it will be, but there's really nothing other than that belief.
-			- So you can create a lot of value with just a belief network effect and in fact, with Bitcoin and religions and other things, that is the foundational network effect on top of which all the other network effects are built.
+			- So you can *create a lot of value with just a belief network effect* and in fact, with Bitcoin and religions and other things, that is the **foundational network effect on top of which all the other network effects are built.**
 		- ## Tribal
-			-
+			- ![image.png](../assets/image_1665559035931_0.png)
+			- So these tribes grow, the more people in those tribes, the more value there is, and people feel very strong about them, in fact, they defend them. And that's the really unique thing about tribal network effects, is that if someone says,
