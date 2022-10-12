@@ -238,4 +238,5 @@
 	- ## Network vs network
 		- For the last 25 years, we've **watched the internet create networks that have attacked the scale effect businesses of the past.** And it's been an unfair fight. It's been like mammals versus reptiles. Mammals end up dominating. So *we've been able to defeat the newspapers and the radios and the TVs with new media.*
 		- But going forward, **as you're starting your company, you're going to be building networks and you're going to be increasingly competing against other networks.** So we're going to get all this network on network violence. We're going to get network wars. And you're going to want *to learn tactics for how you take down those networks and you're going to learn tactics to how to defend your networks against other networks.*
-		-
+		- **The nodes you have are not created equal.** So you need *methods for measuring and understanding who your most valuable nodes are so that you can defend,* or you can attack the ones that are in the other networks you need. **You need to understand how to measure.**
+		- look at your take rate. A take rate makes you vulnerable. Whatever that friction is that you've introduced into your network to, maybe, get compensated, or for other reasons, any friction makes you vulnerable
