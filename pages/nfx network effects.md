@@ -74,4 +74,9 @@
 		- *But how do you get them to sit there long enough? How do you attract them there at all? And then once you get them there, how do you attract enough of the demand so that these people stick around?* So there's a timing issue with bringing people in at the right time.
 		- **Cold start problem** => the same situation, but when you've got a network, and there's **nobody there yet**. So when the first person comes in, there's no one there. How do you teach them to stick around so that they are there for their friends when their friends arrive?
 	- ## Liquidity
-		-
+	  collapsed:: true
+		- *If someone lists something for sale on your marketplace, what percentage of the time do they sell it? What percentage of the time do they get the transaction they were looking for? If someone posts on your social network, what percentage of the time do they get likes, do they get attention, do they get responses, comments?* You can actually look at liquidity, both in terms of transactions on a marketplace and in terms of interaction on a network.
+	- ## Multi-tenanting
+	  collapsed:: true
+		- So if you've got a supply and you've built your marketplace for the demand, they might be using your marketplace. But like with Lyft or Uber, I could sell my services on somebody else's marketplace, number two, or maybe marketplace number three. This happens if you're selling on eBay. You also want to sell on Amazon marketplace or on Shopify or on Etsy.
+		- Can you build a system where either or both, the supply and the demand do not want to **multi-tenant** so you can capture their share of wallet, capture their average order value, capture the overall annual take that you're going to be taking from them? That's one thing you need to think about when designing your marketplace is how to keep them from multi-tenanting.
