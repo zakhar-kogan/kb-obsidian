@@ -193,5 +193,7 @@
 	- At the beginning of a company, you will pay someone a lot more equity to cause them to bond to the network and then you pay less and less, and really a power law of geometrically declining rate at which you give out equity in your company, because once that network gets bigger and stronger, more and more people will join to that network.
 	- ## Single player vs multiplayer
 		- But if you think about how to **turn everything you're doing into a multiplayer game,** or think of how, what you're doing is a multiplayer game and you didn't see it that way, you will start, that's the easiest way I've learned to help founders start to see what I'm talking about, which is:*how do I add other people into this game with me? What am I compensating them? What are they getting? What are they giving? What's the implicit arrangement we have with each of the nodes and the network we're bonding into this multiplayer game?*
-		-
 		- ![image.png](../assets/image_1665563461581_0.png)
+	- ## Startup is your network
+		-
+		- ![image.png](../assets/image_1665563718258_0.png)
