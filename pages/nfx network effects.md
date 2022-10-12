@@ -121,4 +121,6 @@
 			- You could even use a *mesh network for, let's say, solar battery charging*. So if you were to have lots of Tesla batteries on your block and they had the same protocol, you could actually share, and the tech performance would increase of all the different batteries and all the different solar panels on your house. I.e. using the batteries in a mesh network as a big *energy buffer and exchanger.*
 	- ## Social (human)
 		- ## Language
-			- If you can get someone to say, "I'm going to **Google** something," it's hard for them to go off and use Bing. If you say, I'm going to grab an **Uber**, it's harder for them to open up the Lyft app, right? So language can have an impact on retaining people into a network business that you're running.
+			- If you can get someone to say, "I'm going to **Google** something," it's hard for them to go off and use Bing. If you say, I'm going to grab an **Uber**, it's harder for them to open up the Lyft app, right? So *language can have an impact on retaining people into a network* business that you're running.
+		- ## Belief
+			- If I believe that **gold** is valuable, even though I can't sleep on it, I can't eat it, I can't build with it, I can't really do much with it, doesn't have that many industrial uses honestly, if I believe it's valuable, then it's valuable. And we've been believing it's valuable since recorded history, so we continue to believe it. There's reasons to believe gold will become valuable in the future and stay valuable, because it's been happening of long, but it's just belief.
