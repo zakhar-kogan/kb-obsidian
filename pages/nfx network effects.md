@@ -252,4 +252,5 @@
 		- ![image.png](../assets/image_1665586005367_0.png)
 	- The **means of wealth creation were the manufacturing lines**. Now, the **means of production are the networks themselves.** And so there's this *increase of this power law because we can now reach billions overnight.*
 	- So when you go on YouTube, when you go on Trulia; when you go on Twitter and you see your numbers, **now we can see the power law**. This is a huge difference in how we live from day-to-day that didn't exist 20 years ago. *You could pretend you were a good agent. You could pretend you were famous or good looking, whatever. Now, you can see that you are not and that you're on the end of the power law; that you're a small person, and it doesn't feel good to us.*
-	- So designing your software with society in mind, with the power law in mind,
+	- So **designing your software with society in mind, with the power law in mind**, *how are you going to make it so that more people can participate? How are you going to make it so that more of your employees can participate in the riches that are created by your company?* Need to **take those things into consideration** as you think about designing your network business.
+	-
