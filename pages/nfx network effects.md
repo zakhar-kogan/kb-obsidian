@@ -188,4 +188,5 @@
 		- The earlier stage startups, we **generally prefer early stage focus on network effects** because they're digitally native, because they scale so quickly and they're often the most capital-efficient to get going. And then *over time, companies can incorporate other defensibilities, such as brand, such as embedding.* And at *larger startups, they can provide scale.*
 - # Network bonding theory
 	- https://www.nfx.com/masterclass/network-effects/network-bonding-theory
-	-
+	- Look, software used to be the hard part about your startup. Software is getting a lot easier. What's hard now is community building, is building the network, is getting people and other things to bond to your networks, which is how to bond people to the network of your company, because your company itself is a network.
+	- And companies have forever, made implicit decisions about what to compensate people, how to pay nodes to bond to their network, particularly in the form of shares and salary compensation.
