@@ -114,4 +114,4 @@
 			- ![image.png](../assets/image_1665558003116_0.png)
 			- ![image.png](../assets/image_1665558015172_0.png)
 			- The idea would be that the more data you get into the system, the more value your system is going to provide to everyone using the product.
-			- Now, people think this might be true, and I'll give you a great example of where this does actually work, which is Waze.
+			- Now, people think this might be true, and I'll give you a great example of where this does actually work, which is **Waze**. It tracks where you're driving, it can tell the system how fast you're driving, where you're driving, people can note if there's a accident or if there's a police officer or whatever, it's all in the system, and that data is changing all the time, so *once they've established 10 or 30 or 50,000 people using it in a particular city area, you really don't want to go to a different Waze app, a competitor, because you're not going to get the same granularity*, because every 10 minutes or every 20 minutes, the data is worthless,
