@@ -17,5 +17,10 @@
 	- ## Directional / non-directional / bidirectional links
 	- ## 1-1 / 1-many / many-many
 		- ### Sarnoff's law
+		  collapsed:: true
 			- ![image.png](../assets/image_1665553956551_0.png)
-			-
+			- Works for one-to-many
+		- ### Metcalfe's law
+		  collapsed:: true
+			- ![image.png](../assets/image_1665554007062_0.png)
+			- Works for many-to-many
