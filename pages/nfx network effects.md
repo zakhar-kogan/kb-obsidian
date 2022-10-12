@@ -87,4 +87,7 @@
 			- I need to be on that network, I cannot leave that network. That is a *good defensibility*, that is a *good retention* of me and that's what network effects are there to do.
 		- ## Personal
 			- What **Facebook** has, which is *it's my person, it's my name, it's my picture*, and I've got all my friends, it's a direct network effect, I can see them all, they can see me, I can friend somebody, can unfriend somebody, everything works, but it's not as powerful as the one with utility.
-			- When I get sick of being away from Facebook, I'll probably just go back to it, and we see this, people do this all the time, they quit Facebook and then nine months later they say, "I'm back," why? Because you have this retention, this defensibility, this network effect that adds value to every node on the network, and no one wants to leave it.
+			- When I get sick of being away from Facebook, I'll probably just go back to it, and we see this, people do this all the time, they quit Facebook and then nine months later they say, "I'm back," why? Because you have *this retention, this defensibility, this network effect that adds value to every node on the network,* and no one wants to leave it.
+	- ## Market
+		- ![image.png](../assets/image_1665556899097_0.png)
+		-
