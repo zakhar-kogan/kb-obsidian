@@ -167,4 +167,4 @@
 			- So brand is particularly important **in categories where there's like many options**, so it could be commodity products or services, 'cause it helps consumers to **shortcut the decision-making process** and choose the brand or service that's right for them. And also enables their company to have, you know, easier customer acquisition and higher prices.
 			- The other end is those that are really **high consideration purchases**, where trust is paramount. *If you are going to choose an investment bank to make you go public, you don't want a no-name organization. You want the strong, branded, trustworthy service.*
 			- The same goes for **enterprise software** where building a thoughtful brand that's trusted and well-known is critical for the success of that organization.
-	-
+	- ## Embedding
