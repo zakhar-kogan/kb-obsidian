@@ -80,3 +80,4 @@
 	  collapsed:: true
 		- So if you've got a supply and you've built your marketplace for the demand, they might be using your marketplace. But like with Lyft or Uber, I could sell my services on somebody else's marketplace, number two, or maybe marketplace number three. This happens if you're selling on eBay. You also want to sell on Amazon marketplace or on Shopify or on Etsy.
 		- Can you build a system where either or both, the supply and the demand do not want to **multi-tenant** so you can capture their share of wallet, capture their average order value, capture the overall annual take that you're going to be taking from them? That's one thing you need to think about when designing your marketplace is how to keep them from multi-tenanting.
+	-
