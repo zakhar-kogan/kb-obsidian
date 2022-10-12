@@ -1,3 +1,4 @@
 - # Why network effects are critical
 	- https://www.nfx.com/masterclass/network-effects/network-effects-mission-critical
-	-
+	- Network effects (NE) may be the most important factor in predicting startup's success.
+	- Between 2012 and 2018
