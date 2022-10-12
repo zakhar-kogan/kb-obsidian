@@ -33,4 +33,6 @@
 			- An improvement on Metcalfe's law by a MIT professor in 1999
 			- Because of local clusters, the real value may grow as $V=2^n$
 	- ## Critical mass
-	-
+		- Or a point of inflection => **crucial** to start getting network effects.
+		- So to build the network value, you need to get to critical mass. And what happens is, as your network is growing a little bit, a little bit, a little bit all the time, at some point, it hits a moment of critical mass where it takes off, it lifts off. You can feel it. It's like someone stuck two fingers in your nose and just yanks your head forward. It just starts to take off on its own. And that critical mass moment is often facilitated through **developing your clustering.**
+		-
