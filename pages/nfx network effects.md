@@ -43,4 +43,5 @@
 		- Now to get these clusters going, you're going to want to find your **minimal viable cluster.** Some small group of people that once attached to each other will stay attached to each other that you can then build on. Again, maybe creating another cluster and then bridging those two clusters. That minimal viable cluster really helps you to found the overall network. Now, to get to critical mass, the product is going to have to have some value to these users, to this cluster.
 		-
 	- ## Network properties
+		- *Real > pseudonymous > anonymous* IDs
 		-
