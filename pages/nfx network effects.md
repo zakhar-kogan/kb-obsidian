@@ -149,5 +149,6 @@
 - # 4 Pillars Of Defensibility
 	- https://www.nfx.com/masterclass/network-effects/4-pillars-of-defensibility
 	- ## Why you should care
-		- So defensibility really means resilience.
+		- So defensibility really means **resilience**.
+		- And the fact that *companies can survive against what the reality will be of any successful business is an onslaught of competitors or substitutes.* And understanding how you can build that defensibility early on means not only you can have a successful company, but also you can have one that can dominate the category that it's executing in.
 		-
