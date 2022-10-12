@@ -263,5 +263,8 @@
 		- Embed good management of people in the software. People stick with their job because they like their manager. And how many of us have had bad managers who didn't get the training who never got shown how to be a good manager and so they were bad managers and made people miserable, working for them. Well, you can solve that at scale using software and using systems and processes to bring good management, that is possible now and you should take that responsibility.
 		- Give them ways of helping themselves to develop their careers; give them a graphic. Show them a path, how they are going to progress, like a video game or like school, or like getting different belts in karate. We all like moving up the levels; show them how they will progress in their careers so that they can feel a sense of accomplishment and mastery as they progress.
 		- Give them ways of helping each other by joining groups that self-improve together. So you can actually create product and your software so you can join groups that self-improve together and it will really benefit their lives and their careers.
+		- Give them their metrics transparently about their behavior and their network so that they can see how they're doing, don't keep them in the dark.
+		- Find their highest and best use, possibly by giving them credits to an AI or a human career coach, to let every node in your network perform at its highest and best use. It's good for them and it's good for you and your network.
+		- Let labor multi-tenant, meaning they can work for more than one employer at a time. Multi-tenanting is the way of the future. It's a necessary and you need to allow people to do that, to take their data with them.
 		-
 		-
