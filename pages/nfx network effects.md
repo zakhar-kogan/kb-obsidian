@@ -206,3 +206,7 @@
 			- **Engagement and performance they have after they bond to your network.** So for instance, if we use Twitter as another example. You could pay someone with a big following to join your Twitter network, to grow out the graph, and to grow attention into that ecosystem. *But if they don't tweet, that's a huge problem for you. People will go to their profile, they'll see that they haven't tweeted, and they'll think, "Oh, this Twitter thing is dead." This isn't cool enough for Kobe to be tweeting"* And so without Kobe tweeting, it actually hurts your network to have Kobe having bonded in your network. So you actually want to compensate each node for their performance after their initial bonding.
 			- **Different curves you can use in declining** how much you're willing to pay somebody.
 		- ![image.png](../assets/image_1665563718258_0.png)
+	- ## Types of compensation for bonding
+		- Value of using the product. So the value of your product is actually the first and most useful thing that you can still do going forward.
+		- cash. US dollars, or Euros, or Bitcoins, or whatever they might want to get paid to join your network. You can see this in a lot of entertainment products, with celebrities, and whatnot.
+		- equity shares, traditionally, to your employees. But increasingly, people are wondering whether it should be shared beyond employees.
