@@ -82,8 +82,10 @@
 		- Can you build a system where either or both, the supply and the demand do not want to **multi-tenant** so you can capture their share of wallet, capture their average order value, capture the overall annual take that you're going to be taking from them? That's one thing you need to think about when designing your marketplace is how to keep them from multi-tenanting.
 	- ## Related concepts
 		- ### Viral effects
+		  collapsed:: true
 			- **Viral effects** are awarding your existing users get you new users for free. There are playbooks for that and that's great, but that's not what we're talking about. Network effects are about retention. Network effects are about defensibility. And the defensibility is what ultimately adds value to your part.
 			- ![image.png](../assets/image_1665555627291_0.png)
+			- $K=\frac {Interactions*Conversion}{time}$
 		- ### Linear vs geometric growth
 		  collapsed:: true
 			- ![image.png](../assets/image_1665555592998_0.png)
