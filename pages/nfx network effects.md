@@ -14,7 +14,11 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1665553841794_0.png)
 	- ## White hot center
+	  collapsed:: true
+		- So if there's one node where everybody's connecting to them, then you've got the beginnings of a **white hot center** with the core node, and then the nodes that are closest to them.
 	- ## Directional / non-directional / bidirectional links
+	  collapsed:: true
+		- Another important aspect of these links is that they can be **directed**. There can be direction to these. So for instance, in Twitter, you would have an influencer who is important, sending out mostly messages to people who are just reading. That would be directional in one way. Or you could have, let's say a Venmo, where people are paying each other.
 	- ## 1-1 / 1-many / many-many
 	  collapsed:: true
 		- ### Sarnoff's law
