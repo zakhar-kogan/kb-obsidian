@@ -195,5 +195,7 @@
 		- But if you think about how to **turn everything you're doing into a multiplayer game,** or think of how, what you're doing is a multiplayer game and you didn't see it that way, you will start, that's the easiest way I've learned to help founders start to see what I'm talking about, which is:*how do I add other people into this game with me? What am I compensating them? What are they getting? What are they giving? What's the implicit arrangement we have with each of the nodes and the network we're bonding into this multiplayer game?*
 		- ![image.png](../assets/image_1665563461581_0.png)
 	- ## Startup is your network
-		-
+		- So you've got this **asymptoting declination of your willingness to pay people** to join onto your network.
+		- Then, you go to an investor and you say, "I need to raise $2 million." And that investor gives you a seed check.And for $2 million, maybe they buy 15% of your company. But the next firm that comes along, they might give you $6 million for 15% of your company. And the next firm might give you $25 million for 15% of your company.
+		- And again, you've got a **geometrically declining amount of equity you spend in order to get that new investor node to bond** to your network. And we've been doing this implicitly forever.
 		- ![image.png](../assets/image_1665563718258_0.png)
