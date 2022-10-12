@@ -4,4 +4,4 @@
 	- Between 2012 and 2018 70% of tech companies employed network effects.
 	  collapsed:: true
 		- ![image.png](../assets/image_1665553288535_0.png)
-	-
+	- Viral effects are ==not== network effects. Network effect is
