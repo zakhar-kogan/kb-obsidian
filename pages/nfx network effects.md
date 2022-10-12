@@ -71,4 +71,6 @@
 			- Those conditions don't exist today anymore. But understanding viral effects, understanding virality, how to measure your *K-factor can be useful to lowering your CAC* today.
 		- ### Linear vs geometric growth
 			- ![image.png](../assets/image_1665555592998_0.png)
-- #
+- # 16 Network Effects
+	- https://www.nfx.com/masterclass/network-effects/mapping-the-16-network-effects
+	-
