@@ -20,7 +20,13 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1665553956551_0.png)
 			- Works for one-to-many
+			- $V=n$
 		- ### Metcalfe's law
 		  collapsed:: true
 			- ![image.png](../assets/image_1665554007062_0.png)
 			- Works for many-to-many
+			- $V=n^2$
+		- ### Reed's law
+			- ![image.png](../assets/image_1665554065662_0.png)
+			- An improvement on Metcalfe's law by a MIT professor in 1999
+			-
