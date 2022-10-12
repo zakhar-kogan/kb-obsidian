@@ -1,0 +1,3 @@
+- # Why network effects are critical
+	- https://www.nfx.com/masterclass/network-effects/network-effects-mission-critical
+	-
