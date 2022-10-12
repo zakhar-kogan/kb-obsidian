@@ -189,4 +189,4 @@
 - # Network bonding theory
 	- https://www.nfx.com/masterclass/network-effects/network-bonding-theory
 	- Look, software used to be the hard part about your startup. Software is getting a lot easier. What's hard now is community building, is building the network, is getting people and other things to bond to your networks, which is how to bond people to the network of your company, because your company itself is a network.
-	- And companies have forever, made implicit decisions about what to compensate people, how to pay nodes to bond to their network, particularly in the form of shares and salary compensation.
+	- And companies have forever made implicit decisions about what to compensate people, how to pay nodes to bond to their network, particularly in the form of shares and salary compensation.
