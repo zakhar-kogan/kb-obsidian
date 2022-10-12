@@ -100,5 +100,6 @@
 			- Very common, whether it's **Craigslist** or **Monster.com** or **Uber**, you've got a supply side and a demand side, *the more supply you have, the more value the demand gets* and vice versa
 		- ## Platform
 			- ![image.png](../assets/image_1665557209783_0.png)
-			- A platform *allows businesses to be built on top,* particularly software businesses to be built on top. The best example would be Microsoft OS.
-			- And you see this now in sort of developer programs that, you know, even these web3 companies want to get developers developing on top of Ethereum or on top of Avalanche, these are trying to make the network effects be a platform. Same thing happened with Salesforce, they had a SaaS tool, they launched Force and said, "This is a platform that you can build your software business on top of, please developers come develop on our platform, you'll be able to get access to distribution, access to your customers through us," and Salesforce has done incredibly well
+			- A platform *allows businesses to be built on top,* particularly software businesses to be built on top. The best example would be **Microsoft** OS.
+			- And you see this now in sort of developer programs that, you know, even these web3 companies want to get developers developing on top of **Ethereum** or on top of **Avalanche**, these are trying to make the network effects be a platform. Same thing happened with **Salesforce**, they had a SaaS tool, they launched Force and said, "This is a platform that you can build your software business on top of, please developers come develop on our platform, you'll be able to get access to distribution, access to your customers through us," and **Salesforce** has done incredibly well.
+			-
