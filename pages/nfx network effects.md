@@ -146,5 +146,6 @@
 		- And part of the journey of the different seasons of running your business is to pick *what is the next network effect I'm going to add to the one I've already got? How does it relate? How does it easily flow? How do I take the people I already have and move them into a new space? How do I bring in new nodes?*
 		- ![image.png](../assets/image_1665559535103_0.png)
 		- ![image.png](../assets/image_1665559549202_0.png)
+- # 4 Pillars Of Defensibility
+	- https://www.nfx.com/masterclass/network-effects/4-pillars-of-defensibility
 	-
--
