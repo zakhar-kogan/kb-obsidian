@@ -276,4 +276,8 @@
 		- ![image.png](../assets/image_1665587129971_0.png)
 	- ## Network topology of our life
 		- So, if you're a node on these networks, how do these network bonds form? How do these links get formed?
-			- Geographic proximity. By seeing other people, interacting with them physically,
+			- Geographic proximity. By seeing other people, interacting with them physically, this tends to be the fastest way the humans bond. Now with the digital world, this is starting to change but in the past and still today, physical connection is incredibly important.
+			- Frequency. What are the circumstances of your life which cause you to be in frequent connection with another individual or set of individuals?
+			- High degree of overlap. So if you know this person and they also know another person you know, that that density of the network ends up driving relationships and sort of driving a group identity and offers up trust and allows more information and resources to move across the links between you two.
+			- Transition period. Often, when we go through these transition periods, we're more open to forming identity, to forming friendships, to forming links within the network.
+			- Going through something hard or something that is fear inducing. Because again, that opens us up, we have new experiences and then those new network links have a chance to form.
