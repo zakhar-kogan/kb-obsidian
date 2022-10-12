@@ -44,5 +44,8 @@
 		-
 	- *Real > pseudonymous > anonymous* IDs
 	- ## Homogeneity
+	  collapsed:: true
 		- ![image.png](../assets/image_1665554488688_0.png)
-		- Conversely, homogeneity allows you to grow your network faster, but then often leaves you more vulnerable to attack by other competitors and other networks, simply because people are interchangeable. You think about Uber, you think about Lyft, you think about businesses where the needs are very clear and obvious,
+		- Conversely, **homogeneity** allows you to grow your network faster, but then often leaves you more vulnerable to attack by other competitors and other networks, simply because people are interchangeable. You think about Uber, you think about Lyft, you think about businesses where the needs are very clear and obvious, but it helps you grow faster at the beginning. So it's a trade off.
+	- ## Asymptoting
+		- Another interesting network property is what we call asymptoting. And asymptoting takes place when you might be adding more nodes onto the network, but the value doesn't actually continue to grow it. So the value of an Uber network or a Lyft network asymptotes even though you keep getting more drivers on the network,
