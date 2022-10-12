@@ -148,4 +148,6 @@
 		- ![image.png](../assets/image_1665559549202_0.png)
 - # 4 Pillars Of Defensibility
 	- https://www.nfx.com/masterclass/network-effects/4-pillars-of-defensibility
-	-
+	- ## Why you should care
+		- So defensibility really means resilience.
+		-
