@@ -42,6 +42,7 @@
 		- So to build the network value, you need to get to critical mass. And what happens is, as your network is growing a little bit, a little bit, a little bit all the time, at some point, it hits a moment of critical mass where it takes off, it lifts off. You can feel it. It's like someone stuck two fingers in your nose and just yanks your head forward. It just starts to take off on its own. And that critical mass moment is often facilitated through **developing your clustering.**
 		- Now to get these clusters going, you're going to want to find your **minimal viable cluster.** Some small group of people that once attached to each other will stay attached to each other that you can then build on. Again, maybe creating another cluster and then bridging those two clusters. That minimal viable cluster really helps you to found the overall network. Now, to get to critical mass, the product is going to have to have some value to these users, to this cluster.
 		-
-	- ## Network properties
-		- *Real > pseudonymous > anonymous* IDs
-		-
+	- *Real > pseudonymous > anonymous* IDs
+	- ## Homogeneity
+		- ![image.png](../assets/image_1665554488688_0.png)
+		- Conversely, homogeneity allows you to grow your network faster, but then often leaves you more vulnerable to attack by other competitors and other networks, simply because people are interchangeable. You think about Uber, you think about Lyft, you think about businesses where the needs are very clear and obvious,
