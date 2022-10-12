@@ -86,4 +86,4 @@
 			- Where you have your identity, like **WhatsApp**, or like **Facebook** Messenger, or **WeChat**, where it's personal to you, it's direct because I can connect with anyone on WhatsApp, I can connect with anyone on Facebook Messenger, on WeChat, and it's utility, meaning *I get some utility out of it, like making a payment, or picking the kids up from school.*
 			- I need to be on that network, I cannot leave that network. That is a *good defensibility*, that is a *good retention* of me and that's what network effects are there to do.
 		- ## Personal
-			-
+			- What **Facebook** has, which is it's my person, it's my name, it's my picture, and I've got all my friends, it's a direct network effect, I can see them all, they can see me, I can friend somebody, can unfriend somebody, everything works, but it's not as powerful as the one with utility.
