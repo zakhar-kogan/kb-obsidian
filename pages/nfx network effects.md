@@ -51,8 +51,12 @@
 	  collapsed:: true
 		- Another interesting network property is what we call **asymptoting**. And asymptoting takes place when you might be adding more nodes onto the network, but the value doesn't actually continue to grow it. So the value of an Uber network or a Lyft network asymptotes even though you keep getting more drivers on the network, because if you're putting on your jacket or getting your bag, or you need to go to the bathroom before they come, you don't really care if they come faster than 4 minutes. It's nice if they come at 3 minutes, but as long as they come in under 10 or 6, it's pretty much good. And so the value doesn't actually get much higher.
 	- ## Assymetry
+	  collapsed:: true
 		- So another important network property is what we call **asymmetry**.
 		- In most marketplaces, **one side is harder** than the other. In some cases, much harder than the other. Example: Outdoorsy, doing an RV marketplace. They discovered that the supply side was much harder to get because there was, let's say, 2,500 mom and pops renting out about 50,000 RVs in the United States, but there was 30 million people trying to rent those RVs.
 		- So if they could build software to allow them to work with and understand where these were, they would be able to *offer that supply out for the voracious demand* that was out there and build a pretty good marketplace, which they've done.
 	- ## Cross-side network effect
-		-
+	  collapsed:: true
+		- ![image.png](../assets/image_1665554753592_0.png)
+		- The two sides, in this case, are the supply and the demand. So the value is the more supply on the network, the more value to the demand side. So that's **cross-side network effect**, cross-side value being created, and that can be quite intense.
+	-
