@@ -245,4 +245,5 @@
 		- If the nodes in your network are **fungible.** Like, *if they're willing to multi-tenant, that makes you vulnerable to another network attack,* because they can go and try out the other network and decide they prefer it.
 - # Network Problems Demand Network Solutions
 	- https://www.nfx.com/masterclass/network-effects/new-social-contract
+	- ![image.png](../assets/image_1665585825772_0.png)
 	-
