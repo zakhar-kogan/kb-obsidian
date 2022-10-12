@@ -13,4 +13,6 @@
 	- ## Network density
 	  collapsed:: true
 		- ![image.png](../assets/image_1665553841794_0.png)
-	-
+	- ## White hot center
+	- ## Directional / non-directional / bidirectional links
+	- ## 1-1 / 1-many
