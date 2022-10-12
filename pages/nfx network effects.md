@@ -289,4 +289,5 @@
 	- ## Social brain theory
 		- ![image.png](../assets/image_1665587985630_0.png)
 	- ## 7 crossroads of your life
-		-
+		- **Family you are born into.** And this *ends up having a big impact on your values, on what you think your life is supposed to be about, what job you're supposed to do.* I mean, the biggest predictor of whether someone's an entrepreneur is whether one of their parents was an entrepreneur. The biggest predictor of being a doctor was if one of your parents was a doctor.
+		- high school. Because when you go to high school, that's where you get your nicknames. That's where you start to really develop your identity in your teen years. You're physically merged with a lot of people. You interact with them frequently. You're going to build a lot of bonds, or you potentially could.
