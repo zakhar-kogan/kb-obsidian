@@ -160,5 +160,6 @@
 		- So early stage founders, you really need to think about this from the earliest days. *How do you define your brand? How do you stand out? How do you have consistency in what you do and have high visibility in the brand that you're creating?*
 		- ### Building early-stage brands
 			- You do need to **ensure that your brand stands for something.** The most powerful brands in the world have a **specific purpose** and **specific mission.**
-			- And by repeating that again and again, alongside a **clear visual identity that's consistent** and then amplifying that across as many media channels as possible,
-		-
+			- And by repeating that again and again, alongside a **clear visual identity that's consistent** and then amplifying that across as many media channels as possible, will create an efficient but important platform to build a long-term successful brand.
+			- The best early stage brands are often ones that are **surprisingly quite controversial.** They stand for something, they make an impact, they make you think. And that can be quite uncomfortable.
+			-
