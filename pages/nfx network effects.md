@@ -83,4 +83,5 @@
 		- ## Protocol
 			- And you can see this with **faxes** or with **ethernet** or with **Bitcoin**, where you develop a protocol, you publish it widely, everyone can now attach to this protocol, and the more people use that protocol, the *more benefit everyone gets* from that protocol.
 		- ## Personal utility
+			- Where you have your identity, like **WhatsApp**, or like **Facebook** Messenger, or **WeChat**, where it's personal to you, it's direct because I can connect with anyone on WhatsApp, I can connect with anyone on Facebook Messenger, on WeChat, and it's utility, meaning *I get some utility out of it, like making a payment, or picking the kids up from school.*
 			-
