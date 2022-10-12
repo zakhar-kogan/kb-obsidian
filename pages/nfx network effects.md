@@ -234,4 +234,6 @@
 		- **The same thing is going to happen with tokens and with NFTs**, Non-fungible Tokens in the future with *all of your nodes expecting to get compensated for the value they bring to your network.* So it's going to require software spreadsheets thinking it's going to require different mindset from founders to manage in this new environment as everything gets revealed as a network, and *we have ways of measuring and compensating people for the value they bring to those networks.*
 	- ## Incentives
 		- Charlie Munger says, "Show me the incentives and I'll show you the outcome." I just think that's incomplete. We are going to be subject to **overcompensating, or over-indexing if you will, on incentive models.**
-		-
+		- And we really shouldn't, we shouldn't forget the human part of this. You see that and *if you're going to recruit a sports person to your team like Lionel Messi, does he like the people he's going to be playing with? Does he like the management? Does he like living in Paris? Does his wife like living in Paris?* There's still human factors in compensating if you will, these nodes to bond, and **let's not forget them.**
+	- ## Network vs network
+		- for the last 25 years, we've watched the internet create networks that have attacked the scale effect businesses of the past. And it's been an unfair fight. It's been like mammals versus reptiles. Mammals end up dominating. So we've been able to defeat the newspapers and the radios and the TVs with new media.
