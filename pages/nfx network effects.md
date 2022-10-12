@@ -136,4 +136,4 @@
 			- So **Apple** is the master at creating this fear of being left out, people are waiting in line to get the latest iPhone or whatever, because they want to get on the bandwagon. They don't want to be left behind.
 			- **Slack** was very much like this. You know, there was **Hip Chat** well before **Slack**, but **Slack** was cooler, and the companies didn't want to be left behind, you *couldn't be a modern software company if you didn't have your employees using Slack*
 		- ## Hub & spoke
-			-
+			- You would be a node on the **Medium** network by signing up, you would publish into the **hub of Medium** where everyone can see it. And then once a day, *Medium would send out an email* with the best publications of the prior day or the prior few days. Which means that, *instead of your friends seeing what you posted, you might be sent out to everyone,* all right?
