@@ -109,4 +109,4 @@
 			- We've seen this again with data network effects where it asymptotes, these marketplaces for data asymptote, because the *value doesn't keep increasing as the network size increases* and you see this quite a lot.
 		- ## Expertise
 			- ![image.png](../assets/image_1665557777555_0.png)
-			-
+			- So because **QuickBooks** got a dominant market share, they were able to then create this network effect so that *employers are looking for people on QuickBooks, and they want to use QuickBooks so that they can always hire new people to work on QuickBooks, to augment whoever else they have, so they have a more liquid pool of labor to work on their accounting. So everyone's incentivized to get good at QuickBooks, to use QuickBooks, and to grow that ecosystem*, which creates great defensibility and retention, which is the definition of network effects. Other examples would include **Figma**.
