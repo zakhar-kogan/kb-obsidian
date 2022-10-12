@@ -174,4 +174,5 @@
 		- They made that embedding very simple for developers to incorporate into their websites. **Enabling, an example would be Uber, to send text messages very efficiently. And as Uber grew, Twilio benefited from that.**
 		- ### Embedding strategy
 			- So if you are pursuing an embedding strategy, it's really important to understand **who the decision-maker is in the organization.**
+			- Many other companies are focused on **identifying who is a decision-maker** in the organization, could be a developer, and *building a community and a brand focused on those developers and giving them the tools and the documentations to make it incredibly easy, taking out the friction of the service and boarding a highly scalable platform that they can incorporate into their service.*
 			-
