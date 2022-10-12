@@ -216,9 +216,9 @@
 		- Early access to various pieces, or to different communities within your product.
 		- Voting or decision making, the ability to edit things or to change things, really power in your network.
 		- Premier software features. Functionality like power that other people don't have.
-		- membership into this valuable clique, or access to other nodes they wouldn't normally get access to.
-		- real world perks like dinner, or tickets to the ball game. We've seen that repeatedly, certainly in the sales process.
+		- Membership into this valuable clique, or access to other nodes they wouldn't normally get access to.
+		- Real world perks like dinner, or tickets to the ball game. We've seen that repeatedly, certainly in the sales process.
 		- Another thing you can give people is really a belief in the mission. This is a right brain compensation. It's a intrinsic motivator, but you've got to put it on your list, because some of your businesses will have the ability to create belief in the various nodes who want to join.
-		- commitment to a set of human relationships, another right brain intrinsic thing.
-		- fungible tokens. Just people are adding tokens to certain marketplaces and saying, "If you continue to run your labor through our marketplace, you will earn more tokens, which will be worth money in the future."
-		- non-fungible tokens. NFTs, so far have been mostly about art and art communities and whatnot.
+		- Commitment to a set of human relationships, another right brain intrinsic thing.
+		- Fungible tokens. Just people are adding tokens to certain marketplaces and saying, "If you continue to run your labor through our marketplace, you will earn more tokens, which will be worth money in the future."
+		- Non-fungible tokens. NFTs, so far have been mostly about art and art communities and whatnot.
