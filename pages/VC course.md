@@ -108,8 +108,10 @@ collapsed:: true
 	- ![image.png](../assets/image_1665812965527_0.png)
 	- ![image.png](../assets/image_1665813008093_0.png)
 	- ![image.png](../assets/image_1665813289480_0.png)
-	- ![image.png](../assets/image_1665813342886_0.png)
+	- [Crossing the chasm](https://www.hightechstrategies.com/crossing-the-chasm-summary/)
+		- ![image.png](../assets/image_1665813342886_0.png)
 	- ![image.png](../assets/image_1665813469242_0.png)
 	- [Пять сил Портера](https://www.unisender.com/ru/glossary/model-5-konkurentnyh-sil-portera/)
-	- ![image.png](../assets/image_1665813527525_0.png)
+		- ![image.png](../assets/image_1665813527525_0.png)
+	-
 	-
