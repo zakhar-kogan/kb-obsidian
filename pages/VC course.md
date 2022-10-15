@@ -106,4 +106,5 @@ collapsed:: true
 	-
 # Качественные и количественные методы анализа рынка стартапа
 	- ![image.png](../assets/image_1665812965527_0.png)
+	- ![image.png](../assets/image_1665813008093_0.png)
 	-
