@@ -114,5 +114,6 @@ collapsed:: true
 	- [Пять сил Портера](https://www.unisender.com/ru/glossary/model-5-konkurentnyh-sil-portera/)
 		- ![image.png](../assets/image_1665813527525_0.png)
 	- ![image.png](../assets/image_1665813819463_0.png)
+	- Понимание макроэкономических трендов. Пример - ресторанный рынок США: мин![image.png](../assets/image_1665813883772_0.png)
 	-
 	-
