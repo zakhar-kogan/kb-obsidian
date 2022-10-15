@@ -123,6 +123,7 @@ collapsed:: true
 	- Декомпозиция по Ферми
 		- ![image.png](../assets/image_1665814317983_0.png)
 		- ![image.png](../assets/image_1665814334824_0.png)
+	- ![image.png](../assets/image_1665814451325_0.png)
 	-
 	-
 	-
