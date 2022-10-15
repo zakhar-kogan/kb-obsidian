@@ -42,6 +42,7 @@
 	-
 	-
 # Инвестиционный меморандум, критерии анализа стартапа, ошибки и когнитивные искажения VC
+collapsed:: true
 	- https://www.youtube.com/watch?v=gCsTesUHEYU
 	- ![image.png](../assets/image_1665469615496_0.png)
 	- ![image.png](../assets/image_1665469625493_0.png)
@@ -102,4 +103,6 @@
 		- ![image.png](../assets/image_1665473943370_0.png)
 		-
 		-
+	-
+# Качественные и количественные методы анализа рынка стартапа
 	-
