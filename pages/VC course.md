@@ -132,9 +132,8 @@ collapsed:: true
 		- ![image.png](../assets/image_1665814820440_0.png)
 		- ![image.png](../assets/image_1665814830737_0.png)
 		- ![image.png](../assets/image_1665814868296_0.png)
-		-
 	- TAM, SAM, SOM
 		- ![image.png](../assets/image_1665814561900_0.png)
 		- ![image.png](../assets/image_1665814650038_0.png)
-		-
+		- ![image.png](../assets/image_1665814918877_0.png)
 	-
