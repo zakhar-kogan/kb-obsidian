@@ -216,4 +216,7 @@ collapsed:: true
 				- Attribute
 				- Prestige
 		- Партнеры и каналы распространения
-			- Value cha
+		  collapsed:: true
+			- Value chain & [Power maps](https://powermaps.net/)
+				- ![image.png](../assets/image_1665906375792_0.png)
+		-
