@@ -215,4 +215,5 @@ collapsed:: true
 				- Price
 				- Attribute
 				- Prestige
+		- Партнеры и каналы распространения
 		-
