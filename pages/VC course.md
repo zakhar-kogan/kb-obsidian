@@ -151,19 +151,23 @@ collapsed:: true
 		- ![image.png](../assets/image_1665815520598_0.png)
 		-
 	-
-# Подходы и инструменты для проведения конкурентного анализа
+- # Подходы и инструменты для проведения конкурентного анализа
+  collapsed:: true
 	- https://www.youtube.com/watch?v=AVJakJkr3M
 	- https://t.me/ask_vc_analyst/24
 	- Не надо показывать, что вы лучше; это не сейлз, а для понимания, как работать с конкурентами/предвосхищать их шаги
 	- Пытайтесь найти свои слабые стороны, а также сильные стороны конкурентов
 	- Методы
+	  collapsed:: true
 		- **SWOT** => больше про саму компанию
 		- [**PEST(LE)**](https://libguides.library.usyd.edu.au/c.php?g=508107&p=5994242) => Political, Economical, Sociocultural, Technological, Legal, Environmental
 	- Competitive positioning (Porter)
+	  collapsed:: true
 		- Cost leadership => снижение издержек/повышение маржи относительно конкурентов
 		- Differentiation => отличительная черта продукта (лучше, функционал, качество и тд)
 		- Для узкого рынка: Focus
 	- Workflow
+	  collapsed:: true
 		- Определить рынок через сегментирование
 		  collapsed:: true
 			- В узком сегменте выше шанс занять значительную рыночную долю
@@ -246,6 +250,7 @@ collapsed:: true
 				- Качество
 				- Позиционирование
 		- Стратегия атаки
+		  collapsed:: true
 			- Market leader
 			  collapsed:: true
 				- Expanding the total market
@@ -284,3 +289,5 @@ collapsed:: true
 				- Product feature
 				- Quality
 				- Service
+	- Michael Porter "Competitive strategy" #books
+- #
