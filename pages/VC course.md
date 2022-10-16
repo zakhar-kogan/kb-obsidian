@@ -276,8 +276,11 @@ collapsed:: true
 				- Imitator
 				- Adapter
 			- Nicher
+			  collapsed:: true
 				- Industry
 				- Customer size
 				- Specific customer
 				- Geography
-				-
+				- Product feature
+				- Quality
+				- Service
