@@ -342,4 +342,5 @@ collapsed:: true
 - # Таблицы Капитализации (Cap Table)
 	- https://www.youtube.com/watch?v=cXac45lSJSw
 	- ![image.png](../assets/image_1665937055266_0.png)
+	- ![image.png](../assets/image_1665937479628_0.png)
 	-
