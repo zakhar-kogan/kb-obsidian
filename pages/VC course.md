@@ -151,4 +151,5 @@ collapsed:: true
 	-
 # Подходы и инструменты для проведения конкурентного анализа
 	- https://www.youtube.com/watch?v=AVJakJkr3Ms
+	- ![image.png](../assets/image_1665902216194_0.png)
 	-
