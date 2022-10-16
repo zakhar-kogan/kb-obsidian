@@ -157,5 +157,6 @@ collapsed:: true
 	- Не надо показывать, что вы лучше; это не сейлз, а для понимания, как работать с конкурентами/предвосхищать их шаги
 	- Пытайтесь найти свои слабые стороны, а также сильные стороны конкурентов
 	- Методы
-		- SWOT => больше про саму компанию
-		- PEST(LE) => Poli
+		- **SWOT** => больше про саму компанию
+		- [**PEST(LE)**](https://libguides.library.usyd.edu.au/c.php?g=508107&p=5994242) => Political, Economical, Sociocultural, Technological, Legal, Environmental
+	-
