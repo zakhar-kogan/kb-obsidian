@@ -259,4 +259,4 @@ collapsed:: true
 				- Quality
 				- Service
 	- Michael Porter "Competitive strategy" #books
-- #
+# Экспресс-анализ рынка и конкуренции для стартапа
