@@ -247,15 +247,25 @@ collapsed:: true
 				- Позиционирование
 		- Стратегия атаки
 			- Market leader
+			  collapsed:: true
 				- Expanding the total market
 				- Defending market share
 				- Expanding market share
 			- Market challenger
+			  collapsed:: true
 				- First define strategic goals and opponents
 				- Choose general attack strategy
+				  collapsed:: true
 					- Frontal attacks match competition
 					- Flank attacks serve unmet market needs or underserved ideas
 					- Bypassing opponent and attacking easier markets
 				- Choose specific attack
+				  collapsed:: true
 					- Discount on price
-					-
+					- Lower price
+					- Prestige goods
+					- Improved services
+					- Product distribution
+					- Product innovation
+					- Manufacturing cost reduction
+			-
