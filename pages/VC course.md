@@ -330,5 +330,6 @@ collapsed:: true
 		- ![image.png](../assets/image_1665935896943_0.png)
 	- Оценка компании
 		- ![image.png](../assets/image_1665936116359_0.png)
+		- ![image.png](../assets/image_1665936338387_0.png)
 		-
 	-
