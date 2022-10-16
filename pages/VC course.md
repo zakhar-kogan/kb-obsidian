@@ -282,4 +282,5 @@ collapsed:: true
 		- ![image.png](../assets/image_1665934034213_0.png)
 		- Convertible note
 		- Equity round
-		- Bridge => когда денег не хватает, "просят" раунд
+		- Bridge => когда денег не хватает, "просят" раунд поменьше у инвесторов
+	-
