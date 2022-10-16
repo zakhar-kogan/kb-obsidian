@@ -285,4 +285,5 @@ collapsed:: true
 		- Bridge => когда денег не хватает, "просят" раунд поменьше у инвесторов
 	- Term sheet
 		- ![image.png](../assets/image_1665934198908_0.png)
-		-
+		- ![image.png](../assets/image_1665934205428_0.png)
+	-
