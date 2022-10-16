@@ -245,4 +245,7 @@ collapsed:: true
 				- Фичи
 				- Качество
 				- Позиционирование
-		-
+		- Стратегия атаки
+			- Market leader
+				- Expanding the total market
+				-
