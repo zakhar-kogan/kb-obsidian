@@ -260,3 +260,9 @@ collapsed:: true
 				- Service
 	- Michael Porter "Competitive strategy" #books
 # Экспресс-анализ рынка и конкуренции для стартапа
+	- https://www.youtube.com/watch?v=nSmvsggkH7Y
+	- Существует ли проблема?
+	- Сколько людей столкнулось с проблемой?
+	- Растет ли спрос на решение со временем?
+	- Влияет ли сезонность на спрос?
+	-
