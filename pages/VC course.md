@@ -300,6 +300,7 @@ collapsed:: true
 		- Конвертируемый займ
 			- ![image.png](../assets/image_1665934566827_0.png)
 			- ![image.png](../assets/image_1665934581432_0.png)
+		- Правила и права
 			- ![image.png](../assets/image_1665934690132_0.png)
 			- ![image.png](../assets/image_1665934763677_0.png)
 			- ![image.png](../assets/image_1665934801910_0.png)
@@ -308,4 +309,6 @@ collapsed:: true
 			- ![image.png](../assets/image_1665934885022_0.png)
 			- ![image.png](../assets/image_1665934933655_0.png)
 			- ![image.png](../assets/image_1665934964963_0.png)
+			- ![image.png](../assets/image_1665935006034_0.png)
+			- ![image.png](../assets/image_1665935015228_0.png)
 			-
