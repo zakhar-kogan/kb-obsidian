@@ -106,6 +106,7 @@ collapsed:: true
 	-
 # Качественные и количественные методы анализа рынка стартапа
 collapsed:: true
+	- https://youtu.be/olLtCo7xP64
 	- ![image.png](../assets/image_1665812965527_0.png)
 	- ![image.png](../assets/image_1665813008093_0.png)
 	- ![image.png](../assets/image_1665813289480_0.png)
@@ -149,3 +150,5 @@ collapsed:: true
 		-
 	-
 # Подходы и инструменты для проведения конкурентного анализа
+	- https://www.youtube.com/watch?v=AVJakJkr3Ms
+	-
