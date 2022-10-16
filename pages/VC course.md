@@ -260,6 +260,7 @@ collapsed:: true
 				- Service
 	- Michael Porter "Competitive strategy" #books
 # Экспресс-анализ рынка и конкуренции для стартапа
+collapsed:: true
 	- https://www.youtube.com/watch?v=nSmvsggkH7Y
 	- Существует ли проблема?
 	- Сколько людей столкнулось с проблемой?
@@ -273,4 +274,8 @@ collapsed:: true
 		- Портрет клиента
 	- Как поделен рынок? Один крупный игрок, много мелких, другое деление
 	- Фаза развития - рост рынка, или уже вырос?
+- # Основные условия сделки (term sheet). Оценка компании.
+	- https://www.youtube.com/watch?v=YOE4IRXQY4E
+	- ![image.png](../assets/image_1665933892050_0.png)
+	- ![image.png](../assets/image_1665933901272_0.png)
 	-
