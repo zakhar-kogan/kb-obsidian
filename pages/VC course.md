@@ -147,7 +147,6 @@ collapsed:: true
 		- ![image.png](../assets/image_1665815457137_0.png)
 		- ![image.png](../assets/image_1665815520598_0.png)
 - # Подходы и инструменты для проведения конкурентного анализа
-  collapsed:: true
 	- https://www.youtube.com/watch?v=AVJakJkr3M
 	- https://t.me/ask_vc_analyst/24
 	- Не надо показывать, что вы лучше; это не сейлз, а для понимания, как работать с конкурентами/предвосхищать их шаги
