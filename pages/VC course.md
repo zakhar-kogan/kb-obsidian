@@ -300,4 +300,5 @@ collapsed:: true
 		- Конвертируемый займ
 			- ![image.png](../assets/image_1665934566827_0.png)
 			- ![image.png](../assets/image_1665934581432_0.png)
+			- ![image.png](../assets/image_1665934690132_0.png)
 			-
