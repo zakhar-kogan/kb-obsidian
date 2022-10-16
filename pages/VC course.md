@@ -283,4 +283,6 @@ collapsed:: true
 		- Convertible note
 		- Equity round
 		- Bridge => когда денег не хватает, "просят" раунд поменьше у инвесторов
-	-
+	- Term sheet
+		- ![image.png](../assets/image_1665934198908_0.png)
+		-
