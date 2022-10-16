@@ -248,4 +248,8 @@ collapsed:: true
 		- Стратегия атаки
 			- Market leader
 				- Expanding the total market
+				- Defending market share
+				- Expanding market share
+			- Market challenger
+				- First define strategic goals and opponents
 				-
