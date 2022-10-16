@@ -278,4 +278,8 @@ collapsed:: true
 	- https://www.youtube.com/watch?v=YOE4IRXQY4E
 	- ![image.png](../assets/image_1665933892050_0.png)
 	- ![image.png](../assets/image_1665933901272_0.png)
-	-
+	- Типы сделок
+		- ![image.png](../assets/image_1665934034213_0.png)
+		- Convertible note
+		- Equity round
+		- Bridge => когда денег не хватает, "просят" раунд
