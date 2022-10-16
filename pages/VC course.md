@@ -206,4 +206,13 @@ collapsed:: true
 		  collapsed:: true
 			- Самому попробовать
 			- Отзывы клиентов
+			- Типы позиционирования бренда
+			  collapsed:: true
+				- Category based
+				- Consumer based
+				- Competitor based
+				- Benefit
+				- Price
+				- Attribute
+				- Prestige
 		-
