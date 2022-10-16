@@ -325,4 +325,5 @@ collapsed:: true
 		- Гарантии, права и заверения
 			- ![image.png](../assets/image_1665935335023_0.png)
 			- ![image.png](../assets/image_1665935407269_0.png)
+		- ![image.png](../assets/image_1665935576944_0.png)
 		-
