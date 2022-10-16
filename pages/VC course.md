@@ -159,4 +159,6 @@ collapsed:: true
 	- Методы
 		- **SWOT** => больше про саму компанию
 		- [**PEST(LE)**](https://libguides.library.usyd.edu.au/c.php?g=508107&p=5994242) => Political, Economical, Sociocultural, Technological, Legal, Environmental
-	-
+	- Competitive positioning (Porter)
+		- Cost leadership => снижение издержек/повышение маржи относительно конкурентов
+		- Differentiation => отличительная черта продукта (лучше, функци)
