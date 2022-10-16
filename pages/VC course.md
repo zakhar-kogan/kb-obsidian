@@ -252,4 +252,10 @@ collapsed:: true
 				- Expanding market share
 			- Market challenger
 				- First define strategic goals and opponents
-				-
+				- Choose general attack strategy
+					- Frontal attacks match competition
+					- Flank attacks serve unmet market needs or underserved ideas
+					- Bypassing opponent and attacking easier markets
+				- Choose specific attack
+					- Discount on price
+					-
