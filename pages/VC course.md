@@ -328,5 +328,7 @@ collapsed:: true
 		- ![image.png](../assets/image_1665935576944_0.png)
 	- Ошибки компаний
 		- ![image.png](../assets/image_1665935896943_0.png)
-	- ![image.png](../assets/image_1665936116359_0.png)
+	- Оценка компании
+		- ![image.png](../assets/image_1665936116359_0.png)
+		-
 	-
