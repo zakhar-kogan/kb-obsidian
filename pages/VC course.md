@@ -268,4 +268,16 @@ collapsed:: true
 					- Product distribution
 					- Product innovation
 					- Manufacturing cost reduction
-			-
+			- Follower
+			  collapsed:: true
+				- Imitation may be more profitable than innovation
+				- Counterfeiter
+				- Cloner
+				- Imitator
+				- Adapter
+			- Nicher
+				- Industry
+				- Customer size
+				- Specific customer
+				- Geography
+				-
