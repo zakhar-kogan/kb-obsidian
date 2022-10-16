@@ -315,4 +315,8 @@ collapsed:: true
 			- ![image.png](../assets/image_1665935089957_0.png)
 		- ESOP
 			- ![image.png](../assets/image_1665935105635_0.png)
+		- Vesting / cliff
+			- ![image.png](../assets/image_1665935169213_0.png)
+		- Put option
+			- ![image.png](../assets/image_1665935199236_0.png)
 		-
