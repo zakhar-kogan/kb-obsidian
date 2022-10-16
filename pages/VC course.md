@@ -162,4 +162,5 @@ collapsed:: true
 	- Competitive positioning (Porter)
 		- Cost leadership => снижение издержек/повышение маржи относительно конкурентов
 		- Differentiation => отличительная черта продукта (лучше, функционал, качество и тд)
+		- Для узкого рынка: Focus
 	-
