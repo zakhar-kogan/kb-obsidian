@@ -322,6 +322,7 @@ collapsed:: true
 			- ![image.png](../assets/image_1665935199236_0.png)
 		- Ratchet
 			- ![image.png](../assets/image_1665935319485_0.png)
-		- Гарантии и заверения
+		- Гарантии, права и заверения
 			- ![image.png](../assets/image_1665935335023_0.png)
+			- ![image.png](../assets/image_1665935407269_0.png)
 		-
