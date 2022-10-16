@@ -314,3 +314,5 @@ collapsed:: true
 		- KPI / milestones
 			- ![image.png](../assets/image_1665935089957_0.png)
 		- ESOP
+			- ![image.png](../assets/image_1665935105635_0.png)
+		-
