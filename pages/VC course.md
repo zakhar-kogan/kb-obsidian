@@ -216,4 +216,4 @@ collapsed:: true
 				- Attribute
 				- Prestige
 		- Партнеры и каналы распространения
-		-
+			- Value cha
