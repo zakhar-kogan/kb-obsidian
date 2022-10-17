@@ -7,4 +7,5 @@
 	- Trade benefits everyone because...
 		- All the sides have some specializations (something they're good at), and trading helps each specialize to own strengths
 		- Every time we trade with another agent, it's because we want something from the agent and are willing to give up something we have => value is created => welfare and happiness in society
+	- ==Trade creates value==
 	-
