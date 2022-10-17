@@ -1,2 +1,3 @@
 - [Microeconomics Principles](https://www.coursera.org/learn/microeconomics/home/welcome) #mooc
+	- **Opportunity cost** is the value of the next best option given up to engage in an activity or exchange
 	-
