@@ -2,4 +2,4 @@
 	- **Opportunity cost** is the value of the next best option given up to engage in an activity or exchange
 	- We're not making decision based on the average cost, but we make decisions based on the **additional**, or the **marginal**, **cost** => **net marginal benefit**
 	- Rational people (agents) take action *only* when marginal (extra) benefits of that action are higher than the marginal costs. If **everyone** behaves that way, society generates the **most welfare**
-	-
+	- How to make people drive cars using less gasoline/economic ones? *Increase the gasoline price*, wji
