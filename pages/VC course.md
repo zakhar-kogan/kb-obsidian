@@ -350,4 +350,5 @@ collapsed:: true
 	-
 - # Управление венчурным фондом
 	- https://www.youtube.com/watch?v=K1GwWyjZPno
+	- ![image.png](../assets/image_1666036908303_0.png)
 	-
