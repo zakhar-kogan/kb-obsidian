@@ -1,4 +1,4 @@
 - [Microeconomics Principles](https://www.coursera.org/learn/microeconomics/home/welcome) #mooc
 	- **Opportunity cost** is the value of the next best option given up to engage in an activity or exchange
 	- We're not making decision based on the average cost, but we make decisions based on the **additional**, or the **marginal**, **cost**.
-	-
+	- **Net marginal benefit** =>
