@@ -4,4 +4,5 @@
 	- Rational people (agents) take action *only* when marginal (extra) benefits of that action are higher than the marginal costs. If **everyone** behaves that way, society generates the **most welfare**
 	- How to make people drive cars using less gasoline/economic ones? *Increase the gasoline price*, which will influence individual choices.
 	- To get the consensus, we can *assume* the individual selfish choices (ir)rational people/agents will make in a game or situation
-	-
+	- Trade benefits everyone because...
+		-
