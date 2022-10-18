@@ -353,21 +353,24 @@ collapsed:: true
 	- ![image.png](../assets/image_1666036908303_0.png)
 	- Этапы ЖЦ венчурного фонда
 		- Привлечение средств
+		  collapsed:: true
+			- ![image.png](../assets/image_1666037989791_0.png)
 			- ![image.png](../assets/image_1666037972812_0.png)
+			- ![image.png](../assets/image_1666038019024_0.png)
 		- Инвестирование
+		- ![image.png](../assets/image_1666038134891_0.png)
+		- ![image.png](../assets/image_1666038140978_0.png)
+		- ![image.png](../assets/image_1666038245239_0.png)
+		- ![image.png](../assets/image_1666038262090_0.png)
 		- Управление
 		- Выход
 		- ![image.png](../assets/image_1666037879184_0.png)
 	- ЖЦ раньше был 10 лет, сейчас сокращается зачастую до 5-7 лет в связи с волатильностью и динамичностью экономических макроциклов
+	  collapsed:: true
 		- ![image.png](../assets/image_1666037886271_0.png)
 	- Денежные потоки в течение ЖЦ фонда
+	  collapsed:: true
 		- ![image.png](../assets/image_1666037917463_0.png)
-	- ![image.png](../assets/image_1666037989791_0.png)
-	- ![image.png](../assets/image_1666038019024_0.png)
-	- ![image.png](../assets/image_1666038134891_0.png)
-	- ![image.png](../assets/image_1666038140978_0.png)
-	- ![image.png](../assets/image_1666038245239_0.png)
-	- ![image.png](../assets/image_1666038262090_0.png)
 	- ![image.png](../assets/image_1666038498006_0.png)
 	- ![image.png](../assets/image_1666038608506_0.png)
 	- ![image.png](../assets/image_1666038689033_0.png)
