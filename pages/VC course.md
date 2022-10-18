@@ -349,15 +349,18 @@ collapsed:: true
 	- ![image.png](../assets/image_1665938336389_0.png)
 	-
 - # Управление венчурным фондом
+  collapsed:: true
 	- https://www.youtube.com/watch?v=K1GwWyjZPno
 	- ![image.png](../assets/image_1666036908303_0.png)
 	- Этапы ЖЦ венчурного фонда
+	  collapsed:: true
 		- Привлечение средств
 		  collapsed:: true
 			- ![image.png](../assets/image_1666037989791_0.png)
 			- ![image.png](../assets/image_1666037972812_0.png)
 			- ![image.png](../assets/image_1666038019024_0.png)
 		- Инвестирование
+		  collapsed:: true
 			- Портфельная теория не работает
 				- ![image.png](../assets/image_1666038134891_0.png)
 			- Техники построения портфеля
@@ -378,9 +381,15 @@ collapsed:: true
 			- ![image.png](../assets/image_1666038689033_0.png)
 			- ![image.png](../assets/image_1666038797587_0.png)
 		- Управление
-			- Управление включает в себя компромисс между *действиями по развитию портфельной компании* (обеспечить рост) + *защитой собственных интересов* (выход, удержание доли и контроля)
+		  collapsed:: true
+			- ![image.png](../assets/image_1666039101757_0.png)
+			- ![image.png](../assets/image_1666039034351_0.png)
+			- ![image.png](../assets/image_1666038923612_0.png)
+			- Управление включает в себя **компромисс** между *действиями по развитию портфельной компании* (обеспечить рост) + *защитой собственных интересов* (выход, удержание доли и контроля)
 			- ![image.png](../assets/image_1666038849776_0.png)
 		- Выход
+		  collapsed:: true
+			- ![image.png](../assets/image_1666039125247_0.png)
 		- ![image.png](../assets/image_1666037879184_0.png)
 	- ЖЦ раньше был 10 лет, сейчас сокращается зачастую до 5-7 лет в связи с волатильностью и динамичностью экономических макроциклов
 	  collapsed:: true
@@ -388,7 +397,3 @@ collapsed:: true
 	- Денежные потоки в течение ЖЦ фонда
 	  collapsed:: true
 		- ![image.png](../assets/image_1666037917463_0.png)
-	- ![image.png](../assets/image_1666038923612_0.png)
-	- ![image.png](../assets/image_1666039034351_0.png)
-	- ![image.png](../assets/image_1666039101757_0.png)
-	- ![image.png](../assets/image_1666039125247_0.png)
