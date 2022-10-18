@@ -351,8 +351,13 @@ collapsed:: true
 - # Управление венчурным фондом
 	- https://www.youtube.com/watch?v=K1GwWyjZPno
 	- ![image.png](../assets/image_1666036908303_0.png)
-	- ![image.png](../assets/image_1666037879184_0.png)
-	- ![image.png](../assets/image_1666037886271_0.png)
+	- Этапы ЖЦ венчурного фонда
+		- Привлечение средств
+		- Инвестирование
+		- Управление
+		- Выход
+		- ![image.png](../assets/image_1666037879184_0.png)
+	- ЖЦ раньше ![image.png](../assets/image_1666037886271_0.png)
 	- ![image.png](../assets/image_1666037917463_0.png)
 	- ![image.png](../assets/image_1666037972812_0.png)
 	- ![image.png](../assets/image_1666037989791_0.png)
