@@ -358,11 +358,17 @@ collapsed:: true
 			- ![image.png](../assets/image_1666037972812_0.png)
 			- ![image.png](../assets/image_1666038019024_0.png)
 		- Инвестирование
-		- ![image.png](../assets/image_1666038134891_0.png)
-		- ![image.png](../assets/image_1666038140978_0.png)
-		- ![image.png](../assets/image_1666038245239_0.png)
-		- ![image.png](../assets/image_1666038262090_0.png)
+			-
+			- ![image.png](../assets/image_1666038134891_0.png)
+			- ![image.png](../assets/image_1666038140978_0.png)
+			- ![image.png](../assets/image_1666038245239_0.png)
+			- ![image.png](../assets/image_1666038262090_0.png)
+			- ![image.png](../assets/image_1666038498006_0.png)
+			- ![image.png](../assets/image_1666038608506_0.png)
+			- ![image.png](../assets/image_1666038689033_0.png)
+			- ![image.png](../assets/image_1666038797587_0.png)
 		- Управление
+		- ![image.png](../assets/image_1666038849776_0.png)
 		- Выход
 		- ![image.png](../assets/image_1666037879184_0.png)
 	- ЖЦ раньше был 10 лет, сейчас сокращается зачастую до 5-7 лет в связи с волатильностью и динамичностью экономических макроциклов
@@ -371,11 +377,6 @@ collapsed:: true
 	- Денежные потоки в течение ЖЦ фонда
 	  collapsed:: true
 		- ![image.png](../assets/image_1666037917463_0.png)
-	- ![image.png](../assets/image_1666038498006_0.png)
-	- ![image.png](../assets/image_1666038608506_0.png)
-	- ![image.png](../assets/image_1666038689033_0.png)
-	- ![image.png](../assets/image_1666038797587_0.png)
-	- ![image.png](../assets/image_1666038849776_0.png)
 	- ![image.png](../assets/image_1666038923612_0.png)
 	- ![image.png](../assets/image_1666039034351_0.png)
 	- ![image.png](../assets/image_1666039101757_0.png)
