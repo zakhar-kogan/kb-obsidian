@@ -205,6 +205,9 @@
  {:block/name "business",
   :block/created-at 1660325576900,
   :block/updated-at 1660325576900}
+ {:block/name "business model",
+  :block/created-at 1665943562271,
+  :block/updated-at 1665943562271}
  {:block/name "c",
   :block/created-at 1660390754051,
   :block/updated-at 1660390754051}
@@ -268,6 +271,9 @@
  {:block/name "complex",
   :block/created-at 1660325572689,
   :block/updated-at 1660325572689}
+ {:block/name "complex systems",
+  :block/created-at 1666431949509,
+  :block/updated-at 1666431949509}
  {:block/name "complexity",
   :block/created-at 1660325570572,
   :block/updated-at 1660325570572}
@@ -358,9 +364,12 @@
  {:block/name "different",
   :block/created-at 1660772283210,
   :block/updated-at 1660772283210}
+ {:block/name "directed acyclic graph",
+  :block/created-at 1666426354579,
+  :block/updated-at 1666426354579}
  {:block/name "discrete math",
   :block/created-at 1662020748493,
-  :block/updated-at 1664872225864}
+  :block/updated-at 1664960305167}
  {:block/name "doing",
   :block/created-at 1660390754052,
   :block/updated-at 1660390754052}
@@ -481,6 +490,9 @@
  {:block/name "goal",
   :block/created-at 1660325605831,
   :block/updated-at 1660325605831}
+ {:block/name "graph theory",
+  :block/created-at 1666438087948,
+  :block/updated-at 1666438087948}
  {:block/name "guanfacine",
   :block/created-at 1660325581065,
   :block/updated-at 1660325581065}
@@ -550,6 +562,9 @@
  {:block/name "incentive",
   :block/created-at 1660325573584,
   :block/updated-at 1660325573584}
+ {:block/name "incentives",
+  :block/created-at 1666426386716,
+  :block/updated-at 1666426386716}
  {:block/name "inflation",
   :block/created-at 1661604165570,
   :block/updated-at 1661604165570}
@@ -708,13 +723,16 @@
   :block/updated-at 1660325583576}
  {:block/name "microeconomics",
   :block/created-at 1660325570573,
-  :block/updated-at 1660325570573}
+  :block/updated-at 1666013397722}
  {:block/name "mindset",
   :block/created-at 1660325588909,
   :block/updated-at 1660325588909}
  {:block/name "mirtazapine",
   :block/created-at 1661113361980,
   :block/updated-at 1661113361980}
+ {:block/name "mlu explain",
+  :block/created-at 1665346617008,
+  :block/updated-at 1665468586768}
  {:block/name "mnemonic",
   :block/created-at 1660325605827,
   :block/updated-at 1660325605827}
@@ -736,15 +754,30 @@
  {:block/name "mpc",
   :block/created-at 1660501932582,
   :block/updated-at 1660501932582}
+ {:block/name "mutation",
+  :block/created-at 1666426339309,
+  :block/updated-at 1666426339309}
  {:block/name "nettle",
   :block/created-at 1660325571982,
   :block/updated-at 1660325571982}
  {:block/name "network",
   :block/created-at 1660325608715,
   :block/updated-at 1660325608715}
+ {:block/name "network effects",
+  :block/created-at 1665946833177,
+  :block/updated-at 1665946833177}
+ {:block/name "network science",
+  :block/created-at 1666438087947,
+  :block/updated-at 1666438087947}
+ {:block/name "neural network",
+  :block/created-at 1666426322304,
+  :block/updated-at 1666426322304}
  {:block/name "nf-κb",
   :block/created-at 1660325571994,
   :block/updated-at 1660325571994}
+ {:block/name "nfx network effects",
+  :block/created-at 1665553091630,
+  :block/updated-at 1665946833178}
  {:block/name "nir",
   :block/created-at 1660325589761,
   :block/updated-at 1660325589761}
@@ -820,6 +853,39 @@
  {:block/name "numpy",
   :block/created-at 1660325572693,
   :block/updated-at 1660325572693}
+ {:block/name "objective function",
+  :block/created-at 1666426296291,
+  :block/updated-at 1666426296291}
+ {:block/name "oct 10th, 2022",
+  :block/created-at 1665349983544,
+  :block/updated-at 1665349983544}
+ {:block/name "oct 11th, 2022",
+  :block/created-at 1665436206127,
+  :block/updated-at 1665436206127}
+ {:block/name "oct 12th, 2022",
+  :block/created-at 1665522764485,
+  :block/updated-at 1665522764485}
+ {:block/name "oct 13th, 2022",
+  :block/created-at 1665608900485,
+  :block/updated-at 1665608900485}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665695352608,
+  :block/updated-at 1665695352608}
+ {:block/name "oct 15th, 2022",
+  :block/created-at 1665781389848,
+  :block/updated-at 1665781389848}
+ {:block/name "oct 16th, 2022",
+  :block/created-at 1665868983461,
+  :block/updated-at 1665947875524}
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1665954757293,
+  :block/updated-at 1665993952057}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666040477470,
+  :block/updated-at 1666086735371}
+ {:block/name "oct 19th, 2022",
+  :block/created-at 1666127124955,
+  :block/updated-at 1666127124955}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664572430455,
   :block/updated-at 1664572430455}
@@ -829,15 +895,33 @@
  {:block/name "oct 20th, 2021",
   :block/created-at 1660325577716,
   :block/updated-at 1660325577716}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666213623748,
+  :block/updated-at 1666273316217}
  {:block/name "oct 21st, 2021",
   :block/created-at 1660325620734,
   :block/updated-at 1660325620734}
+ {:block/name "oct 21st, 2022",
+  :block/created-at 1666300345927,
+  :block/updated-at 1666300345927}
+ {:block/name "oct 22nd, 2022",
+  :block/created-at 1666386004043,
+  :block/updated-at 1666560437290}
  {:block/name "oct 23rd, 2021",
   :block/created-at 1660325578600,
   :block/updated-at 1660325578600}
+ {:block/name "oct 23rd, 2022",
+  :block/created-at 1666472483325,
+  :block/updated-at 1666472483325}
+ {:block/name "oct 24th, 2022",
+  :block/created-at 1666558802295,
+  :block/updated-at 1666560672973}
  {:block/name "oct 25th, 2021",
   :block/created-at 1660325621815,
   :block/updated-at 1660325621815}
+ {:block/name "oct 25th, 2022",
+  :block/created-at 1666645221897,
+  :block/updated-at 1666645221897}
  {:block/name "oct 26th, 2021",
   :block/created-at 1660325622778,
   :block/updated-at 1660325622778}
@@ -859,6 +943,21 @@
  {:block/name "oct 4th, 2022",
   :block/created-at 1664835664149,
   :block/updated-at 1664835664149}
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1664917203432,
+  :block/updated-at 1664917203432}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1665004010094,
+  :block/updated-at 1665004010094}
+ {:block/name "oct 7th, 2022",
+  :block/created-at 1665090001678,
+  :block/updated-at 1665090001678}
+ {:block/name "oct 8th, 2022",
+  :block/created-at 1665182563031,
+  :block/updated-at 1665182563031}
+ {:block/name "oct 9th, 2022",
+  :block/created-at 1665265293804,
+  :block/updated-at 1665265293804}
  {:block/name "omega-3",
   :block/created-at 1661113361982,
   :block/updated-at 1661113361982}
@@ -868,6 +967,9 @@
  {:block/name "optimism",
   :block/created-at 1660325576896,
   :block/updated-at 1660325576896}
+ {:block/name "optimization",
+  :block/created-at 1666426252093,
+  :block/updated-at 1666426252093}
  {:block/name "options",
   :block/created-at 1660325578598,
   :block/updated-at 1660325578598}
@@ -1093,6 +1195,9 @@
  {:block/name "signal",
   :block/created-at 1660325589758,
   :block/updated-at 1660325589758}
+ {:block/name "simulation",
+  :block/created-at 1666426317068,
+  :block/updated-at 1666426317068}
  {:block/name "sir",
   :block/created-at 1660325608712,
   :block/updated-at 1660325608712}
@@ -1168,6 +1273,12 @@
  {:block/name "todo",
   :block/created-at 1660390754052,
   :block/updated-at 1660390754052}
+ {:block/name "token engineering",
+  :block/created-at 1666426244133,
+  :block/updated-at 1666426244133}
+ {:block/name "tokenomics",
+  :block/created-at 1666424806979,
+  :block/updated-at 1666424806979}
  {:block/name "tools",
   :block/created-at 1660325572695,
   :block/updated-at 1660325572695}
@@ -1192,6 +1303,9 @@
  {:block/name "value",
   :block/created-at 1662790574282,
   :block/updated-at 1662790574282}
+ {:block/name "vc course",
+  :block/created-at 1664918672484,
+  :block/updated-at 1666072530198}
  {:block/name "vector",
   :block/created-at 1660325572690,
   :block/updated-at 1660325572690}
