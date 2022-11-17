@@ -130,6 +130,9 @@
  {:block/name "aptitudes",
   :block/created-at 1660325576899,
   :block/updated-at 1660325576899}
+ {:block/name "associative data",
+  :block/created-at 1668712547522,
+  :block/updated-at 1668712547522}
  {:block/name "aug 16th, 2022",
   :block/created-at 1660597204277,
   :block/updated-at 1660640474938}
@@ -325,6 +328,9 @@
  {:block/name "data science",
   :block/created-at 1660325572690,
   :block/updated-at 1660325572690}
+ {:block/name "databases",
+  :block/created-at 1668712572966,
+  :block/updated-at 1668712572966}
  {:block/name "dec 1st, 2021",
   :block/created-at 1660325644795,
   :block/updated-at 1660325644795}
@@ -493,6 +499,9 @@
  {:block/name "graph theory",
   :block/created-at 1666438087948,
   :block/updated-at 1666438087948}
+ {:block/name "graphs",
+  :block/created-at 1668712547523,
+  :block/updated-at 1668712547523}
  {:block/name "guanfacine",
   :block/created-at 1660325581065,
   :block/updated-at 1660325581065}
@@ -810,13 +819,13 @@
   :block/updated-at 1660325629774}
  {:block/name "nov 15th, 2022",
   :block/created-at 1668512623709,
-  :block/updated-at 1668617579169}
+  :block/updated-at 1668712572967}
  {:block/name "nov 16th, 2022",
   :block/created-at 1668550307539,
-  :block/updated-at 1668630580929}
+  :block/updated-at 1668712547523}
  {:block/name "nov 17th, 2022",
   :block/created-at 1668636203651,
-  :block/updated-at 1668636203651}
+  :block/updated-at 1668712581385}
  {:block/name "nov 18th, 2021",
   :block/created-at 1660325630779,
   :block/updated-at 1660325630779}
