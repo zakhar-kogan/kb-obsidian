@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e856a7e4cd8b0a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2022-12-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Марди химал\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,12 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e856a7e4cd8b0a88",
+  "active": "0b88c1190806e1c4",
   "lastOpenFiles": [
+    "journals/2022_12_01.md",
     "Untitled.md",
     "2022-12-05.md",
     "2022-12-03.md",
-    "journals/2022_12_01.md",
     "2022-12-01.md",
     "Governance.md",
     "journals/2022-12-01.md",
