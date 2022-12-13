@@ -11,36 +11,11 @@
             "id": "0b88c1190806e1c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d76a1c988127da",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "79aa2ce39c28cf29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,24 +113,25 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "45d76a1c988127da",
+  "active": "cac9fc168a07ea1a",
   "lastOpenFiles": [
+    "2022-12-13.md",
+    "30 day (Benjamin Hardy).md",
     "2022-12-10.md",
-    "Untitled.md",
     "2022-12-05.md",
     "2022-12-06.md",
+    "Untitled.md",
     "journals/2022_12_01.md",
     "2022-12-03.md",
     "2022-12-01.md",
-    "Governance.md",
-    "journals/2022-12-01.md",
-    "hebrew/1_29_20.md"
+    "Governance.md"
   ]
 }
