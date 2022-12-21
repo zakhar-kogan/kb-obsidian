@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7051ca6749db7ecf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +140,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7051ca6749db7ecf",
+  "active": "0b88c1190806e1c4",
   "lastOpenFiles": [
     "Token-Ecosystem-Creation-Outlier-Ventures-PDF.pdf",
     "2022-12-13.md",
