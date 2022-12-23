@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 221.5
   },
   "right": {
     "id": "2d8e28ec9db0e661",
@@ -121,8 +121,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,17 +139,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0a2ec9d5fb04ee3a",
+  "active": "024801d1e80f6fbb",
   "lastOpenFiles": [
+    "pages/VC course.md",
+    "assets/image_1669118320079_0.png",
+    "pages/discrete math.md",
+    "pages/mlu explain.md",
+    "2022-12-23.md",
     "2022-12-13.md",
+    "README.md",
+    "eurity sync 2021.10.21.md",
     "Token-Ecosystem-Creation-Outlier-Ventures-PDF.pdf",
-    "30 day (Benjamin Hardy).md",
-    "2022-12-10.md",
-    "2022-12-05.md",
-    "2022-12-06.md",
-    "Untitled.md",
-    "journals/2022_12_01.md",
-    "2022-12-03.md",
-    "2022-12-01.md"
+    "30 day (Benjamin Hardy).md"
   ]
 }

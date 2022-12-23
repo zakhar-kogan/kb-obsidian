@@ -1,8 +1,7 @@
 - # Что такое венчурный фонд и как он работает?
 	- https://www.youtube.com/watch?v=MhuG_K-Crh0
 	- https://t.me/ask_vc_analyst/22
-	- ![image.png](../assets/image_1664918713408_0.png)
-	- ![image.png](../assets/image_1664918726234_0.png)
+	- ![](https://i.imgur.com/MlmiOXK.png)![](https://i.imgur.com/qo0fylL.png)
 	- ![image.png](../assets/image_1664918739535_0.png)
 	- ![image.png](../assets/image_1664918749912_0.png)
 	- ![image.png](../assets/image_1664918811392_0.png)
