@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/K-Hole + Move yoself.md",
+                "file": "2022-12-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/K-Hole + Move yoself.md",
+                "file": "2022-12-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/K-Hole + Move yoself.md"
+                "file": "2022-12-23.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/K-Hole + Move yoself.md",
+                "file": "2022-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +141,8 @@
   },
   "active": "0a2ec9d5fb04ee3a",
   "lastOpenFiles": [
-    "posts/Wardley mapping.md",
     "posts/K-Hole + Move yoself.md",
+    "posts/Wardley mapping.md",
     "2022-12-24.md",
     "2022-12-23.md",
     "pages/VC course.md",
