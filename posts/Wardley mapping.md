@@ -1,5 +1,5 @@
 #post
-# Wardley mapping linkageddon
+# [[Wardley]] mapping linkageddon
 ![](https://i.imgur.com/HGxH964.png)
 
 ## WTF is that?
@@ -40,4 +40,4 @@ You can find my other blogs I try to cross-post to:
 - [Medium](https://baldr.medium.com/)
 - [Telegram](https://t.me/ohmyboi)
 - [Twitter](https://twitter.com/ZakharKogan) (for a lot of stuff)
-- Maybe even a [LinkedIn](https://www.linkedin.com/in/zakhar-kogan/)?
+- Maybe even [LinkedIn](https://www.linkedin.com/in/zakhar-kogan/)?
