@@ -1,5 +1,6 @@
 #mooc #learning 
 url: [Nano Tips for Developing Magnetic Charisma with Shadé Zahrai Online Class | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/nano-tips-for-developing-magnetic-charisma-with-shade-zahrai)
+[[Charisma]]
 
 People judge you by two things: warmth and competence.
 It's more important to show warmth first, then competence - especially in business settings.
@@ -65,4 +66,20 @@ This varies culturally -> pay attention to that.
 ## Communication
 ### Pausing
 Super simple way of increasing charisma: 3SP, three-second pause.
-Translates into quiet confidence. 
+
+Translates into quiet confidence - some people naturally *pause before answering*. They remain silent maintaining eye contact for ~3 seconds.
+- Time to collect thoughts
+- Translates confidence and self-assurance
+A great tip for business or nervous environments.
+### [[Presentation]]
+- Create suspence
+	- With composure, walk to the center of the room
+	- Lock eyes with the audience
+	- Make a deep breath
+	- When everyone is quiet and waiting for what's gonna happen next, continue
+### Simplify your language
+Using *sophisticated words makes you less credible* in the eyes of the others + alienates you with the people you're speaking with.
+Charismatic people talk:
+- Relatable
+- Simple
+Say, like Mr. Feynman. 
