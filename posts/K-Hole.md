@@ -26,5 +26,3 @@ _At high ketamine doses, the low-susceptibility supporting neurons are suppresse
 ![](https://i.imgur.com/ypeJZ7X.png)
 
 PS. Okay, [Andre](https://alieninsect.substack.com) is seriously awesome.
-
-
