@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "577c537331f1829f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "excerpts articles/charisma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Move yoself.md",
+                "file": "excerpts articles/charisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Move yoself.md"
+                "file": "excerpts articles/charisma.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Move yoself.md",
+                "file": "excerpts articles/charisma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +152,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0a2ec9d5fb04ee3a",
+  "active": "577c537331f1829f",
   "lastOpenFiles": [
+    "posts/Move yoself.md",
     "posts/K-Hole.md",
     "posts/Move yoself.pdf",
-    "posts/Move yoself.md",
     "posts/Wardley mapping.md",
     "2022-12-23.md",
     "2022-12-24.md",
