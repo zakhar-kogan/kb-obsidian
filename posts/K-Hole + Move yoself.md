@@ -18,6 +18,14 @@ _At moderate ketamine doses, the prediction/error generating neurons are directl
 ### High dose (comatose)
 ![](https://i.imgur.com/bGC7TMS.png)
 _At high ketamine doses, the low-susceptibility supporting neurons are suppressed resulting in a global reduction in cortical activity (anaesthetised state)_
+## Overview
+![](https://i.imgur.com/ypeJZ7X.png)
 
+PS. Okay, [Andre](https://alieninsect.substack.com) is seriously awesome.
 
-# [Slipping into a K-hole | annotated by Zakhar](https://readwise.io/reader/shared/01gkza3w4pg4kw38bmgmpchvt2)
+# Move yoself
+[Association Between Physical Activity and Risk of Depression: A Systematic Review and Meta-Analysis | annotated by Zakhar](https://readwise.io/reader/shared/01gmt0q8w1nnt2vfeeaey6q0qe/)
+![](https://i.imgur.com/GKlDhYe.png)
+That feel when you report lower depression scores.
+
+In an article by Matthew Pierce et al. in _JAMA Psychiatry_, 15 cohort studies with follow-up durations of 3-26 (maybe more, but I'm a simple man I don't read)
