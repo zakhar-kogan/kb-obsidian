@@ -5,7 +5,7 @@ That feel when you report lower depression scores.
 
 In an [article by Matthew Pierce et al. in _JAMA Psychiatry_](http://doi.org/10.1001/jamapsychiatry.2022.0609), 15 cohort studies with follow-up durations of 3-26 years (maybe more, but I'm a simple man I don't read) were reviewed to answer one question: **how much exercise is needed to stave off depression**?
 
-**TL:DR** ⇒ less than you thought.
+**TL:DR** → less than you thought.
 
 ## Real **TL:DR**
 - Total **sample size**: 190,000 participants
@@ -38,7 +38,7 @@ Another day, another [study](https://www.nature.com/articles/s41586-022-05525-z/
 ![](https://i.imgur.com/UKAQ1GM.png)
 - *"TRPV1-expressing neurons also **tend to express CB1 cannabinoid receptor CB1**, which gets its name because it’s activated by cannabinoids and related compounds. **The chemicals that gut bacteria produce to increase the dopamine released by exercise are cannabinoid agonists**—chemically similar to the endocannabinoids like anandamide that your brain produces on its own."*
 ![](https://i.imgur.com/ksO3luX.png)
-*Tetrahydrocannabinol (THC, left) and Oleoylethanolamine (Right). OEA seems to [only act on PPAR-⍺](https://en.wikipedia.org/wiki/Oleoylethanolamide) though...*
+Tetrahydrocannabinol (THC, left) and Oleoylethanolamine (Right). OEA seems to [only act on PPAR-⍺](https://en.wikipedia.org/wiki/Oleoylethanolamide) though...
 - Both Capsaicin and fatty acid amides **restore/increase the motivation to exercise, even after antibiotics**
 ## Action plan
 ![](https://i.imgur.com/hJgvqLE.png)
