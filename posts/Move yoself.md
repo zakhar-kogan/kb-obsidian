@@ -43,3 +43,12 @@ Tetrahydrocannabinol (THC, left) and Oleoylethanolamine (Right). OEA seems to [o
 ## Action plan
 ![](https://i.imgur.com/hJgvqLE.png)
 A bit of, say, [PEA](https://en.wikipedia.org/wiki/Category:Fatty_acid_amides) sprinkled with nuts, fish and pepper...OK.
+
+---
+Welcome to **YAWN/Boi Diaries**❣️
+You can find my other blogs I try to cross-post to:
+- [Hashnode](https://yawn.hashnode.dev/)
+- [Medium](https://baldr.medium.com/)
+- [Telegram](https://t.me/ohmyboi)
+- [Twitter](https://twitter.com/ZakharKogan) (for a lot of stuff)
+- Maybe even [LinkedIn](https://www.linkedin.com/in/zakhar-kogan/)?

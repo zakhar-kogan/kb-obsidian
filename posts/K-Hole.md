@@ -1,7 +1,6 @@
 # [Slipping into a K-hole | annotated by Zakhar](https://readwise.io/reader/shared/01gkza3w4pg4kw38bmgmpchvt2)
 ![](https://i.imgur.com/68cm6PI.png)
-Okay, you've completely lost control over this situation.
----
+*You've completely lost control over this situation.*
 
 ## Cortex and prediction-error modelling
 - Cortex is divided from lowest (sensory information) to higher (constructing a world model) areas
@@ -26,3 +25,12 @@ _At high ketamine doses, the low-susceptibility supporting neurons are suppresse
 ![](https://i.imgur.com/ypeJZ7X.png)
 
 PS. Okay, [Andre](https://alieninsect.substack.com) is seriously awesome.
+
+---
+Welcome to **YAWN/Boi Diaries**❣️
+You can find my other blogs I try to cross-post to:
+- [Hashnode](https://yawn.hashnode.dev/)
+- [Medium](https://baldr.medium.com/)
+- [Telegram](https://t.me/ohmyboi)
+- [Twitter](https://twitter.com/ZakharKogan) (for a lot of stuff)
+- Maybe even [LinkedIn](https://www.linkedin.com/in/zakhar-kogan/)?
