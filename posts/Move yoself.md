@@ -18,3 +18,13 @@ In an [article by Matthew Pierce et al. in _JAMA Psychiatry_](http://doi.org/10.
 ## Bonus
 ![[https://www.youtube.com/watch?v=h-WPexVEujg]]
 ## Actions
+So how to move more if you're a floor potato? Let's indulge more.
+
+---
+
+# [The "Spice" Melange: Exercise, Capsaicin, Cannabinoids, and the Microbiome | annotated by Zakhar](https://readwise.io/reader/shared/01gn181emg303rqw3r92kgbhev)
+![](https://i.chzbgr.com/full/6975112704/hE7D53798/mouse-wheel)
+Another day, another [study](https://www.nature.com/articles/s41586-022-05525-z/).
+## TL:DR
+- The scientists tested the exercise abilities and motivation to run on some (~200) genetically and metagenomically diverse mice
+- There was no "athlete gene", nor a 

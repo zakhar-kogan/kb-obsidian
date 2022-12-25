@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/K-Hole.md",
+                "file": "posts/Move yoself.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/K-Hole.md",
+                "file": "posts/Move yoself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/K-Hole.md"
+                "file": "posts/Move yoself.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/K-Hole.md",
+                "file": "posts/Move yoself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +154,8 @@
   },
   "active": "a5390e97ae6d8321",
   "lastOpenFiles": [
-    "posts/Move yoself.md",
     "posts/K-Hole.md",
+    "posts/Move yoself.md",
     "2022-12-23.md",
     "posts/Wardley mapping.md",
     "2022-12-24.md",

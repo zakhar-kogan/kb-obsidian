@@ -1,4 +1,7 @@
 # [Slipping into a K-hole | annotated by Zakhar](https://readwise.io/reader/shared/01gkza3w4pg4kw38bmgmpchvt2)
+![](https://i.imgur.com/68cm6PI.png)
+Okay, you've completely lost control over this situation.
+---
 
 ## Cortex and prediction-error modelling
 - Cortex is divided from lowest (sensory information) to higher (constructing a world model) areas
