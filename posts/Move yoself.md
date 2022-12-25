@@ -38,7 +38,7 @@ Another day, another [study](https://www.nature.com/articles/s41586-022-05525-z/
 ![](https://i.imgur.com/UKAQ1GM.png)
 - *"TRPV1-expressing neurons also **tend to express CB1 cannabinoid receptor CB1**, which gets its name because it’s activated by cannabinoids and related compounds. **The chemicals that gut bacteria produce to increase the dopamine released by exercise are cannabinoid agonists**—chemically similar to the endocannabinoids like anandamide that your brain produces on its own."*
 ![](https://i.imgur.com/ksO3luX.png)
-Tetrahydrocannabinol (THC, left) and Oleoylethanolamine (Right). OEA seems to [only act on PPAR-⍺](https://en.wikipedia.org/wiki/Oleoylethanolamide) though...
+*Tetrahydrocannabinol (THC, left) and Oleoylethanolamine (Right). OEA seems to [only act on PPAR-⍺](https://en.wikipedia.org/wiki/Oleoylethanolamide) though...*
 - Both Capsaicin and fatty acid amides **restore/increase the motivation to exercise, even after antibiotics**
 ## Action plan
 ![](https://i.imgur.com/hJgvqLE.png)
