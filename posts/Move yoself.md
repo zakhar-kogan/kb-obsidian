@@ -26,5 +26,11 @@ So how to move more if you're a floor potato? Let's indulge more.
 ![](https://i.chzbgr.com/full/6975112704/hE7D53798/mouse-wheel)
 Another day, another [study](https://www.nature.com/articles/s41586-022-05525-z/).
 ## TL:DR
-- The scientists tested the exercise abilities and motivation to run on some (~200) genetically and metagenomically diverse mice
-- There was no "athlete gene", nor a 
+- The scientists tested the exercise abilities and motivation to run on some (~200) **genetically and metagenomically diverse** mice
+- **There was no "athlete gene"**, nor a combination of them, so the authors turned out to other venues...
+- And found it in microbiome, citing the post: *"I’ve said before that, if you’re looking for a biological reason why two people are different along **any** axis, the microbiome is the logical place to start looking—even before you check the genome."*
+- Microbiome **was associated** with the differences (some were potatos, some were Rambos - one ran **30 miles over 2 days**) in exercise motivation, viz. _Coprococcus eutactus_ or _Eubacterium rectale_
+- The **differences were transferrable**, and FMT between fit fuckers ↔ lazyasses did transfer the motivation and capabilities
+- Antibiotics did make things universally worse
+- Abundance of _Ruminococcus_ was one of the strongest predictors of exercise performance, but mice **monocolonized with _Ruminococcus gnavus_ actually did _worse_ on the treadmill** than mice which had no bacteria at all
+- The influence 
