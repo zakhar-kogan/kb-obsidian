@@ -39,3 +39,30 @@ Tips to better remember names:
 - Clarify spelling ("Is that Catherine with a K or C?")
 - Repeat in conversation a couple of times
 - Make an association
+## Charismatic presence
+### Energizing others
+Trait affective presence -> are you easy to be around? Do people like being around you?
+
+People respond to our social cues -> associate those emotions with us. 
+### Connecting through commonality
+Creating a good impression in one area influences perception of you in other areas -> halo effect.
+
+Find something in common -> talk about it a little bit.
+
+Commonality connects.
+### Eye contact
+Eye contact is one of the greatest indicators of confidence, translating into charisma.
+- Establishes connection
+- Shows sincerity
+- Projects self-esteem
+- Projects credibility
+Proper eye contant can make you appear more
+- Likable
+- Attentive
+- Attractive
+- Memorable
+This varies culturally -> pay attention to that.
+## Communication
+### Pausing
+Super simple way of increasing charisma: 3SP, three-second pause.
+Translates into quiet confidence. 
