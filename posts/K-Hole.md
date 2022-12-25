@@ -1,4 +1,5 @@
 # [Slipping into a K-hole | annotated by Zakhar](https://readwise.io/reader/shared/01gkza3w4pg4kw38bmgmpchvt2)
+
 ## Cortex and prediction-error modelling
 - Cortex is divided from lowest (sensory information) to higher (constructing a world model) areas
   ![](https://i.imgur.com/2VJEAwR.png)
@@ -23,16 +24,4 @@ _At high ketamine doses, the low-susceptibility supporting neurons are suppresse
 
 PS. Okay, [Andre](https://alieninsect.substack.com) is seriously awesome.
 
-# Move yoself
-[Association Between Physical Activity and Risk of Depression: A Systematic Review and Meta-Analysis | annotated by Zakhar](https://readwise.io/reader/shared/01gmt0q8w1nnt2vfeeaey6q0qe/)
-![](https://i.imgur.com/GKlDhYe.png)
-That feel when you report lower depression scores.
 
-In an [article by Matthew Pierce et al. in _JAMA Psychiatry_](http://doi.org/10.1001/jamapsychiatry.2022.0609), 15 cohort studies with follow-up durations of 3-26 years (maybe more, but I'm a simple man I don't read) were reviewed to answer one question: **how much exercise is needed to stave off depression**?
-
-**TL:DR** ⇒ less than you thought.
-
-## Real **TL:DR**
-- Total sample size: 190,000 participants
-- Exercise data was converted into [METs](https://en.wikipedia.org/wiki/Metabolic_equivalent_of_task). *Spoiler*: sitting at a PC is 1.5/hour, sex is 5.8 (you're probably underdoing it), [saluting sun](https://en.wikipedia.org/wiki/Sun_Salutation) is 7.4
-- WHO recommends 30 min * 5 days/week of moderate activity, 8.8 METs (NOT the [meth thing](https://t.me/ohmyboi/1046), however i)

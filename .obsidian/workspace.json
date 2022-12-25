@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/K-Hole + Move yoself.md",
+                "file": "posts/K-Hole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5390e97ae6d8321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/K-Hole.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/K-Hole + Move yoself.md",
+                "file": "posts/K-Hole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/K-Hole + Move yoself.md"
+                "file": "posts/K-Hole.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/K-Hole + Move yoself.md",
+                "file": "posts/K-Hole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +152,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0a2ec9d5fb04ee3a",
+  "active": "a5390e97ae6d8321",
   "lastOpenFiles": [
+    "posts/Move yoself.md",
+    "posts/K-Hole.md",
     "2022-12-23.md",
-    "posts/K-Hole + Move yoself.md",
     "posts/Wardley mapping.md",
     "2022-12-24.md",
     "pages/VC course.md",
     "assets/image_1669118320079_0.png",
     "pages/discrete math.md",
     "pages/mlu explain.md",
-    "README.md",
-    "eurity sync 2021.10.21.md"
+    "README.md"
   ]
 }
