@@ -1,10 +1,8 @@
 #mooc #learning 
 url: [Nano Tips for Developing Magnetic Charisma with Shadé Zahrai Online Class | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/nano-tips-for-developing-magnetic-charisma-with-shade-zahrai)
 [[Charisma]]
-
 People judge you by two things: warmth and competence.
 It's more important to show warmth first, then competence - especially in business settings.
-
 ## Tips
 ### Warmth
 - Open body language
@@ -16,7 +14,6 @@ It's more important to show warmth first, then competence - especially in busine
 - Appropriate eye contact
 - Confident posture
 - Confident hansdhake
-
 ## Connection
 A sense of connection occurs when our self|others perception is blurred. Mirroring is a good technique to channel connection:
 - Scan the environment to understand the situation. What's the other person's state?
@@ -31,10 +28,8 @@ A sense of connection occurs when our self|others perception is blurred. Mirrori
 What you say about others influences their perception of you (duh), a phenomena called **spontaneous trait transference**.
 
 Likely to highlight others' positive traits -> people will likely perceive you in a positive light. And vice versa.
-
 ### Actions
 Actively seek good in others and highlight it.
-
 ## Using someone's name
 Tips to better remember names:
 - Clarify spelling ("Is that Catherine with a K or C?")
@@ -82,4 +77,4 @@ Using *sophisticated words makes you less credible* in the eyes of the others + 
 Charismatic people talk:
 - Relatable
 - Simple
-Say, like Mr. Feynman. 
+Say, [like Mr. Feynman](https://www.youtube.com/watch?v=EyssfKRsgMU). 
