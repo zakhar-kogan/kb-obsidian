@@ -28,4 +28,6 @@ Having structure may help.
 ## Cognitive reframing
 - Avoid absolutes, like "never" or "always"
 - Change language intensity ('this is the worst thing' ⇒ 'it's challenging but I'm learning')
-- Change from 'why' to 'what' ('why is this happening to me' ⇒ 'what can I do about it')
+- Change from 'why' to 'what' ('why is this happening to me' ⇒ 'what is the learning experience of that')
+- Change 'what ifs' ('what if I fail' ⇒ 'what if I learn and grow')
+## Nature, green
