@@ -1,4 +1,5 @@
 #learn #mooc 
+url: [https://www.linkedin.com/learning/nano-tips-to-stop-overthinking-with-shade-zahrai/gearing-yourself-for-action](https://www.linkedin.com/learning/nano-tips-to-stop-overthinking-with-shade-zahrai/gearing-yourself-for-action)
 ## Rumination to action
 If you notice yourself ruminating ~~(ezpz)~~ -> ask yourself in an [ACTy](https://t.me/ohmyboi/668) way: 
 - *"Is this within my control?"*
@@ -29,8 +30,8 @@ Having structure may help.
 - Avoid absolutes, like *"never"* or *"always"*
 - Change language intensity (*'this is the worst thing'* ⇒ *'it's challenging but I'm learning'*)
 - Change from *'why'* to *'what'* (*'why is this happening to me'* ⇒ *'what is the learning experience of that'*)
-- Change 'what ifs' ('what if I fail' ⇒ 'what if I learn and grow')
+- Change *'what ifs'* (*'what if I fail'* ⇒ *'what if I learn and grow'*)
 ## Nature, green
 Watch a video with green nature to decrease your stress. Or have a walk (attentional restoration).
-## Write 'I will' for doable things
+## Write *'I will'* for doable things
 This helps stress less and feel things are more in control.
