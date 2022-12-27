@@ -1,8 +1,8 @@
 #learn #mooc 
 ## Rumination to action
-If you notice yourself ruminating (ezpz) -> ask yourself in an [ACTy](https://t.me/ohmyboi/668) way: 
-- "Is this within my control?"
-- "What can I do about it?"
+If you notice yourself ruminating ~~(ezpz)~~ -> ask yourself in an [ACTy](https://t.me/ohmyboi/668) way: 
+- *"Is this within my control?"*
+- *"What can I do about it?"*
 - Start the action
 ## Allocate time for worrying
 - Allocate a short period (5-15 minutes) to worry
@@ -11,8 +11,8 @@ If you notice yourself ruminating (ezpz) -> ask yourself in an [ACTy](https://t.
 - If something bogs you throughout the day ⇒ "I'll worry about that in the dedicated time"
 Having structure may help.
 ## Reframe negative thoughts
-- When you notice a negative thought like "You're going to fail",
-- Reframe it as, say, "I'll try my best, learn things and that's important for growth"
+- When you notice a negative thought like *"You're going to fail"*,
+- Reframe it as, say, *"I'll try my best, learn things and that's important for growth"*
 ## Achievement addiction
 ### Signs
 - You're a workaholic and work compulsively
@@ -26,8 +26,11 @@ Having structure may help.
 - Limiting working time to somewhere during the day
 - Surround yourself with people who value you
 ## Cognitive reframing
-- Avoid absolutes, like "never" or "always"
-- Change language intensity ('this is the worst thing' ⇒ 'it's challenging but I'm learning')
-- Change from 'why' to 'what' ('why is this happening to me' ⇒ 'what is the learning experience of that')
+- Avoid absolutes, like *"never"* or *"always"*
+- Change language intensity (*'this is the worst thing'* ⇒ *'it's challenging but I'm learning'*)
+- Change from *'why'* to *'what'* (*'why is this happening to me'* ⇒ *'what is the learning experience of that'*)
 - Change 'what ifs' ('what if I fail' ⇒ 'what if I learn and grow')
 ## Nature, green
+Watch a video with green nature to decrease your stress. Or have a walk (attentional restoration).
+## Write 'I will' for doable things
+This helps stress less and feel things are more in control.
