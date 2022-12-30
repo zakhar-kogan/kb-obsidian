@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpts articles/charisma.md",
+                "file": "excerpts articles/overthinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/charisma.md",
+                "file": "excerpts articles/overthinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpts articles/charisma.md"
+                "file": "excerpts articles/overthinking.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/charisma.md",
+                "file": "excerpts articles/overthinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,8 @@
   },
   "active": "35c9841c597beb21",
   "lastOpenFiles": [
-    "excerpts articles/overthinking.md",
     "excerpts articles/charisma.md",
+    "excerpts articles/overthinking.md",
     "posts/Move yoself.md",
     "posts/K-Hole.md",
     "posts/Move yoself.pdf",
