@@ -13,6 +13,8 @@ Profit from an expected increase in the price of an asset with capped risk. Self
 One of the major benefits of using call spread Neuron pools is that one can keep their collateral in stablecoins. 
 This means two implicit cheatcodes are activated:
 - Bear market is not that dangerous as you're in cash
-
+- Strategies such as Mellow x Gearbox 
 
 It is likely that call spread strategies will become an increasingly popular way for users to capitalize on market movements while minimizing risk. And Neuron will be nearby, at the click of a mouse 🧠
+
+---
