@@ -1,4 +1,5 @@
 #post #neuron 
+![](https://i.imgur.com/7gZtF2s.png)
 
 Defi option vaults are quickly becoming a popular way for cryptocurrency investors to take advantage of market volatility while minimizing risk. Neuron tries to be at the forefront of employing new ones, with the next offering likely being a call spread.
 
@@ -10,6 +11,8 @@ A [call spread strategy](https://www.optionsbro.com/call-debit-spread-option-str
 
 ## Advantages
 ### Capped risk
+![](https://i.imgur.com/BV7CsPQ.png)
+*No pun intended*
 Profit from an expected increase in the price of an asset with capped risk. Self-explanatory as, say, a covered call has risk capped at virtually 100% - sexy but not too much.
 
 ### Stablecoin collateral
