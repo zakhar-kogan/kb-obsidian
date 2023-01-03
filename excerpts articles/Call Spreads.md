@@ -19,6 +19,11 @@ This means two implicit cheatcodes are activated:
 - Strategies such as [Mellow x Gearbox FRAX/USDC](https://app.mellow.finance/products/mainnet-fearless-fraxusdc-gearbox) leveraged optimizer are available, or MIM-3Crv:
 ![](https://i.imgur.com/9EFR4aI.png)
 
+## Disadvantages
+### Theta decay
+![](https://i.imgur.com/bDKEP2i.png)
+Contrary to covered calls and short puts already present at Neuron, a call spread is a theta-negative strategy meaning *it loses value with time*. However that's offset by almost any positive movement in the underlying asset (e.g. ETH), making a call spread *highly suitable for the current bera-but-signs-of-recovery* epoch.
+
 ## Conclusion
 It is likely that call spread strategies will become an increasingly popular way for users to capitalize on market movements while minimizing risk. And Neuron will be nearby, at the click of a mouse 🧠
 
