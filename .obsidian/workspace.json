@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpts articles/Call Spreads.md",
+                "file": "2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/Call Spreads.md",
+                "file": "2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpts articles/Call Spreads.md"
+                "file": "2023-01-04.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/Call Spreads.md",
+                "file": "2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cac9fc168a07ea1a",
+  "active": "348fd6d19725cc7f",
   "lastOpenFiles": [
+    "excerpts articles/Call Spreads.md",
     "excerpts articles/overthinking.md",
     "excerpts articles/charisma.md",
     "posts/Move yoself.md",
@@ -186,7 +187,6 @@
     "posts/Wardley mapping.md",
     "2022-12-23.md",
     "2022-12-24.md",
-    "pages/VC course.md",
-    "assets/image_1669118320079_0.png"
+    "pages/VC course.md"
   ]
 }
