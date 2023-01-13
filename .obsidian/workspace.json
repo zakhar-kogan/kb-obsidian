@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 способов управления людьми.md",
+                "file": "2023-01-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 способов управления людьми.md",
+                "file": "2023-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 способов управления людьми.md"
+                "file": "2023-01-13.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 способов управления людьми.md",
+                "file": "2023-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +153,7 @@
   },
   "active": "577c537331f1829f",
   "lastOpenFiles": [
+    "6 способов управления людьми.md",
     "2023-01-04.md",
     "2022-12-23.md",
     "excerpts articles/charisma.md",
@@ -161,7 +162,6 @@
     "excerpts articles/Call Spreads.md",
     "posts/K-Hole.md",
     "posts/Move yoself.pdf",
-    "posts/Wardley mapping.md",
-    "2022-12-24.md"
+    "posts/Wardley mapping.md"
   ]
 }
