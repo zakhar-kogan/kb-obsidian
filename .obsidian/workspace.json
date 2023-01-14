@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-13.md",
+                "file": "2023-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-13.md",
+                "file": "2023-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-13.md"
+                "file": "2023-01-14.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-13.md",
+                "file": "2023-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +153,7 @@
   },
   "active": "577c537331f1829f",
   "lastOpenFiles": [
+    "2023-01-13.md",
     "6 способов управления людьми.md",
     "2023-01-04.md",
     "2022-12-23.md",
@@ -161,7 +162,6 @@
     "excerpts articles/overthinking.md",
     "excerpts articles/Call Spreads.md",
     "posts/K-Hole.md",
-    "posts/Move yoself.pdf",
-    "posts/Wardley mapping.md"
+    "posts/Move yoself.pdf"
   ]
 }
