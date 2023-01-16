@@ -185,3 +185,20 @@ Similarly, applying automation to governance processes can be thought of as crea
 
 ## Subsidiarity
 ![](https://i.imgur.com/yYMLIDL.png)
+
+# 5. Analysis and research
+## Governance research methods
+We can use both [quantitative](https://en.wikipedia.org/wiki/Quantitative_research) and [qualitative](https://en.wikipedia.org/wiki/Qualitative_research) research methods. On the quantitative side, we have volumes of on-chain data, can look at smart contracts and analytic tools like [Trueblocks](https://trueblocks.io/) or [Dune Analytics](https://dune.com/home) for example. On the qualitative side, [digital ethnography](https://en.wikipedia.org/wiki/Online_ethnography) can help us to collect data from [communications channels](https://docs.google.com/presentation/d/1x-yD33jLMNhfWcBRO6US85Ps_Ka1p-eon-tMl_BMgWU/edit?usp=sharing), interviews, off-chain data that can help us analyze systems with insights into cultural, social and political dynamics. Studying these "governance interactions" makes governance interpretable and analyzable.
+
+In addition to data and human actors, because of the socio-technical nature of cybernetic systems (organisms), we must also understand the roles of non-human actors i.e. automated algorithmic policy.
+
+This space also holds some distinct challenges for those analyzing these systems.
+
+Reading smart contracts and understanding layers of the technology require technical skills and deep knowledge for quantitative research or "technical literacy deficit" ([Debayo-Doherty](https://harvard.mirror.xyz/o3VqNL4TLD21VdMCkHkVdnIGTigCmvh_Fam3kctBAhU)). 
+
+As discussed in previous sections, automation can obscure governance interactions. _"For instance, while the rules may be visible in [Github](https://github.com/), activities such as reorganizing the permissions in Github or [Discord](https://discord.com/) (creating private spaces, or defining roles for read/write access, etc.) may alter the governance surface, yet be difficult to see, requiring close attention to a project and its community." (Rennie et al)_  
+  
+The volume and speed of information with multiple social platforms and governance interactions that are implicit (in channels that are not public which makes some social and political dynamics invisible) make it difficult to capture context.
+
+Finally, aspects of "Meta Ethnography" as discussed in the paper, second-order effects and elements of [reflexivity](https://twitter.com/block_science/status/1439212618363793408) and the researcher or analyzer becoming part of the system, can affect the research.
+
