@@ -168,7 +168,7 @@ We can see some of this in the example of challenges the [SourceCred](https://s
 ![](https://i.imgur.com/W4XhFJF.png)
 ![](https://i.imgur.com/o3Bkxms.png)
 ![](https://i.imgur.com/dhXkBM3.png)
-*It illustrates the correlation between automation and the size of the governance surface, frequency domain in rule changes, the socio-technical feedback loops as well as the input parameters and outputs of whatever is being measured or observed (via analytics or ethnographic methods).
+*It illustrates the correlation between automation and the size of the governance surface, frequency domain in rule changes, the socio-technical feedback loops, and the input parameters and outputs of whatever is being measured or observed (via analytics or ethnographic methods).
 
 These dynamics can be tuned to achieve a system's goals, keeping in mind earlier lessons and that "decentralization" for its own sake is not productive, but rather a focus on reducing single points of failure.*
 
@@ -179,3 +179,6 @@ In the paper, the authors write about token mechanism design (specifically bondi
 Similarly, applying automation to governance processes can be thought of as creating configuration spaces with constraints and invariants - coded via software like smart contracts.
 
 **Governance Right-Sizing is about knowing where and how to apply constraints, while also considering the social processes of communicating and making those decisions explicit as subjective choices based on trade-offs and system goals.**
+
+## Polycentric governance
+![](https://i.imgur.com/YcnJVCf.png)
