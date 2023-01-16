@@ -182,3 +182,6 @@ Similarly, applying automation to governance processes can be thought of as crea
 
 ## Polycentric governance
 ![](https://i.imgur.com/YcnJVCf.png)
+
+## Subsidiarity
+![](https://i.imgur.com/yYMLIDL.png)
