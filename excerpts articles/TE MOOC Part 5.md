@@ -255,10 +255,10 @@ As we saw in the [Polycentric Governance workshop](https://www.youtube.com/watc
     -   Examine incentive alignment & create "user stories" for stakeholders groups, bundling those with common interests and mapping potential conflict or competing interests
     -   Establish dispute resolution mechanisms - social and/or technical
 -   **Establish** [**ownership model**](https://blog.curvelabs.eu/ownership-in-cryptonetworks-96f13f4a113e)**:** Also, how that may change over time, including plans for initial token distribution and consideration for future stakeholders.
-    -   For example: [The Regen Network & Foundation](https://regen.foundation/) set aside 30% of its initial token distribution for future stakeholders
+    -   For example [The Regen Network & Foundation](https://regen.foundation/) set aside 30% of its initial token distribution for future stakeholders
 -   **Consider lifecycle:** Consider potential ebbs and flows of the project/community/organization, and consider what happens in the case of dissolution or how offboarding / exit may occur
--   **Establish metrics or methods for [verification](https://blog.oceanprotocol.com/on-verifying-token-based-systems-c33eca757ecf):** What determines whether or not the system or governance processes are successful in supporting goals?
-    -   Consider also if the community is more rule oriented or goal oriented and how often rules should / can be changed, by whom, under what circumstances
+-   **Establish metrics or methods for [verification](https://blog.oceanprotocol.com/on-verifying-token-based-systems-c33eca757ecf):** What determines whether or not the system or governance processes successfully support goals?
+    -   Consider also if the community is more rule-oriented or goal-oriented and how often rules should / can be changed, by whom, under what circumstances
 -   **Iterate:** Use the [CAG map and process](https://medium.com/block-science/mapping-the-computer-aided-governance-process-2e47eaf70889) for continuous iteration
 
 **INFRASTRUCTURE**
@@ -268,8 +268,8 @@ As we saw in the [Polycentric Governance workshop](https://www.youtube.com/watc
 
 **OPERATIONS** 
 
--   **Consider funding flows:** Identify resources, business model and funding streams, capital and operational expenses and how that will be managed
--   **Establish & maintain communication channels:** Discuss and establish roles and levels of permission or how [permissionless](https://policyreview.info/glossary/permissionlessness) a the system should be and if that will evolve
+-   **Consider funding flows:** Identify resources, business model and funding streams, capital, and operational expenses, and how they will be managed
+-   **Establish & maintain communication channels:** Discuss and establish roles and levels of permission or how [permissionless](https://policyreview.info/glossary/permissionlessness) the system should be and if that will evolve
 -   **Ops & Administration:** Create processes and identify needs for documentation and administration
 
-**_NOTE:_** In the case of "progressive decentralization", consider how all of these and other aspects will be transitioned. Would also love to see collective feedback and input, as well as some mapping or visualizations of these elements, perhaps finding some symbols or correlations with living systems 🤔🌱
+**_NOTE:_** In the case of "progressive decentralization", consider how all of these and other aspects will be transitioned. I would also love to see collective feedback and input, as well as some mapping or visualizations of these elements, perhaps finding some symbols or correlations with living systems 🤔🌱
