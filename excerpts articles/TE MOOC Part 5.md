@@ -202,3 +202,25 @@ The volume and speed of information with multiple social platforms and governanc
 
 Finally, aspects of "Meta Ethnography" as discussed in the paper, second-order effects and elements of [reflexivity](https://twitter.com/block_science/status/1439212618363793408) and the researcher or analyzer becoming part of the system, can affect the research.
 
+### DAO Resilience
+![](https://i.imgur.com/do3Od5r.png)
+
+Challenges in DAO research:
+**_-Technical literacy deficit  
+-Automation obscuring governance interactions  
+-Volume & speed of information  
+-Implicit social & political dynamics  
+-Capturing context  
+-2nd order effects of system observation_**
+
+### Governance mapping
+![](https://i.imgur.com/xnuA1T6.png)
+_References:_
+[Gitcoin](https://gitcoin.co/)
+[Ecosystem mapping & Discussion in Gitcoin DAO](https://gov.gitcoin.co/t/ecosystem-mapping-discussion/8123)
+[Fraud Detection & Defense Working Group Mapping in Gitcoin DAO](https://gov.gitcoin.co/t/fraud-detection-defense-working-group-mapping/8122)  
+[Operationalizing the GitcoinDAO Anti-Sybil Process](https://medium.com/block-science/operationalizing-the-gitcoindao-anti-sybil-process-7f2595544f44)[](https://www.youtube.com/watch?v=MbjObHmDbZo)  
+[Lucid Chart Tutorials](https://www.youtube.com/user/lucidchart)  
+[Aligning 'DAO' to Precedents in Cybernetics](https://medium.com/block-science/aligning-the-concept-of-decentralized-autonomous-organization-to-precedents-in-cybernetics-51344d1c1411)
+[Lido Governance Analysis](https://medium.com/block-science/dao-vulnerabilities-a-map-of-lido-governance-risks-opportunities-92bc6384ff68)
+
