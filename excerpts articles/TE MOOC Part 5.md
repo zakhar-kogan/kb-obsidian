@@ -224,3 +224,52 @@ _References:_
 [Aligning 'DAO' to Precedents in Cybernetics](https://medium.com/block-science/aligning-the-concept-of-decentralized-autonomous-organization-to-precedents-in-cybernetics-51344d1c1411)
 [Lido Governance Analysis](https://medium.com/block-science/dao-vulnerabilities-a-map-of-lido-governance-risks-opportunities-92bc6384ff68)
 
+## Governance design
+**_Governance is less about answers, and more about asking good questions._**
+
+Governance is contextual - it depends on the purpose, diversity of stakeholders, scale, constraints (economic/temporal/technical) and many, many other factors. Even the same governance mechanism can be used in many different ways - i.e. different models of preference aggregation using the same voting mechanism.
+
+Prize-winning political economist [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) likened the craft of [institutional design](https://www.igi-global.com/dictionary/institution-design/70527#:~:text=1.,overseeing%2C%20and%20implementing%20public%20policy.) and its practitioners to artisans. When we approach systems design and engineering in decentralized communities, we must approach with a sense of reverence for the craft, fractals and feedback loops it can spin, as well as the ethical approach and responsibility of the engineering field.
+
+### Fields to draw from
+![](https://i.imgur.com/1HolAnW.png)
+![](https://i.imgur.com/my6tqVN.png)
+![](https://i.imgur.com/Zl16xlt.png)
+Let's read these two articles on the intersection of decentralized tech and commons:
+
+[📚 Automating Ostrom for Effective DAO Management: Designing Cyber-Physical Commons to be ‘Ostrom Compliant’](https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138) (Emmett)  
+[📚 Building a grammar of blockchain governance: Towards Ostrom-Complete governance](https://darcyallen.substack.com/p/ostrom-complete?s=r)(Allen)
+
+As we saw in the [Polycentric Governance workshop](https://www.youtube.com/watch?v=ZIWskNogafg) there are many steps and processes to develop in the beginning phases of exploring the decision space depending on the size of the group initializing the system. Some key elements & processes include:
+
+**GOVERNANCE**
+
+-   **Stakeholder Mapping:** Identify and map key stakeholders in the initial phases, as well as consideration for those who may come in later phases
+-   **Animating purpose:** Find the common ground held by all stakeholders and establish an animating purpose, constitution, mission vision values, ethics, culture, social norms, rituals and goals. Note purpose and/or goals may or may not be dynamic. 
+-    **Map d****ecisions:** Map different kinds of decisions that need to be made and explore questions (see next slide)
+-   **Map what is being governed:** i.e. constitution, funds or resource allocation, smart contract fixes and upgrades & the role of algorithms and automation
+-   **Decide how to decide:** Establish initial frameworks for finding consent and consensus for various kinds of decisions which can include social sense-making and coherence-building processes like [advice process](https://corporate-rebels.com/advice-process/#:~:text=The%20advice%20process%20as%20coined,gather%20perspectives%20before%20proposing%20action.), and establishing subject matter working groups aka [pods](https://www.daomasters.xyz/tools/orca) or [fractal governance](https://rmitbih.substack.com/p/blockchains-daos-and-fractal-governance) (nested institutions in Ostrom's language)
+-   **Explore assumptions:** Listing and exploring assumptions by various stakeholders
+-   **Examine token properties:** Examine whether or not to separate governance tokens from economic tokens & whether or not the governance tokens should be transferrable or non-transferrable
+-   **Consider conflict:** Understanding governance as tension management or conflict - 
+    -   Examine incentive alignment & create "user stories" for stakeholders groups, bundling those with common interests and mapping potential conflict or competing interests
+    -   Establish dispute resolution mechanisms - social and/or technical
+-   **Establish** [**ownership model**](https://blog.curvelabs.eu/ownership-in-cryptonetworks-96f13f4a113e)**:** Also, how that may change over time, including plans for initial token distribution and consideration for future stakeholders.
+    -   For example: [The Regen Network & Foundation](https://regen.foundation/) set aside 30% of its initial token distribution for future stakeholders
+-   **Consider lifecycle:** Consider potential ebbs and flows of the project/community/organization, and consider what happens in the case of dissolution or how offboarding / exit may occur
+-   **Establish metrics or methods for [verification](https://blog.oceanprotocol.com/on-verifying-token-based-systems-c33eca757ecf):** What determines whether or not the system or governance processes are successful in supporting goals?
+    -   Consider also if the community is more rule oriented or goal oriented and how often rules should / can be changed, by whom, under what circumstances
+-   **Iterate:** Use the [CAG map and process](https://medium.com/block-science/mapping-the-computer-aided-governance-process-2e47eaf70889) for continuous iteration
+
+**INFRASTRUCTURE**
+
+-   **Legal & Risk Management:** Research and make decisions around jurisdictional and legal compliance and what legal or organizational structure is necessary,  how intellectual property and data will be managed, risk management & types of ~~e~~mergency that may arise and procedures
+    -   [Here is a great example of emergency planning documentation](https://docs.yearn.finance/developers/v2/EMERGENCY) from Yearn, a DeFi platform
+
+**OPERATIONS** 
+
+-   **Consider funding flows:** Identify resources, business model and funding streams, capital and operational expenses and how that will be managed
+-   **Establish & maintain communication channels:** Discuss and establish roles and levels of permission or how [permissionless](https://policyreview.info/glossary/permissionlessness) a the system should be and if that will evolve
+-   **Ops & Administration:** Create processes and identify needs for documentation and administration
+
+**_NOTE:_** In the case of "progressive decentralization", consider how all of these and other aspects will be transitioned. Would also love to see collective feedback and input, as well as some mapping or visualizations of these elements, perhaps finding some symbols or correlations with living systems 🤔🌱
