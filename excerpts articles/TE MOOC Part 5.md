@@ -273,3 +273,6 @@ As we saw in the [Polycentric Governance workshop](https://www.youtube.com/watc
 -   **Ops & Administration:** Create processes and identify needs for documentation and administration
 
 **_NOTE:_** In the case of "progressive decentralization", consider how all of these and other aspects will be transitioned. I would also love to see collective feedback and input, as well as some mapping or visualizations of these elements, perhaps finding some symbols or correlations with living systems 🤔🌱
+
+_The first obvious component is the elements of your animating purpose that can be operationalized into formal system design. These are the justiciable elements of a public constitution. These by definition should be chosen in furtherance of animating purpose. Don't make your sports team a democracy, and don't make your human society an autocracy. Given the purpose underlying each, a given form of governance structure (reified into operationalizable constitutional provisions) dominates other alternatives._
+
