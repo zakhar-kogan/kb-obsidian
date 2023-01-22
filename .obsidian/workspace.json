@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpts articles/overthinking.md",
+                "file": "excerpts articles/antibiotics.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/overthinking.md",
+                "file": "excerpts articles/antibiotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpts articles/overthinking.md"
+                "file": "excerpts articles/antibiotics.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/overthinking.md",
+                "file": "excerpts articles/antibiotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +154,15 @@
   },
   "active": "35c9841c597beb21",
   "lastOpenFiles": [
-    "2023-01-22.md",
-    "excerpts articles/TE MOOC Part 5.md",
-    "2023-01-16.md",
-    "2023-01-13.md",
-    "6 способов управления людьми.md",
-    "2023-01-04.md",
-    "2022-12-23.md",
-    "excerpts articles/charisma.md",
-    "posts/Move yoself.md",
+    "pages/Microeconomics.md",
+    "pages/PDE4.md",
+    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06%2FToken-Ecosystem-Creation-Outlier-Ventures-PDF.pdf.md",
+    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06.md",
+    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads.md",
+    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content.md",
+    "pages/https%3A%2F%2Foutlierventures.io.md",
+    "pages/Learning ML 1.md",
+    "pages/орегано.md",
     "excerpts articles/overthinking.md"
   ]
 }
