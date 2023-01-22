@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/antibiotics.md",
+                "file": "2023-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpts articles/antibiotics.md"
+                "file": "2023-01-22.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/antibiotics.md",
+                "file": "2023-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +151,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "35c9841c597beb21",
+  "active": "577c537331f1829f",
   "lastOpenFiles": [
+    "excerpts articles/antibiotics.md",
     "pages/Microeconomics.md",
     "pages/PDE4.md",
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06%2FToken-Ecosystem-Creation-Outlier-Ventures-PDF.pdf.md",
@@ -162,7 +162,6 @@
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content.md",
     "pages/https%3A%2F%2Foutlierventures.io.md",
     "pages/Learning ML 1.md",
-    "pages/орегано.md",
-    "excerpts articles/overthinking.md"
+    "pages/орегано.md"
   ]
 }
