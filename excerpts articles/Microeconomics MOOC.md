@@ -4,7 +4,6 @@
 
 2. **Supply**: The amount of a good or service that producers are willing and able to supply at different prices. It is represented by the supply curve, which shows the direct relationship between price and quantity supplied.
 
-
 3.  **Market Equilibrium**: The point at which the quantity demanded of a good or service equals the quantity supplied, resulting in a stable price and quantity. It is represented by the intersection of the demand and supply curves.
 
 4.  **Elasticity**: The responsiveness of quantity demanded or quantity supplied to a change in price. The price elasticity of demand or the price elasticity of supply can measure elasticity.

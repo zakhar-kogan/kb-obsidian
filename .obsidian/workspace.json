@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "excerpts articles/Microeconomics MOOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "excerpts articles/Microeconomics MOOC.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "excerpts articles/Microeconomics MOOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +151,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "efdc13e98516c137",
+  "active": "4ee1d93648252bb3",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "excerpts articles/Microeconomics MOOC.md",
     "Untitled.md",
     "Resume CV.md",
@@ -162,7 +162,6 @@
     "pages/Microeconomics.md",
     "pages/PDE4.md",
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06%2FToken-Ecosystem-Creation-Outlier-Ventures-PDF.pdf.md",
-    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06.md",
-    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads.md"
+    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06.md"
   ]
 }
