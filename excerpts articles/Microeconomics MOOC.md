@@ -8,10 +8,15 @@
 > 
 > The demand curve also takes into account the different uses of a good or service and how people's willingness to buy that good or service changes as the price changes. For example, as the price of oil increases, the cost of making plastic or gasoline also increases, and some people may choose to buy a substitute product or not buy the product at all.
 
-2.  **Supply**: The amount of a good or service that producers are willing and able to supply at different prices. It is represented by the supply curve, which shows the direct relationship between price and quantity supplied.
+1.  **Supply**: The amount of a good or service that producers are willing and able to supply at different prices. It is represented by the supply curve, which shows the direct relationship between price and quantity supplied.
+
+> The **supply curve** shows the relationship between the price of a good or service and the quantity of that good or service that suppliers are willing and able to supply. As the **price increases**, the **quantity supplied** also increases.
+> 
+> For example, in the case of oil, at a low price, a small quantity of oil is supplied, but as the **price increases**, more oil is supplied. This is because, as prices rise, it becomes more profitable for **suppliers with higher extraction costs to enter the market**. This relationship is illustrated by the **upward slope of the supply curve**.
+
 
 3.  **Market Equilibrium**: The point at which the quantity demanded of a good or service equals the quantity supplied, resulting in a stable price and quantity. It is represented by the intersection of the demand and supply curves.
-
+> 
 4.  **Elasticity**: The responsiveness of quantity demanded or quantity supplied to a change in price. Elasticity can be measured by the price elasticity of demand or the price elasticity of supply.
 
 5.  **Consumer Surplus**: The difference between the maximum amount a consumer is willing to pay for a good or service and the actual price they pay. It is represented by the area above the demand curve and below the market price.
