@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-22.md",
+                "file": "Resume CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,18 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "excerpts articles/Singapore business.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35c9841c597beb21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "excerpts articles/antibiotics.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +154,8 @@
   },
   "active": "456aa7a6e68be703",
   "lastOpenFiles": [
-    "2023-01-22.md",
+    "Resume CV.md",
+    "excerpts articles/Singapore business.md",
     "excerpts articles/antibiotics.md",
     "pages/Microeconomics.md",
     "pages/PDE4.md",
@@ -174,7 +163,6 @@
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06.md",
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads.md",
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content.md",
-    "pages/https%3A%2F%2Foutlierventures.io.md",
-    "pages/Learning ML 1.md"
+    "pages/https%3A%2F%2Foutlierventures.io.md"
   ]
 }
