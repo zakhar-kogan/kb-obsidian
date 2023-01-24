@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "577c537331f1829f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume CV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "456aa7a6e68be703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "excerpts articles/Singapore business.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4ee1d93648252bb3",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,15 +141,15 @@
   },
   "active": "4ee1d93648252bb3",
   "lastOpenFiles": [
-    "excerpts articles/Singapore business.md",
     "Resume CV.md",
+    "excerpts articles/Singapore business.md",
+    "excerpts articles/Microeconomics MOOC.md",
     "excerpts articles/antibiotics.md",
     "pages/Microeconomics.md",
     "pages/PDE4.md",
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06%2FToken-Ecosystem-Creation-Outlier-Ventures-PDF.pdf.md",
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06.md",
     "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads.md",
-    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content.md",
-    "pages/https%3A%2F%2Foutlierventures.io.md"
+    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content.md"
   ]
 }
