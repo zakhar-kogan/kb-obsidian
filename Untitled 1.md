@@ -10,8 +10,10 @@ Developed internal builder for covers with developers and created over 120 origi
 
 ==Developed an internal cover builder resulting in reduced article publication time (10 ⇒ 4 days), created 120+ illustrations using it=
 
-Increased customer trust by +30% and became the 1-st non-anonymous company in the market publishing photos of the employees.  
+~~Increased customer trust by +30% and became the 1-st non-anonymous company in the market publishing photos of the employees.~~  
 
 Developed and established design guidelines and standards, user interface elements.  
 
 Conducted usability testing and from mobile version by +20% fixed mobile adaptiveness.
+
+==
