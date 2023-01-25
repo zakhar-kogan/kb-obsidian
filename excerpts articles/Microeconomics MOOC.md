@@ -32,6 +32,20 @@ A change in quantity demanded refers to a change in the amount of a good or serv
 
 6.  **Producer Surplus**: The difference between the minimum amount a producer is willing to accept for a good or service and the actual price they receive. It is represented by the area above the market price and below the supply curve.
 
+## Shifts in supply
+### Innovation
+Lowers costs and increases supply
+### Increase in unit price
+Decreases supply
+### Taxes
+Increase cost, decrease supply
+### Subsidies
+Decrease cost and increase supply
+### Expectations
+Of a higher price: increase cost of supplying now
+### Opportunity costs
+![](https://i.imgur.com/pnSl20L.png)
+
 7.  **Market Failure**: A situation in which the market does not allocate resources efficiently. This can occur due to externalities, public goods, or market power.
 
 8.  **Externalities**: The costs or benefits of a good or service that are not reflected in its market price. Negative externalities result in underproduction, while positive externalities result in overproduction.
