@@ -6,6 +6,15 @@
 
 3.  **Market Equilibrium**: The point at which the quantity demanded of a good or service equals the quantity supplied, resulting in a stable price and quantity. It is represented by the intersection of the demand and supply curves.
 
+## 5 Factors that can change the demand
+### Income
+Income ⬆️ leads to demand ⬆️, but depends on the good. Demand curve shifts to the right and up.
+For inferior goods ("poor" like instant ramen), income ⬆️ leads to demand ⬇️
+
+### Population
+### Tastes
+### Related goods
+### Expectations
 4.  **Elasticity**: The responsiveness of quantity demanded or quantity supplied to a change in price. The price elasticity of demand or the price elasticity of supply can measure elasticity.
 
 5.  **Consumer Surplus**: The difference between the maximum amount a consumer is willing to pay for a good or service and the actual price they pay. It is represented by the area above the demand curve and below the market price.
