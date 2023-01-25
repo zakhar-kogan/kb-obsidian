@@ -43,6 +43,7 @@ Increase cost, decrease supply
 Decrease cost and increase supply
 ### Expectations
 Of a higher price: increase cost of supplying now
+### Entry or exit of producers
 ### Opportunity costs
 ![](https://i.imgur.com/pnSl20L.png)
 
