@@ -10,11 +10,20 @@
 ### Income
 Income ⬆️ leads to demand ⬆️, but depends on the good. Demand curve shifts to the right and up.
 For inferior goods ("poor" like instant ramen), income ⬆️ leads to demand ⬇️
-
 ### Population
 ### Tastes
+Hamburgers or iPhones, for example
 ### Related goods
+### Substitutes
+![](https://i.imgur.com/d3KBj77.png)
+### Complements
+![](https://i.imgur.com/oiImLiI.png)
+
 ### Expectations
+Say, batteries before a hurricane.
+
+## Change in quantity demanded vs a change in demand
+
 4.  **Elasticity**: The responsiveness of quantity demanded or quantity supplied to a change in price. The price elasticity of demand or the price elasticity of supply can measure elasticity.
 
 5.  **Consumer Surplus**: The difference between the maximum amount a consumer is willing to pay for a good or service and the actual price they pay. It is represented by the area above the demand curve and below the market price.
