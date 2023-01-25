@@ -23,6 +23,8 @@ Hamburgers or iPhones, for example
 Say, batteries before a hurricane.
 
 ## Change in quantity demanded vs a change in demand
+A change in quantity demanded refers to a change in the amount of a good or service that consumers are willing to buy at a given price, while a change in demand refers to a shift in the entire demand curve, which can be caused by a variety of factors such as changes in consumer preferences, income etc.
+![](https://i.imgur.com/jc5zQhv.png)
 
 4.  **Elasticity**: The responsiveness of quantity demanded or quantity supplied to a change in price. The price elasticity of demand or the price elasticity of supply can measure elasticity.
 
