@@ -28,6 +28,8 @@ A change in quantity demanded refers to a change in the amount of a good or serv
 
 4.  **Elasticity**: The responsiveness of quantity demanded or quantity supplied to a change in price. The price elasticity of demand or the price elasticity of supply can measure elasticity.
 
+The More Responsive Quantity Demanded is to a Change in Price, the More Elastic is the Demand Curve
+
 5.  **Consumer Surplus**: The difference between the maximum amount a consumer is willing to pay for a good or service and the actual price they pay. It is represented by the area above the demand curve and below the market price.
 
 6.  **Producer Surplus**: The difference between the minimum amount a producer is willing to accept for a good or service and the actual price they receive. It is represented by the area above the market price and below the supply curve.
