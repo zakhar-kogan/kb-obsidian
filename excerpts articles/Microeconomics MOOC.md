@@ -30,6 +30,20 @@ A change in quantity demanded refers to a change in the amount of a good or serv
 
 The More Responsive Quantity Demanded is to a Change in Price, the More Elastic is the Demand Curve
 
+Determinants of the Elasticity of Demand
+1. Availability of Substitutes (this is the fundamental determinant)
+   For goods with many substitutes, switching
+brands, when prices change, is EASY, so demand is elastic
+2. Time Horizon
+   Immediately following a price increase, consumers may not be
+able to alter their consumption patterns (making demand inelastic)
+1. Category of the product (specific or broad)
+   The broader the classification, the less likely consumers will be to find a substitute (making demand inelastic)
+2. Necessities vs. Luxuries
+   - For necessities, consumers do not change quantity demanded much when the price changes (making demand inelastic)
+   - For luxuries, consumers will alter their behavior when the price rises (making demand elastic)
+5. Purchase Size
+
 5.  **Consumer Surplus**: The difference between the maximum amount a consumer is willing to pay for a good or service and the actual price they pay. It is represented by the area above the demand curve and below the market price.
 
 6.  **Producer Surplus**: The difference between the minimum amount a producer is willing to accept for a good or service and the actual price they receive. It is represented by the area above the market price and below the supply curve.
