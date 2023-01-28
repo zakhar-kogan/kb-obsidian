@@ -28,6 +28,22 @@ A change in quantity demanded refers to a change in the amount of a good or serv
 
 4.  **Elasticity**: The responsiveness of quantity demanded or quantity supplied to a change in price. The price elasticity of demand or the price elasticity of supply can measure elasticity.
 
+### Elasticity of Supply
+![](https://i.imgur.com/zu6trPY.png)
+Determinants:
+1. Change in Per-Unit Costs with Increased Production
+	1. If increased production requires much higher costs, then the supply curve will be inelastic
+	2. If production can increase with constant costs then the supply curve will be elastic
+2. Time Horizon
+	1. Immediately following a price increase, producers can expand output only using their current capacity (making supply inelastic)
+	2. Over time, however, producers can expand their capacity (making supply elastic)
+3. Share of Market for Inputs
+	1. Supply is elastic when the industry is a small demander in its input markets because supply can be expanded without causing a big increase in the demand for the industry's inputs
+4. Geographic Scope
+	1. The narrower the scope of the market of a good, the more elastic its supply
+	2. The wider the scope of the market of a good, the less elastic its supply
+
+### Elasticity of Demand
 ![](https://i.imgur.com/8Qq0q9w.png)
 
 The More Responsive Quantity Demanded is to a Change in Price, the More Elastic is the Demand Curve
