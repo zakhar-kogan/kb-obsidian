@@ -142,4 +142,7 @@ Since it **doesn't matter whether buyers or sellers are taxed**, we can graph th
 * The less elastic (more inelastic) side of the market will pay a greater share of a tax (greater burden)
 * Elastic demand means that demanders have good substitutes for the taxed good and so can escape the tax
 * Elastic supply means that the resources used to produce the taxed good can easily be moved to other industries so they can escape the tax
-* Someone, however, must pay the tax so the burden is determined by the relative elasticities
+* Someone, however, must pay the tax so the relative elasticities determine the burden
+
+### Tax revenue and deadweight loss
+![](https://i.imgur.com/cXmJKb9.png)
