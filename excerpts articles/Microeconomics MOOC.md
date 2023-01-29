@@ -161,3 +161,4 @@ When **demand is more elastic than supply, suppliers bear more of the burden of 
 
 ### Wage subsidies
 ![](https://i.imgur.com/9WktNBW.png)
+
