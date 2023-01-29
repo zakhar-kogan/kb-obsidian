@@ -1,5 +1,5 @@
 [Principles of Economics: Microeconomics | Marginal Revolution University](https://mru.org/courses/principles-economics-microeconomics/)
-
+[[microeconomics]] [Incentives](Incentives) [incentive](incentive)
 1. **Demand**: The amount of a good or service that consumers are willing and able to purchase at different prices. It is represented by the demand curve, which shows the inverse relationship between price and quantity demanded.
 
 2. **Supply**: The amount of a good or service that producers are willing and able to supply at different prices. It is represented by the supply curve, which shows the direct relationship between price and quantity supplied.
@@ -131,3 +131,12 @@ Of a higher price: increase cost of supplying now
 29.  **Income Effect**: The change in consumption due to a change in real income.
 
 30. **Perfect Competition**: A market structure characterized by a large number of small firms, homogeneous products, and free entry and exit. In this market structure, firms are price takers and have no market power.
+
+### Taxes
+![](https://i.imgur.com/BNTVpsF.png)
+
+Since it **doesn't matter whether buyers or sellers are taxed**, we can graph the tax as a simple "wedge":
+![](https://i.imgur.com/0amonL4.png)
+
+* The more elastic side of the market will pay a smaller share of a tax (smaller burden)
+* The less elastic (more inelastic) side of the market will pay a greater share of a tax (greater burden)
