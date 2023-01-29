@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9f1a056fc283b4",
+        "id": "732d21c8883cd806",
         "type": "tabs",
         "children": [
           {
-            "id": "771b0791c880b294",
+            "id": "1ca1785bed8b75eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +132,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "771b0791c880b294",
+  "active": "1ca1785bed8b75eb",
   "lastOpenFiles": [
+    "journals/2022_08_18.md",
+    "journals/2022_10_16.md",
+    "excerpts articles/Microeconomics MOOC.md",
     "excerpts articles/antibiotics.md",
     "Antimicrobial.md",
-    "excerpts articles/Microeconomics MOOC.md",
     "Untitled 1.md",
     "Untitled.md",
     "Resume CV.md",
     "excerpts articles/Singapore business.md",
-    "pages/Microeconomics.md",
-    "pages/PDE4.md",
-    "pages/https%3A%2F%2Foutlierventures.io%2Fwp-content%2Fuploads%2F2021%2F06%2FToken-Ecosystem-Creation-Outlier-Ventures-PDF.pdf.md"
+    "pages/Microeconomics.md"
   ]
 }
