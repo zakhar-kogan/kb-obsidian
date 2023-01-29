@@ -151,3 +151,10 @@ We want to **tax inelastic demand goods**:
 ![](https://i.imgur.com/i1Xxxyf.png)
 **If the tax is inelastic, we won't deter a lot of trades.**
 
+### Subsidies
+A **subsidy is a negative tax** where the government gives money to consumers (or producers). Some economic truths about subsidies:
+1. Who gets the subsidy does not depend on who receives the check from the government
+2. Who benefits from the subsidy does depend on the relative elasticities of demand and supply
+3. Subsidies must be paid for by taxpayers and they create inefficient increases in trade (deadweight loss)
+![](https://i.imgur.com/SN3EYEe.png)
+When **demand is more elastic than supply, suppliers bear more of the burden of a tax and receive more of the benefit of a subsidy**
