@@ -28,7 +28,7 @@ A change in quantity demanded refers to a change in the amount of a good or serv
 
 4.  **Elasticity**: The responsiveness of quantity demanded or quantity supplied to a change in price. The price elasticity of demand or the price elasticity of supply can measure elasticity.
 
-### Elasticity of Supply
+## Elasticity of Supply
 ![](https://i.imgur.com/zu6trPY.png)
 Determinants:
 1. Change in Per-Unit Costs with Increased Production
@@ -43,12 +43,12 @@ Determinants:
 	1. The narrower the scope of the market of a good, the more elastic its supply
 	2. The wider the scope of the market of a good, the less elastic its supply
 
-### Elasticity of Demand
+## Elasticity of Demand
 ![](https://i.imgur.com/8Qq0q9w.png)
 
 The More Responsive Quantity Demanded is to a Change in Price, the More Elastic is the Demand Curve
 
-#### Determinants of the Elasticity of Demand
+### Determinants of the Elasticity of Demand
 * Availability of Substitutes (this is the fundamental determinant)
    For goods with many substitutes, switching brands, when prices change, is EASY, so demand is elastic
 * Time Horizon
@@ -132,7 +132,7 @@ Of a higher price: increase cost of supplying now
 
 30. **Perfect Competition**: A market structure characterized by a large number of small firms, homogeneous products, and free entry and exit. In this market structure, firms are price takers and have no market power.
 
-### Taxes
+## Taxes
 ![](https://i.imgur.com/BNTVpsF.png)
 
 Since it **doesn't matter whether buyers or sellers are taxed**, we can graph the tax as a simple "wedge":
@@ -158,3 +158,6 @@ A **subsidy is a negative tax** where the government gives money to consumers (o
 3. Subsidies must be paid for by taxpayers and they create inefficient increases in trade (deadweight loss)
 ![](https://i.imgur.com/SN3EYEe.png)
 When **demand is more elastic than supply, suppliers bear more of the burden of a tax and receive more of the benefit of a subsidy**
+
+### Wage subsidies
+![](https://i.imgur.com/9WktNBW.png)
