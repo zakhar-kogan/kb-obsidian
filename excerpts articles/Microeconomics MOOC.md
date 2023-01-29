@@ -146,3 +146,8 @@ Since it **doesn't matter whether buyers or sellers are taxed**, we can graph th
 
 ### Tax revenue and deadweight loss
 ![](https://i.imgur.com/cXmJKb9.png)
+
+We want to **tax inelastic demand goods**:
+![](https://i.imgur.com/i1Xxxyf.png)
+**If the tax is inelastic, we won't deter a lot of trades.**
+
