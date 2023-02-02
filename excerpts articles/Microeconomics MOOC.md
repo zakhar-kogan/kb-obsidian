@@ -84,6 +84,7 @@ Of a higher price: increase cost of supplying now
 ### Opportunity costs
 ![](https://i.imgur.com/pnSl20L.png)
 
+
 7.  **Market Failure**: A situation in which the market does not allocate resources efficiently. This can occur due to externalities, public goods, or market power.
 
 8.  **Externalities**: The costs or benefits of a good or service that are not reflected in its market price. Negative externalities result in underproduction, while positive externalities result in overproduction.
