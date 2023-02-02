@@ -100,6 +100,8 @@ Solving:
 ![](https://i.imgur.com/xSoAt7h.png)
 
 ## Speculation
+![](https://i.imgur.com/5Bzc5YS.png)
+
 
 7.  **Market Failure**: A situation in which the market does not allocate resources efficiently. This can occur due to externalities, public goods, or market power.
 
