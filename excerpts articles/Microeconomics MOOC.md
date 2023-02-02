@@ -84,6 +84,17 @@ Of a higher price: increase cost of supplying now
 ### Opportunity costs
 ![](https://i.imgur.com/pnSl20L.png)
 
+* How does the price of oil affect the price of
+candy bars?
+* Higher oil prices -> ethanol ⬆️ -› more sugar cane for ethanol less for sugar -› price of sugar ⬆️ -> cost of producing candy bars ⬆️
+
+## Great economic problem
+- Great Economic Problem - how to arrange our limited resource to satisfy as many of our wants as possible
+- Resources are not equally valuable in all uses
+Solving: 
+- Central planning: a single official or bureaucracy is responsible for allocating limited resources
+	- Too much information to process
+	- Too few incentives
 
 7.  **Market Failure**: A situation in which the market does not allocate resources efficiently. This can occur due to externalities, public goods, or market power.
 
