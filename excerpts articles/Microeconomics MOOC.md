@@ -198,6 +198,7 @@ When buyers pay for gasoline in time, **the seller doesn't get the ti
 - Shortages
 	- ![](https://i.imgur.com/DHf4zcr.png)
 - Deadweight loss of trade gains
+	- ![](https://i.imgur.com/Q3eXLSI.png)
 - Reductions in product quality
 	- With a surplus of buyers, sellers have less of an incentive to give good service
 	- Another way to lower quality is to reduce service
