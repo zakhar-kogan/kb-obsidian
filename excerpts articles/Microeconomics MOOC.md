@@ -181,3 +181,11 @@ When **demand is more elastic than supply, suppliers bear more of the burden of 
 ### Wage subsidies
 ![](https://i.imgur.com/9WktNBW.png)
 
+## Price ceiling and floor
+When buyers pay for gasoline in time, **the seller doesn't get the time. The time just gets wasted.**
+### Effects
+- Misallocation of resources
+- Wasteful lines and other search costs
+- Shortages
+- Deadweight loss of trade gains
+- Reductions in product quality
