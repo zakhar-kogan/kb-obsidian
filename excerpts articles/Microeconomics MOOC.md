@@ -186,6 +186,15 @@ When buyers pay for gasoline in time, **the seller doesn't get the ti
 ### Effects
 - Misallocation of resources
 - Wasteful lines and other search costs
+	- ![](https://i.imgur.com/ohjMc7a.png)Example
+		* Suppose buyers value their time at $10/hr
+		* Average fuel tank holds 20 gallons
+		* Buyer arrives early and waits I hr
+		* Total cost of gas = $1×20 gal + $10x1hr = $30
+		* Implied cost per gallon = $30/20 = $1.50/gal
+		* Remember that the value of gas is $3/gal
+		* Buyers "bid" up the price by arriving earlier and earlier ⇒ ⬆️ time cost 
+		* Line lengthens until total cost of 20 gallons equals $60 or $3/gallon, i.e. $20 money cost plus $40 time cost or 4 hours of waiting!
 - Shortages
 	- ![](https://i.imgur.com/DHf4zcr.png)
 - Deadweight loss of trade gains
