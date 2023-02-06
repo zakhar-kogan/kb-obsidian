@@ -197,8 +197,11 @@ When buyers pay for gasoline in time, **the seller doesn't get the ti
 		* Line lengthens until total cost of 20 gallons equals $60 or $3/gallon, i.e. $20 money cost plus $40 time cost or 4 hours of waiting!
 - Shortages
 	- ![](https://i.imgur.com/DHf4zcr.png)
+	- ![](https://i.imgur.com/dXcV6pJ.png)
+
 - Deadweight loss of trade gains
 	- ![](https://i.imgur.com/Q3eXLSI.png)
 - Reductions in product quality
 	- With a surplus of buyers, sellers have less of an incentive to give good service
 	- Another way to lower quality is to reduce service
+- 
