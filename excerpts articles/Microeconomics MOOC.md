@@ -204,4 +204,23 @@ When buyers pay for gasoline in time, **the seller doesn't get the ti
 - Reductions in product quality
 	- With a surplus of buyers, sellers have less of an incentive to give good service
 	- Another way to lower quality is to reduce service
-- 
+
+### Rent controls
+• Rent controls reduce housing quality
+	• Owners respond to price control by cutting costs
+	• Daily maintenance chores are cut
+	• Repairs to elevators etc are delayed
+• When rent controls are strong
+	• Serviceable apartment buildings - slums
+	• Slums -› abandoned and hollowed-out buildings
+• Finding an apartment often involves a costly search
+	• Rent controls reduce the price of discrimination
+	• Landlords are able to discriminate without cost
+	• Without controls sellers who discriminate bear a cost
+• Bribes can be disquised
+	• Charging extra for a "furnished" apartment
+• Apartments are not allocated to the renters
+who value them the most
+	• Classic example: Older couple who stay in their large rent controlled apartment
+• One study found: 21% of renters in NYC live in an apartment that has more or fewer rooms than they would choose if they lived in a city without rent controls
+
