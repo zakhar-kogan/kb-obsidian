@@ -205,6 +205,16 @@ When buyers pay for gasoline in time, **the seller doesn't get the ti
 	- With a surplus of buyers, sellers have less of an incentive to give good service
 	- Another way to lower quality is to reduce service
 
+## Price floors
+Price floor - a minimum price allowed by
+law
+Price floors create:
+1. Surpluses
+2. Lost gains from trade (deadweight loss)
+3. Wasteful increases in quality
+4. A misallocation of resources
+Price floors are less common than price
+ceilings. Why?
 ### Rent controls
 • Rent controls reduce housing quality
 	• Owners respond to price control by cutting costs
