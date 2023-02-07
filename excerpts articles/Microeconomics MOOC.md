@@ -248,6 +248,21 @@ who value them the most
 ![](https://i.imgur.com/3K2WZMs.png)
 ![](https://i.imgur.com/5PHJGLB.png)
 
-A tariff has two effects that influence welfare:
-1. Domestic consumption ⬆️
-	1. Domestic production ^
+A **tariff** has two effects that influence **welfare**:
+* Domestic consumption ⬇
+* Domestic production ⬆️
+**Both** of these effects **reduce** welfare
+- Domestic consumption ⬇️
+	- Lost gains from trade
+- Domestic production ⬆️
+	- Wasted resources from higher-cost production
+![](https://i.imgur.com/KM1Upmd.png)
+
+- Tariffs increase prices to consumers so domestic consumption falls and this creates a deadweight loss
+- Tariffs divert production from low-cost (world) producers to high-cost (domestic) producers and this waste resources
+Distribution of losses and gains
+- Bad for consumers
+- Good for domestic producers
+- Bad overall
+> See Cowen and Tabarrok. Modern Principles of Economics.
+
