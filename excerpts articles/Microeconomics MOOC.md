@@ -241,3 +241,13 @@ who value them the most
 	• Classic example: Older couple who stay in their large rent controlled apartment
 • One study found: 21% of renters in NYC live in an apartment that has more or fewer rooms than they would choose if they lived in a city without rent controls
 
+## Tariffs and protectionism
+- Protectionism - the economic policy of restraining trade through tariffs, quotas or other regulations that burden foreign producers but not domestic producers
+- Tariff - a tax on imports
+- Quota - restriction on the quantity of goods that can be imported
+![](https://i.imgur.com/3K2WZMs.png)
+![](https://i.imgur.com/5PHJGLB.png)
+
+A tariff has two effects that influence welfare:
+1. Domestic consumption ⬆️
+	1. Domestic production ^
