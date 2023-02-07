@@ -128,6 +128,7 @@ Solving:
 * Trade increases productivity through specialization according to comparative advantage
 ### Comparative advantage
 ![](https://i.imgur.com/OFEVQKg.png)
+In two country/person examples everyone is better off. In larger examples, trade increases aggregate wealth but some individuals can be made worse off.
 
 17.  **Absolute Advantage**: The ability of a person or firm to produce a good or service more efficiently than another person or firm.
 
