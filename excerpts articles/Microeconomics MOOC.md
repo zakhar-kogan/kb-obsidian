@@ -126,6 +126,8 @@ Solving:
 * Trade makes people better off when preferences differ
 * Trade increases productivity through specialization and the division of knowledge
 * Trade increases productivity through specialization according to comparative advantage
+### Comparative advantage
+![](https://i.imgur.com/OFEVQKg.png)
 
 17.  **Absolute Advantage**: The ability of a person or firm to produce a good or service more efficiently than another person or firm.
 
