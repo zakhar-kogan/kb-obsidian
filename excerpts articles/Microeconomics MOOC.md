@@ -266,3 +266,19 @@ Distribution of losses and gains
 - Bad overall
 > See Cowen and Tabarrok. Modern Principles of Economics.
 
+## Against international trade
+Some of the most common arguments:
+- Trade reduces the number of jobs in the U.S.
+- It's wrong to trade with countries that use child labor
+- We need to keep certain jobs at home for national security
+- We need to keep certain "key" industries at home because of beneficial spillovers onto other sectors of the economy
+- We can increase U.S. well-being with strategic trade protectionism
+
+- Trade moves jobs from import-competing industries to exporting industries
+- Wages increase on average due to comparative advantage
+- Problems can occur, however, when we lose jobs in low-skill import-competing sectors and gain jobs in high-skill export sectors
+
+- Child labor was common in 19th-century Great Britain and the U.S.
+- Child labor declined in the developed world as people got richer
+- Forces that reduced child labor in the developed world are at work in the developing countries
+
