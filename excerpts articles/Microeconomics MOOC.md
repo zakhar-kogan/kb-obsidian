@@ -274,11 +274,25 @@ Some of the most common arguments:
 - We need to keep certain "key" industries at home because of beneficial spillovers onto other sectors of the economy
 - We can increase U.S. well-being with strategic trade protectionism
 
+### Arguments for
 - Trade moves jobs from import-competing industries to exporting industries
 - Wages increase on average due to comparative advantage
 - Problems can occur, however, when we lose jobs in low-skill import-competing sectors and gain jobs in high-skill export sectors
 
+### Child labor
 - Child labor was common in 19th-century Great Britain and the U.S.
 - Child labor declined in the developed world as people got richer
 - Forces that reduced child labor in the developed world are at work in the developing countries
+
+![](https://i.imgur.com/j8Kgh6R.png)
+
+Possible for a country to use tariffs and quotas to get a larger share of the gains from trade
+- Done by limiting or taxing exports
+- Allows domestic firms to act as cartel when selling to international buyers
+- Can be effective if there are few substitutes for U.S. produced goods
+- Not such a great idea if other countries can retaliate
+
+- Restrictions on trade waste resources by transferring production from low-cost foreign producers to high-cost domestic producers
+- Restrictions on trade also prevent domestic consumers from exploiting gains from trade
+- Some arguments for restricting trade are valid, but are usually of limited applicability
 
