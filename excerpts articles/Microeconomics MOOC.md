@@ -1,4 +1,4 @@
-[Principles of Economics: Microeconomics | Marginal Revolution University](https://mru.org/courses/principles-economics-microeconomics/)
+	[Principles of Economics: Microeconomics | Marginal Revolution University](https://mru.org/courses/principles-economics-microeconomics/)
 [[microeconomics]] [Incentives](Incentives) [incentive](incentive)
 1. **Demand**: The amount of a good or service that consumers are willing and able to purchase at different prices. It is represented by the demand curve, which shows the inverse relationship between price and quantity demanded.
 
@@ -121,7 +121,11 @@ Solving:
 
 15.  **Comparative Advantage**: The ability of a person or firm to produce a good or service at a lower opportunity cost than another person or firm.
 
-16.  **Trade**: The exchange of goods and services between countries or individuals.
+16. **Trade**: The exchange of goods and services between countries or individuals.
+### Trade
+* Trade makes people better off when preferences differ
+* Trade increases productivity through specialization and the division of knowledge
+* Trade increases productivity through specialization according to comparative advantage
 
 17.  **Absolute Advantage**: The ability of a person or firm to produce a good or service more efficiently than another person or firm.
 
