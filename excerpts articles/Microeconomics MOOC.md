@@ -132,7 +132,16 @@ Solution: a Pigouvian tax - a tax on a good with external costs
   	  - Few people would pay more for an inefficient washer
   	  - Goal: Reduce pollution, not necessarily use less electricity.
 
-### Trade
+### Coase theorem
+- Coase theorem and externalities
+  - Conditions may not always be met
+  - Suggests alternative approach: creation of new markets
+  - Solution: If government can:
+    - Define property rights
+    - Reduce transaction costs
+  - Markets can be used to control externality problems.
+
+## Trade
 * Trade makes people better off when preferences differ
 * Trade increases productivity through specialization and the division of knowledge
 * Trade increases productivity through specialization according to comparative advantage
