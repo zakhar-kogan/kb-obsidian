@@ -118,6 +118,20 @@ Solution: a Pigouvian tax - a tax on a good with external costs
 - For efficiency: Include all benefits, not just private benefits. Account for external benefits too.
 - Solution: Impose a Pigouvian subsidy on the good equal to the external benefit. This incentivizes more production and the efficient output level.
 
+### Command and control
+- Command and control
+  - Good solution when:
+    - Best approach to problem is well known
+    - Strong compliance is necessary (flexibility is not a good thing)
+    - Example: Eradication of smallpox.
+  - Rarely efficient
+  	  - Multiple methods to achieve goals (e.g. reducing electricity use)
+  	  - Government lacks information for least cost method
+  	  - Command and control vs. tax
+  	  - Tax on electricity allows users to find low cost methods
+  	  - Few people would pay more for an inefficient washer
+  	  - Goal: Reduce pollution, not necessarily use less electricity.
+
 ### Trade
 * Trade makes people better off when preferences differ
 * Trade increases productivity through specialization and the division of knowledge
