@@ -141,6 +141,15 @@ Solution: a Pigouvian tax - a tax on a good with external costs
     - Reduce transaction costs
   - Markets can be used to control externality problems.
 
+### Tradable allowances, pollution
+- Result of the SO (trading program)
+  - Clean energy firms earn money by selling allowances
+  - Dirty energy firms must buy allowances
+  - Result
+    - Clean energy is subsidized (not by taxpayers)
+    - Dirty energy is taxed.
+
+
 ## Trade
 * Trade makes people better off when preferences differ
 * Trade increases productivity through specialization and the division of knowledge
