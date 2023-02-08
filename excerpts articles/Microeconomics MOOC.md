@@ -107,7 +107,17 @@ Solving:
 
 8.  **Externalities**: The costs or benefits of a good or service that are not reflected in its market price. Negative externalities result in underproduction, while positive externalities result in overproduction.
 
-9.  **Public Goods**: Goods or services that are non-excludable and non-rivalrous. Because they cannot be efficiently provided by the market, they are often provided by the government.
+• Private cost: paid by consumer or producer
+• External cost: paid by bystanders, not consumer/producer
+• Social cost: private cost + external cost
+• Externalities: external costs/benefits impacting bystanders
+
+- A market maximizes consumer surplus + producer surplus
+- An external cost is a cost that falls on bystanders not on consumers or producers
+- Social surplus = consumer surplus + producer surplus + bystander's surplus
+![](https://i.imgur.com/HBTdiEG.png)
+
+1.  **Public Goods**: Goods or services that are non-excludable and non-rivalrous. Because they cannot be efficiently provided by the market, they are often provided by the government.
 
 10.  **Market Power**: The ability of firms to influence market prices by controlling a significant portion of the market. This can lead to higher prices and reduced economic efficiency.
 
