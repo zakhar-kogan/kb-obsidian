@@ -111,6 +111,12 @@ Solving:
 Solution: a Pigouvian tax - a tax on a good with external costs
 ![](https://i.imgur.com/ybfrbK4.png)
 
+### External benefits
+![](https://i.imgur.com/ERdPiA4.png)
+
+- Conclusion: Market equilibrium output is too low when a good has external benefits.
+- For efficiency: Include all benefits, not just private benefits. Account for external benefits too.
+- Solution: Impose a Pigouvian subsidy on the good equal to the external benefit. This incentivizes more production and the efficient output level.
 
 ### Trade
 * Trade makes people better off when preferences differ
