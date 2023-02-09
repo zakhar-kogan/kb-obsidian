@@ -41,3 +41,10 @@ peer finance
 • In practice, it is more convenient to do by issuing licenses for narrow banks
 
 ![](https://i.imgur.com/AF0Ucle.png)
+
+![](https://i.imgur.com/m4hPdVO.png)
+
+![](https://i.imgur.com/aFgJT53.png)
+
+## Liquidity / AMMs
+![](https://i.imgur.com/aRYd8Lr.png)
