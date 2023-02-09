@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2cda8bfe38586121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Where does money come from.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md",
+                "file": "Where does money come from.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md"
+                "file": "Where does money come from.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md",
+                "file": "Where does money come from.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +152,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1ca1785bed8b75eb",
+  "active": "2cda8bfe38586121",
   "lastOpenFiles": [
+    "excerpts articles/Microeconomics MOOC.md",
     "journals/2022_08_18.md",
     "journals/2022_10_16.md",
-    "excerpts articles/Microeconomics MOOC.md",
     "excerpts articles/antibiotics.md",
     "Antimicrobial.md",
     "Untitled 1.md",
