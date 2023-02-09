@@ -48,3 +48,20 @@ peer finance
 
 ## Liquidity / AMMs
 ![](https://i.imgur.com/aRYd8Lr.png)
+
+Project Mariana
+![](https://i.imgur.com/sEhZWQq.png)
+
+![](https://i.imgur.com/Uv9ixlX.png)
+
+## Conclusions
+• Stock-flow consistent models are useful in describing the economy;
+• These models show that money is created by commercial banks out of thin air when it is lent and destroyed when it is repaid;
+• Recently, central banks started to play a bigger role in money creation;
+• Digital Bretton Woods is needed;
+Distributed ledger technology can help;
+• Cryptocurrencies are interesting to watch but difficult to use;
+• CBDCs are very appealing as a step into the digital economy;
+• Stablecoins can play a similar role in the interim;
+DeFi is a very promising development, although still relatively new and untested;
+• Digital trade coins are needed for the multipolar world.
