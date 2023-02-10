@@ -297,6 +297,8 @@ Possible for a country to use tariffs and quotas to get a larger share of the ga
 - Some arguments for restricting trade are valid, but are usually of limited applicability
 
 ## Competition
+![](https://i.imgur.com/3uqlGGr.png)
+
 Characteristics:
 * The product is similar across sellers
 * There are many buyers and sellers, each small relative to the total market
@@ -359,3 +361,8 @@ profit = (P - AC) * Q
 • Constant cost industry - Industry costs do not change with greater output
 • Decreasing cost industry - Industry costs decrease with greater output
 
+### Constant costs
+![](https://i.imgur.com/fo2HXOx.png)
+
+### Decreasing costs
+![](https://i.imgur.com/QFOxfvR.png)
