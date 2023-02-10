@@ -296,3 +296,11 @@ Possible for a country to use tariffs and quotas to get a larger share of the ga
 - Restrictions on trade also prevent domestic consumers from exploiting gains from trade
 - Some arguments for restricting trade are valid, but are usually of limited applicability
 
+## Competition
+Characteristics:
+* The product is similar across sellers
+* There are many buyers and sellers, each small relative to the total market
+OR
+- There are many potential sellers
+
+![](https://i.imgur.com/H3gl7LX.png)

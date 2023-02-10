@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Where does money come from.md",
+                "file": "excerpts articles/Microeconomics MOOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Where does money come from.md"
+                "file": "excerpts articles/Microeconomics MOOC.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Where does money come from.md",
+                "file": "excerpts articles/Microeconomics MOOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +151,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2cda8bfe38586121",
+  "active": "1ca1785bed8b75eb",
   "lastOpenFiles": [
+    "Where does money come from.md",
     "excerpts articles/Microeconomics MOOC.md",
     "journals/2022_08_18.md",
     "journals/2022_10_16.md",
@@ -162,7 +162,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "Resume CV.md",
-    "excerpts articles/Singapore business.md",
-    "pages/Microeconomics.md"
+    "excerpts articles/Singapore business.md"
   ]
 }
