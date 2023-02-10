@@ -343,3 +343,19 @@ profit = (P - AC) * Q
 ```
 
 ![](https://i.imgur.com/g9HgeNP.png)
+
+• It doesn't always make sense to exit an industry immediately when P < AC or enter immediately when P > AC
+• Why? Entry and exit costs
+• E.g. Entry means drilling an oil well
+• Costs of drilling an oil well are sunk costs
+• Sunk costs - A cost that once incurred can never be recovered
+• Don't enter unless PExpected > min AC long enough to also cover your entry costs
+
+![](https://i.imgur.com/9ZgVg9a.png)
+
+• The supply curve is built upon firm entry and exit decisions and the effect of these decisions on industry costs
+• As industry output increases, what happens to costs?
+• Increasing cost industry - Industry costs increase with greater output
+• Constant cost industry - Industry costs do not change with greater output
+• Decreasing cost industry - Industry costs decrease with greater output
+
