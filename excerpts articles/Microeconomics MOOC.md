@@ -319,3 +319,13 @@ OR
 At MR = MC, profit can't be increased by changing quantity, so this is the profit-maximizing level of output.
 
 ![](https://i.imgur.com/zt7xNPc.png)
+
+
+- We know how to find the profit-maximizing quantity (where MR = MC)
+- Now we want to know the size of the profit
+- Average cost (AC) is total cost divided by quantity (TC/Q)
+- Adding the AC curve to the graph shows profit (P = TR - TC)
+- The profit-maximizing quantity is where P = MR - AC is highest
+
+### Average Cost Curve
+![](https://i.imgur.com/jmZGUgV.png)
