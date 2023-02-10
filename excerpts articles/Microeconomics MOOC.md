@@ -329,3 +329,17 @@ At MR = MC, profit can't be increased by changing quantity, so this is the profi
 
 ### Average Cost Curve
 ![](https://i.imgur.com/jmZGUgV.png)
+
+We know that T = TR - TC, and TR = (P x Q). We also know that AC = (TC/Q) and we can rearrange this to find TC = AC
+![](https://i.imgur.com/PL1iYDt.png)
+
+```
+TR = P * Q
+TC = AC * Q
+
+profit = TR - TC
+profit = (P * Q) - (AC * Q)
+profit = (P - AC) * Q
+```
+
+![](https://i.imgur.com/g9HgeNP.png)
