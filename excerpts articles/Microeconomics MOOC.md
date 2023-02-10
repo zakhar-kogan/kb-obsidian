@@ -304,3 +304,19 @@ OR
 - There are many potential sellers
 
 ![](https://i.imgur.com/H3gl7LX.png)
+
+![](https://i.imgur.com/CUIJW3U.png)
+
+### Maximizing profit
+![](https://i.imgur.com/V54DleG.png)
+
+• Marginal Revenue (MR) = the addition to total
+revenue from selling an additional unit of
+outout
+• Marginal Cost (MC) = the addition to total cost
+from producing an additional unit of output
+
+==MR = MC is profit-maximizing==
+- If MR > MC, producing more will increase profit
+- If MR < MC, producing less will increase profit
+At MR = MC, profit can't be increased by changing quantity, so this is the profit-maximizing level of output.
