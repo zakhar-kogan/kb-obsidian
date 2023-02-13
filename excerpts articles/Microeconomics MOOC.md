@@ -1,10 +1,5 @@
-[Principles of Economics: Microeconomics | Marginal Revolution University](https://mru.org/courses/principles-economics-microeconomics/)
+	[Principles of Economics: Microeconomics | Marginal Revolution University](https://mru.org/courses/principles-economics-microeconomics/)
 [[microeconomics]] [Incentives](Incentives) [incentive](incentive)
-1. **Demand**: The amount of a good or service that consumers are willing and able to purchase at different prices. It is represented by the demand curve, which shows the inverse relationship between price and quantity demanded.
-
-2. **Supply**: The amount of a good or service that producers are willing and able to supply at different prices. It is represented by the supply curve, which shows the direct relationship between price and quantity supplied.
-
-3.  **Market Equilibrium**: The point at which the quantity demanded of a good or service equals the quantity supplied, resulting in a stable price and quantity. It is represented by the intersection of the demand and supply curves.
 
 ## 5 Factors that can change the demand
 ### Income
@@ -84,53 +79,84 @@ Of a higher price: increase cost of supplying now
 ### Opportunity costs
 ![](https://i.imgur.com/pnSl20L.png)
 
-7.  **Market Failure**: A situation in which the market does not allocate resources efficiently. This can occur due to externalities, public goods, or market power.
+* How does the price of oil affect the price of
+candy bars?
+* Higher oil prices -> ethanol ⬆️ -› more sugar cane for ethanol less for sugar -› price of sugar ⬆️ -> cost of producing candy bars ⬆️
 
-8.  **Externalities**: The costs or benefits of a good or service that are not reflected in its market price. Negative externalities result in underproduction, while positive externalities result in overproduction.
+## Great economic problem
+- Great Economic Problem - how to arrange our limited resource to satisfy as many of our wants as possible
+- Resources are not equally valuable in all uses
+Solving: 
+- Central planning: a single official or bureaucracy is responsible for allocating limited resources
+	- Too much information to process
+	- Too few incentives
 
-9.  **Public Goods**: Goods or services that are non-excludable and non-rivalrous. Because they cannot be efficiently provided by the market, they are often provided by the government.
+## Information problem
+![](https://i.imgur.com/xSoAt7h.png)
 
-10.  **Market Power**: The ability of firms to influence market prices by controlling a significant portion of the market. This can lead to higher prices and reduced economic efficiency.
+## Speculation
+![](https://i.imgur.com/5Bzc5YS.png)
 
-11.  **Opportunity Cost**: The cost of an action measured in terms of the next best alternative foregone. It is the value of the best foregone alternative.
+## Externalities
 
-12.  **Opportunity Set**: The set of all possible options and their costs.
+• Private cost: paid by consumer or producer
+• External cost: paid by bystanders, not consumer/producer
+• Social cost: private cost + external cost
+• Externalities: external costs/benefits impacting bystanders
 
-13.  **Production Possibility Frontier**: A graph showing the maximum combinations of two goods that can be produced with a given set of resources and technology.
+- A market maximizes consumer surplus + producer surplus
+- An external cost is a cost that falls on bystanders not on consumers or producers
+- Social surplus = consumer surplus + producer surplus + bystander's surplus
+![](https://i.imgur.com/HBTdiEG.png)
+Solution: a Pigouvian tax - a tax on a good with external costs
+![](https://i.imgur.com/ybfrbK4.png)
 
-14.  **Specialization**: The concept of focusing on a specific task or industry to increase efficiency and productivity.
+### External benefits
+![](https://i.imgur.com/ERdPiA4.png)
 
-15.  **Comparative Advantage**: The ability of a person or firm to produce a good or service at a lower opportunity cost than another person or firm.
+- Conclusion: Market equilibrium output is too low when a good has external benefits.
+- For efficiency: Include all benefits, not just private benefits. Account for external benefits too.
+- Solution: Impose a Pigouvian subsidy on the good equal to the external benefit. This incentivizes more production and the efficient output level.
 
-16.  **Trade**: The exchange of goods and services between countries or individuals.
+### Command and control
+- Command and control
+  - Good solution when:
+    - Best approach to problem is well known
+    - Strong compliance is necessary (flexibility is not a good thing)
+    - Example: Eradication of smallpox.
+  - Rarely efficient
+  	  - Multiple methods to achieve goals (e.g. reducing electricity use)
+  	  - Government lacks information for least cost method
+  	  - Command and control vs. tax
+  	  - Tax on electricity allows users to find low cost methods
+  	  - Few people would pay more for an inefficient washer
+  	  - Goal: Reduce pollution, not necessarily use less electricity.
 
-17.  **Absolute Advantage**: The ability of a person or firm to produce a good or service more efficiently than another person or firm.
+### Coase theorem
+- Coase theorem and externalities
+  - Conditions may not always be met
+  - Suggests alternative approach: creation of new markets
+  - Solution: If government can:
+    - Define property rights
+    - Reduce transaction costs
+  - Markets can be used to control externality problems.
 
-18.  **Inflation**: The sustained increase in the general price level of goods and services in an economy over a period of time. When the general price level rises, each unit of currency buys fewer goods and services; consequently, inflation reflects a reduction in the purchasing power of money – a loss of real value in the medium of exchange and unit of account within an economy.
+### Tradable allowances, pollution
+- Result of the SO (trading program)
+  - Clean energy firms earn money by selling allowances
+  - Dirty energy firms must buy allowances
+  - Result
+    - Clean energy is subsidized (not by taxpayers)
+    - Dirty energy is taxed.
 
-19.  **Aggregate Demand**: The total demand for all goods and services in an economy at a given time.
 
-20.  **Aggregate Supply**: The total supply of all goods and services in an economy at a given time.
-
-21.  **Business Cycle**: The fluctuations in economic activity, such as employment and production, over a period of time. The business cycle includes periods of expansion and contraction, also known as booms and recessions.
-
-22.  **Fiscal Policy**: The use of government spending and taxation to influence the economy. This can include changes in government spending, tax rates, or transfer payments.
-
-23.  **Monetary Policy**: The use of interest rates and the money supply to influence the economy. This can include changes in the discount rate, reserve requirements, or open market operations.
-
-24.  **Income Distribution**: The distribution of income among individuals or households in an economy. This can include measures such as the Gini coefficient or the Lorenz curve.
-
-25.  **Utility**: The satisfaction or happiness that a consumer receives from a good or service. Utility can be measured by the marginal utility of a good or service.
-
-26.  **Budget Constraint**: The limit on the consumption choices available to a consumer given their income and the prices of goods and services.
-
-27.  **Indifference Curve**: A graph showing the combinations of two goods that provide the same level of utility to a consumer.
-
-28.  **Substitution Effect**: The change in consumption due to a change in the relative price of two goods.
-
-29.  **Income Effect**: The change in consumption due to a change in real income.
-
-30. **Perfect Competition**: A market structure characterized by a large number of small firms, homogeneous products, and free entry and exit. In this market structure, firms are price takers and have no market power.
+## Trade
+* Trade makes people better off when preferences differ
+* Trade increases productivity through specialization and the division of knowledge
+* Trade increases productivity through specialization according to comparative advantage
+### Comparative advantage
+![](https://i.imgur.com/OFEVQKg.png)
+In two country/person examples everyone is better off. In larger examples, trade increases aggregate wealth but some individuals can be made worse off.
 
 ## Taxes
 ![](https://i.imgur.com/BNTVpsF.png)
@@ -162,3 +188,181 @@ When **demand is more elastic than supply, suppliers bear more of the burden of 
 ### Wage subsidies
 ![](https://i.imgur.com/9WktNBW.png)
 
+## Price ceiling and floor
+When buyers pay for gasoline in time, **the seller doesn't get the time. The time just gets wasted.**
+### Effects
+- Misallocation of resources
+- Wasteful lines and other search costs
+	- ![](https://i.imgur.com/ohjMc7a.png)Example
+		* Suppose buyers value their time at $10/hr
+		* Average fuel tank holds 20 gallons
+		* Buyer arrives early and waits I hr
+		* Total cost of gas = $1×20 gal + $10x1hr = $30
+		* Implied cost per gallon = $30/20 = $1.50/gal
+		* Remember that the value of gas is $3/gal
+		* Buyers "bid" up the price by arriving earlier and earlier ⇒ ⬆️ time cost 
+		* Line lengthens until total cost of 20 gallons equals $60 or $3/gallon, i.e. $20 money cost plus $40 time cost or 4 hours of waiting!
+- Shortages
+	- ![](https://i.imgur.com/DHf4zcr.png)
+	- ![](https://i.imgur.com/dXcV6pJ.png)
+
+- Deadweight loss of trade gains
+	- ![](https://i.imgur.com/Q3eXLSI.png)
+- Reductions in product quality
+	- With a surplus of buyers, sellers have less of an incentive to give good service
+	- Another way to lower quality is to reduce service
+
+## Price floors
+Price floor - a minimum price allowed by law, they create:
+1. Surpluses
+2. Lost gains from trade (deadweight loss)
+3. Wasteful increases in quality
+4. A misallocation of resources
+Price floors are less common than price ceilings.
+![](https://i.imgur.com/vQa3MeC.png)
+- The minimum wage creates a deadweight loss as it prohibits mutually profitable labor deals between buyers and sellers below the minimum wage.
+
+### Rent controls
+• Rent controls reduce housing quality
+	• Owners respond to price control by cutting costs
+	• Daily maintenance chores are cut
+	• Repairs to elevators etc are delayed
+• When rent controls are strong
+	• Serviceable apartment buildings - slums
+	• Slums -› abandoned and hollowed-out buildings
+• Finding an apartment often involves a costly search
+	• Rent controls reduce the price of discrimination
+	• Landlords are able to discriminate without cost
+	• Without controls sellers who discriminate bear a cost
+• Bribes can be disquised
+	• Charging extra for a "furnished" apartment
+• Apartments are not allocated to the renters
+who value them the most
+	• Classic example: Older couple who stay in their large rent controlled apartment
+• One study found: 21% of renters in NYC live in an apartment that has more or fewer rooms than they would choose if they lived in a city without rent controls
+
+## Tariffs and protectionism
+- Protectionism - the economic policy of restraining trade through tariffs, quotas or other regulations that burden foreign producers but not domestic producers
+- Tariff - a tax on imports
+- Quota - restriction on the quantity of goods that can be imported
+![](https://i.imgur.com/3K2WZMs.png)
+![](https://i.imgur.com/5PHJGLB.png)
+
+A **tariff** has two effects that influence **welfare**:
+* Domestic consumption ⬇
+* Domestic production ⬆️
+**Both** of these effects **reduce** welfare
+- Domestic consumption ⬇️
+	- Lost gains from trade
+- Domestic production ⬆️
+	- Wasted resources from higher-cost production
+![](https://i.imgur.com/KM1Upmd.png)
+
+- Tariffs increase prices to consumers so domestic consumption falls and this creates a deadweight loss
+- Tariffs divert production from low-cost (world) producers to high-cost (domestic) producers and this waste resources
+Distribution of losses and gains
+- Bad for consumers
+- Good for domestic producers
+- Bad overall
+> See Cowen and Tabarrok. Modern Principles of Economics.
+
+## Against international trade
+Some of the most common arguments:
+- Trade reduces the number of jobs in the U.S.
+- It's wrong to trade with countries that use child labor
+- We need to keep certain jobs at home for national security
+- We need to keep certain "key" industries at home because of beneficial spillovers onto other sectors of the economy
+- We can increase U.S. well-being with strategic trade protectionism
+
+### Arguments for
+- Trade moves jobs from import-competing industries to exporting industries
+- Wages increase on average due to comparative advantage
+- Problems can occur, however, when we lose jobs in low-skill import-competing sectors and gain jobs in high-skill export sectors
+
+### Child labor
+- Child labor was common in 19th-century Great Britain and the U.S.
+- Child labor declined in the developed world as people got richer
+- Forces that reduced child labor in the developed world are at work in the developing countries
+
+![](https://i.imgur.com/j8Kgh6R.png)
+
+Possible for a country to use tariffs and quotas to get a larger share of the gains from trade
+- Done by limiting or taxing exports
+- Allows domestic firms to act as cartel when selling to international buyers
+- Can be effective if there are few substitutes for U.S. produced goods
+- Not such a great idea if other countries can retaliate
+
+- Restrictions on trade waste resources by transferring production from low-cost foreign producers to high-cost domestic producers
+- Restrictions on trade also prevent domestic consumers from exploiting gains from trade
+- Some arguments for restricting trade are valid, but are usually of limited applicability
+
+## Competition
+![](https://i.imgur.com/3uqlGGr.png)
+
+Characteristics:
+* The product is similar across sellers
+* There are many buyers and sellers, each small relative to the total market
+OR
+- There are many potential sellers
+
+![](https://i.imgur.com/H3gl7LX.png)
+
+![](https://i.imgur.com/CUIJW3U.png)
+
+### Maximizing profit
+![](https://i.imgur.com/V54DleG.png)
+
+- Marginal Revenue (MR) = the addition to total revenue from selling an additional unit of output
+- Marginal Cost (MC) = the addition to total cost from producing an additional unit of output
+
+==MR = MC is profit-maximizing==
+- If MR > MC, producing more will increase profit
+- If MR < MC, producing less will increase profit
+At MR = MC, profit can't be increased by changing quantity, so this is the profit-maximizing level of output.
+
+![](https://i.imgur.com/zt7xNPc.png)
+
+
+- We know how to find the profit-maximizing quantity (where MR = MC)
+- Now we want to know the size of the profit
+- Average cost (AC) is total cost divided by quantity (TC/Q)
+- Adding the AC curve to the graph shows profit (P = TR - TC)
+- The profit-maximizing quantity is where P = MR - AC is highest
+
+### Average Cost Curve
+![](https://i.imgur.com/jmZGUgV.png)
+
+We know that T = TR - TC, and TR = (P x Q). We also know that AC = (TC/Q) and we can rearrange this to find TC = AC
+![](https://i.imgur.com/PL1iYDt.png)
+
+```
+TR = P * Q
+TC = AC * Q
+
+profit = TR - TC
+profit = (P * Q) - (AC * Q)
+profit = (P - AC) * Q
+```
+
+![](https://i.imgur.com/g9HgeNP.png)
+
+• It doesn't always make sense to exit an industry immediately when P < AC or enter immediately when P > AC
+• Why? Entry and exit costs
+• E.g. Entry means drilling an oil well
+• Costs of drilling an oil well are sunk costs
+• Sunk costs - A cost that once incurred can never be recovered
+• Don't enter unless PExpected > min AC long enough to also cover your entry costs
+
+![](https://i.imgur.com/9ZgVg9a.png)
+
+• The supply curve is built upon firm entry and exit decisions and the effect of these decisions on industry costs
+• As industry output increases, what happens to costs?
+• Increasing cost industry - Industry costs increase with greater output
+• Constant cost industry - Industry costs do not change with greater output
+• Decreasing cost industry - Industry costs decrease with greater output
+
+### Constant costs
+![](https://i.imgur.com/fo2HXOx.png)
+
+### Decreasing costs
+![](https://i.imgur.com/QFOxfvR.png)
