@@ -370,3 +370,8 @@ profit = (P - AC) * Q
 ## Trade
 
 ![](https://i.imgur.com/lKXHc3R.png)
+
+### Comparative advantage
+![](https://i.imgur.com/ipEJDXg.png)
+![](https://i.imgur.com/Z9d198M.png)
+![](https://i.imgur.com/dEjIOGV.png)
