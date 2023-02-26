@@ -366,3 +366,7 @@ profit = (P - AC) * Q
 
 ### Decreasing costs
 ![](https://i.imgur.com/QFOxfvR.png)
+
+## Trade
+
+![](https://i.imgur.com/lKXHc3R.png)
