@@ -375,3 +375,9 @@ profit = (P - AC) * Q
 ![](https://i.imgur.com/ipEJDXg.png)
 ![](https://i.imgur.com/Z9d198M.png)
 ![](https://i.imgur.com/dEjIOGV.png)
+![](https://i.imgur.com/lCvLhJs.png)
+
+• In two country/person examples, everyone is better off. In larger examples, trade increases aggregate wealth, but some individuals can be made worse off.
+• Comparative advantage applies to people, groups, and countries. Law of Association.
+• Diversity is a strength
+
