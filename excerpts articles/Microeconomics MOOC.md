@@ -388,3 +388,9 @@ Characteristics:
 
 ### Maximizing profit under competition
 ![](https://i.imgur.com/Ie8Q4q6.png)
+![](https://i.imgur.com/FteNKJo.png)
+• Profits are maximized at the level of output where MR = MC
+Why?
+• If MR > MC, you are not profit-maximizing, producing more will add to your profit
+• If MR < MC, you are not profit-maximizing, producing less will add to your profit
+
