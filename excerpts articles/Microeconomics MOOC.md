@@ -381,3 +381,8 @@ profit = (P - AC) * Q
 • Comparative advantage applies to people, groups, and countries. Law of Association.
 • Diversity is a strength
 
+### Competitive firms
+Characteristics:
+• The product is similar across sellers
+• There are many buyers and sellers, each small relative to the total market, or there are many potential sellers
+
