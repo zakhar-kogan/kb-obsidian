@@ -386,3 +386,5 @@ Characteristics:
 • The product is similar across sellers
 • There are many buyers and sellers, each small relative to the total market, or there are many potential sellers
 
+### Maximizing profit under competition
+![](https://i.imgur.com/Ie8Q4q6.png)
