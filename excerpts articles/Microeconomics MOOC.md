@@ -396,3 +396,24 @@ Why?
 
 ![](https://i.imgur.com/KzAdyii.png)
 ![](https://i.imgur.com/dmvTLKO.png)
+![](https://i.imgur.com/jR0uvVq.png)
+
+• When should a firm enter or exit an industry?
+• Long run
+	• Firms will enter the industry when P > AC
+	• Firms will exit the industry when P < AC
+• When P = Min AC
+	• Profits are zero
+	• No incentive to either exit or enter the industry
+
+### Increasing costs
+• Any industry where it is difficult to duplicate exactly
+inputs
+	• E.g.
+	• Oil
+	• Copper, Gold, Silver
+	• Coffee
+	• Nuclear engineers
+• Any industry that buys a large fraction of the output of an increasing cost industry will also be an increasing cost industry
+• E.g.: Gasoline industry - ^ demand for gas -› ^ price of oil -›
+^ price of gas
