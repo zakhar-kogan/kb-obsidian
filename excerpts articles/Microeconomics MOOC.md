@@ -394,3 +394,5 @@ Why?
 • If MR > MC, you are not profit-maximizing, producing more will add to your profit
 • If MR < MC, you are not profit-maximizing, producing less will add to your profit
 
+![](https://i.imgur.com/KzAdyii.png)
+![](https://i.imgur.com/dmvTLKO.png)
