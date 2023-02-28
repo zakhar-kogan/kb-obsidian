@@ -417,3 +417,8 @@ inputs
 • Any industry that buys a large fraction of the output of an increasing cost industry will also be an increasing cost industry
 • E.g.: Gasoline industry - ^ demand for gas -› ^ price of oil -›
 ^ price of gas
+
+• Increasing cost industry - upward sloped supply curve
+• Constant cost industry - flat (horizontal) supply curve
+• Decreasing cost industry - downward sloped supply curve
+
