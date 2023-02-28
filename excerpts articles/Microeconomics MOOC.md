@@ -422,3 +422,13 @@ inputs
 • Constant cost industry - flat (horizontal) supply curve
 • Decreasing cost industry - downward sloped supply curve
 
+### Decreasing costs
+![](https://i.imgur.com/NLg1ctB.png)
+
+![](https://i.imgur.com/Wl2xYMA.png)
+
+## Competition and the invisible hand
+• Invisible Hand Property 1: Competitive markets balance production across firms in an industry so that total industry costs are minimized (for any given quantity of production)
+• Invisible Hand Property 2: Entry and exit decisions balance production across different industries so that the total value of production is maximized
+
+![](https://i.imgur.com/loYCJM5.png)
