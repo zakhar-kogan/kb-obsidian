@@ -463,3 +463,4 @@ inputs
 	• If third parties are paying for the medicine, people are less sensitive to price
 • Conclusion: The less sensitive quantity demanded is to price the higher the markup, i.e. the more inelastic the demand the higher the monopoly markup
 
+![](https://i.imgur.com/2mTkemG.png)
