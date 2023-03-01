@@ -464,3 +464,18 @@ inputs
 • Conclusion: The less sensitive quantity demanded is to price the higher the markup, i.e. the more inelastic the demand the higher the monopoly markup
 
 ![](https://i.imgur.com/2mTkemG.png)
+
+• Tradeoff applies to any goods with high development costs
+	• Information goods
+	• Examples: Music, movies, computer programs, new chemicals, new materials, new technologies
+• High development costs and low MC of production - Possible benefits of patent or copyright protection
+• Policy trade-off:
+	• Lower prices today
+	• Fewer new ideas in the future
+
+• The government could buy the patent for a little more than the monopoly profits ...then rip it up
+• Competitors would enter and drive the price of the drug to its MC
+• What's the downside?
+	• Higher taxes - they also create DWL
+	• Difficulty in determining the right price
+	• Possible corruption
