@@ -455,3 +455,11 @@ inputs
 #### Marginal revenue
 ![](https://i.imgur.com/evGlxqv.png)
 
+### Monopoly markup
+• Two effects increase the monopoly markup for pharmaceuticals:
+• The "you can't take it with you" effect
+	• People with serious illnesses are relatively insensitive to the price of life saving medicine
+• The "other people's money" effect
+	• If third parties are paying for the medicine, people are less sensitive to price
+• Conclusion: The less sensitive quantity demanded is to price the higher the markup, i.e. the more inelastic the demand the higher the monopoly markup
+
