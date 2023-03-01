@@ -440,6 +440,18 @@ inputs
 
 ![](https://i.imgur.com/aAi7E6o.png)
 
+![](https://i.imgur.com/Vcqd8Ia.png)
+
+#### Steps to find Monopoly profit
+1. Find Marginal Revenue
+2. Set MR -MC to find Q*
+3. Find P*
+4. Find total revenue and total costs
+5. Find profit
+
+![](https://i.imgur.com/0zcpoo4.png)
+![](https://i.imgur.com/4Ss6ZW4.png)
+
 #### Marginal revenue
 ![](https://i.imgur.com/evGlxqv.png)
 
