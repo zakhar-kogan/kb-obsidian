@@ -432,3 +432,14 @@ inputs
 • Invisible Hand Property 2: Entry and exit decisions balance production across different industries so that the total value of production is maximized
 
 ![](https://i.imgur.com/loYCJM5.png)
+
+## Monopoly
+> Example:
+>	• GlaxoSmithKline (GSK) owns the patent on Combivir which gives it the right to exclude competitors. Only GSK can sell Combivir.
+	• The patent gives GSK Market Power - the power to raise price above marginal cost without fear that other firms will enter the market
+
+![](https://i.imgur.com/aAi7E6o.png)
+
+#### Marginal revenue
+![](https://i.imgur.com/evGlxqv.png)
+
