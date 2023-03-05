@@ -479,3 +479,5 @@ inputs
 	• Higher taxes - they also create DWL
 	• Difficulty in determining the right price
 	• Possible corruption
+
+## Price distrimination
