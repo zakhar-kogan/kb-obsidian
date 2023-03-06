@@ -480,4 +480,9 @@ inputs
 	• Difficulty in determining the right price
 	• Possible corruption
 
-## Price distrimination
+## Price discrimination
+• The Principles of Price Discrimination:
+1. If demand curves are different, it is more profitable to set different prices in different markets 
+2. The price should be higher in the market with more
+inelastic demand
+3. Arbitrage makes it challenging to price discriminate
