@@ -496,3 +496,13 @@ With price discrimination
 • Africans are better off
 • total surplus is greater due to greater output
 
+### Tying
+Tying - a form of price discrimination in which one good, called the base good, is tied to a second good called the variable good
+E.g. printers and ink cartridges, phones and plans
+
+### Bundling
+Bundling - requiring that products be bought together in a bundle or a package
+• Microsoft Office is a bundle of programs
+• Cable TV is a bundle of stations
+• Newspaper is a bundle of sections
+
