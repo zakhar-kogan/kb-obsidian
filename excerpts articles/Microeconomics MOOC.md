@@ -486,3 +486,13 @@ inputs
 2. The price should be higher in the market with more
 inelastic demand
 3. Arbitrage makes it challenging to price discriminate
+
+If they can't price discriminate, GSK will likely abandon the African market and set a monopoly price in Europe
+• Europeans will be no better off
+• Africans will be worse off: Combivir will not be
+available to anyone in Africa
+With price discrimination
+• Europeans are no worse off
+• Africans are better off
+• total surplus is greater due to greater output
+
