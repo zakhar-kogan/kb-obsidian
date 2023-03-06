@@ -512,3 +512,9 @@ Bundling - requiring that products be bought together in a bundle or a package
 • Zero marginal cost is a big help
 	• It is never wise to sell someone something if they value it at less than cost
 
+## Labor markets
+Marginal product of labor - the increase in a firm's revenues created by hiring an additional laborer
+• The marginal product of labor declines as more labor is used
+• Firms will hire as long as Wage < marginal product of labor
+
+![](https://i.imgur.com/plBXUWh.png)
