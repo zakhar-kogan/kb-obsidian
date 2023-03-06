@@ -505,4 +505,10 @@ Bundling - requiring that products be bought together in a bundle or a package
 • Microsoft Office is a bundle of programs
 • Cable TV is a bundle of stations
 • Newspaper is a bundle of sections
+![](https://i.imgur.com/ZeEkzGP.png)
+#### Principles
+• Negative correlation helps (but is not necessary)
+• More general: Demand for the bundle ("Office") is less variable than the demands for the individual products
+• Zero marginal cost is a big help
+	• It is never wise to sell someone something if they value it at less than cost
 
