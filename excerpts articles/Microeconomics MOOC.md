@@ -518,3 +518,4 @@ Marginal product of labor - the increase in a firm's revenues created by hiring 
 • Firms will hire as long as Wage < marginal product of labor
 
 ![](https://i.imgur.com/plBXUWh.png)
+![](https://i.imgur.com/uULrOFQ.png)
