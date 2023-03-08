@@ -528,3 +528,13 @@ Marginal product of labor - the increase in a firm's revenues created by hiring 
 	• IQ, conscientiousness, ability to work with others, grit
 
 ![](https://i.imgur.com/eVUwi7X.png)
+
+### Compensating for job differentials
+![](https://i.imgur.com/2MJSCUc.png)
+
+### Do work unions raise wages?
+• For workers **as a whole**, the **evidence does not support this**
+• Unionized rates for U.S. and Switzerland: 11% and 18% respectively
+• Unionized rates of other European countries: 30% to 80%
+• U.S. and Switzerland have equally high or higher wage rates
+
