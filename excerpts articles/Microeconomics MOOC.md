@@ -553,3 +553,7 @@ Marginal product of labor - the increase in a firm's revenues created by hiring 
 
 ## Public goods
 ![](https://i.imgur.com/ReKL9HJ.png)
+
+PUBLIC GOODS = NONEXCLUDABLE + NONRIVAL
+!= PRODUCED BY THE GOVERNMENT
+
