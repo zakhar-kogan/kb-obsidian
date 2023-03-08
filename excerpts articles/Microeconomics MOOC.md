@@ -551,3 +551,5 @@ Marginal product of labor - the increase in a firm's revenues created by hiring 
 		• Work stoppages and strikes can slow down the entire economy
 • Bottom line: Unions can raise wages of certain classes of workers, but unions are not the fundamental reason why wages are high in wealthy countries
 
+## Public goods
+![](https://i.imgur.com/ReKL9HJ.png)
