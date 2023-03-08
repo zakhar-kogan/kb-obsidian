@@ -557,3 +557,11 @@ Marginal product of labor - the increase in a firm's revenues created by hiring 
 PUBLIC GOODS = NONEXCLUDABLE + NONRIVAL
 != PRODUCED BY THE GOVERNMENT
 
+### Tragedy of the commons
+THE TENDENCY OF ANY RESOURCE THAT IS UNOWNED, AND HENCE NONEXCLUDABLE, TO BE OVERUSED AND UNDERMAINTAINED.
+
+Remedies for the tragedy?
+1. Command and control
+2. Cultural norms
+3. Creating property rights
+
