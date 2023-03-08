@@ -538,3 +538,16 @@ Marginal product of labor - the increase in a firm's revenues created by hiring 
 • Unionized rates of other European countries: 30% to 80%
 • U.S. and Switzerland have equally high or higher wage rates
 
+![](https://i.imgur.com/ZCXCn8S.png)
+
+![Uploading file...ku4yp]()
+
+• Unions can increase or decrease wages
+	• The increase is immediately evident in union contracts
+	• Decrease is longer term and harder to see
+		• Unionized sectors have fewer workers
+		• Higher real prices to consumers
+		• Less competitive industries
+		• Work stoppages and strikes can slow down the entire economy
+• Bottom line: Unions can raise wages of certain classes of workers, but unions are not the fundamental reason why wages are high in wealthy countries
+
