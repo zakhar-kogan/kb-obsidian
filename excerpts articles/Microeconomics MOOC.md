@@ -520,3 +520,11 @@ Marginal product of labor - the increase in a firm's revenues created by hiring 
 ![](https://i.imgur.com/plBXUWh.png)
 ![](https://i.imgur.com/uULrOFQ.png)
 
+![](https://i.imgur.com/VActBN9.png)
+==Sheepskin effect==
+• Art history majors earn more than high school graduates even when they don't work in any job requiring art history! Why?
+• Returns are **not all due to human capital**
+• **College education "signals" other factors**
+	• IQ, conscientiousness, ability to work with others, grit
+
+![](https://i.imgur.com/eVUwi7X.png)
