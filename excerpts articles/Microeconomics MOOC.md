@@ -519,3 +519,4 @@ Marginal product of labor - the increase in a firm's revenues created by hiring 
 
 ![](https://i.imgur.com/plBXUWh.png)
 ![](https://i.imgur.com/uULrOFQ.png)
+
