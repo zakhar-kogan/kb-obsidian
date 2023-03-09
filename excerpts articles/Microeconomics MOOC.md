@@ -565,3 +565,7 @@ Remedies for the tragedy?
 2. Cultural norms
 3. Creating property rights
 
+### Moral hazard
+#### Solutions
+![](https://i.imgur.com/mjBaAdR.png)
+![](https://i.imgur.com/QipyRue.png)
