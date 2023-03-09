@@ -572,3 +572,9 @@ Remedies for the tragedy?
 
 Signaling
 ![](https://i.imgur.com/VkXTVN4.png)
+
+## Consumer choice
+![](https://i.imgur.com/ojMwYhv.png)
+
+### Marginal Rate of Substitustion
+![](https://i.imgur.com/g82PBvL.png)
