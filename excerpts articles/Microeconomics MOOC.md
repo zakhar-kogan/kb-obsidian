@@ -569,3 +569,6 @@ Remedies for the tragedy?
 #### Solutions
 ![](https://i.imgur.com/mjBaAdR.png)
 ![](https://i.imgur.com/QipyRue.png)
+
+Signaling
+![](https://i.imgur.com/VkXTVN4.png)
