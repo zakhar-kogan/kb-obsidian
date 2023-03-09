@@ -578,3 +578,5 @@ Signaling
 
 ### Marginal Rate of Substitustion
 ![](https://i.imgur.com/g82PBvL.png)
+
+![](https://i.imgur.com/TAIvM2h.png)
