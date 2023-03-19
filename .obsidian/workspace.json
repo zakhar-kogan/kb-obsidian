@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md",
+                "file": "2023-03-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md",
+                "file": "2023-03-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md"
+                "file": "2023-03-19.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/Microeconomics MOOC.md",
+                "file": "2023-03-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,9 @@
   },
   "active": "2cda8bfe38586121",
   "lastOpenFiles": [
-    "Where does money come from.md",
     "excerpts articles/Microeconomics MOOC.md",
+    "2023-03-19.md",
+    "Where does money come from.md",
     "journals/2022_08_18.md",
     "journals/2022_10_16.md",
     "excerpts articles/antibiotics.md",
