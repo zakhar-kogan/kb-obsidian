@@ -16,14 +16,6 @@
             }
           },
           {
-            "id": "9dd697d6d69fe003",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "2cda8bfe38586121",
             "type": "leaf",
             "state": {
@@ -36,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
