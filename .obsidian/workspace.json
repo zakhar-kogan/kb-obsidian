@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ca1785bed8b75eb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "30c1645cacd8eefc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Move yoself.md",
+                "file": "journals/2022_09_09.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "network",
+                "query": "intuition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journals/2022_09_09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journals/2022_09_09.md"
+              }
             }
           },
           {
@@ -120,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journals/2022_09_09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,23 +140,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1ca1785bed8b75eb",
+  "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
+    "journals/2021-10-04.md",
+    "2022-12-05.md",
+    "2022-12-03.md",
+    "2022-12-06.md",
+    "2022-12-10.md",
+    "bh legal day.md",
+    "phd proposals.md",
+    "2023-02-13.md",
+    "2023-01-31.md",
+    "Deep.memo pitch.md",
+    "2023-01-16.md",
+    "Pasted image 20230116161118.png",
+    "2023-01-04.md",
+    "2022-12-23.md",
+    "6 способов управления людьми.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "posts/Wardley mapping.md",
+    "excerpts articles/Branding twitter.md",
+    "excerpts articles/Almanack of Naval Ravikant.md",
+    "excerpts articles/overthinking.md",
+    "excerpts articles/TE MOOC Part 5.md",
     "AI report MStanley.md",
     "posts/Move yoself.md",
     "phd/Proposal draft.md",
     "phd",
-    "2023-03-20.md",
-    "2023-03-19.md",
     "excerpts articles/Microeconomics MOOC.md",
-    "Where does money come from.md",
-    "journals/2022_08_18.md",
-    "journals/2022_10_16.md",
-    "excerpts articles/antibiotics.md",
-    "Antimicrobial.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Resume CV.md",
-    "excerpts articles/Singapore business.md"
+    "Where does money come from.md"
   ]
 }
