@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intuition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +139,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "30c1645cacd8eefc",
+  "active": "cac9fc168a07ea1a",
   "lastOpenFiles": [
     "journals/2021-10-04.md",
     "2022-12-05.md",
