@@ -25,3 +25,10 @@ Give successful examples of completing tasks
 Then ask model to perform the task
 
 ### Give the model time to think
+#### Tactic 1: Specify the steps required to complete a task
+Ask for output in a specified format
+#### Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion
+
+### Model limitations
+#### Hallucination
+Makes statements that sound plausible but are not true
