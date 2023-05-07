@@ -39,3 +39,25 @@ First find relevant information, then answer the question based on the relevant 
 > - GPT-3 isn't really affected whether you insert newline characters or not. But when working with LLMs in general, you may consider whether newline characters in your prompt may affect the model's performance.
 
 ## Iterative prompt development
+![](https://i.imgur.com/DKfjr6Y.png)
+
+## Prompt guidelines
+• Be clear and specific
+• Analyze why result does not give desired output.
+• Refine the idea and the prompt
+• Repeat
+
+### Issue 1: The text is too long
+Limit the number of words/sentences/characters.
+### Issue 2. Text focuses on the wrong details
+Ask it to focus on the aspects that are relevant to the intended audience.
+### Issue 3. Description needs a table of dimensions
+Ask it to extract information and organize it in a table.
+
+### Iterative Process
+• Try something
+• Analyze where the result does not give what you want
+• Clarify instructions, give more time to think
+• Refine prompts with a batch of examples
+
+## Summarizing
