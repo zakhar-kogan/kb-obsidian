@@ -32,3 +32,10 @@ Ask for output in a specified format
 ### Model limitations
 #### Hallucination
 Makes statements that sound plausible but are not true
+##### Reducing hallucinations:
+First find relevant information, then answer the question based on the relevant information.
+
+> -   In the course, we are using a backslash `\` to make the text fit on the screen without inserting newline '\n' characters.
+> - GPT-3 isn't really affected whether you insert newline characters or not. But when working with LLMs in general, you may consider whether newline characters in your prompt may affect the model's performance.
+
+## Iterative prompt development
