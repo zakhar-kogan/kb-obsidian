@@ -63,3 +63,7 @@ Ask it to extract information and organize it in a table.
 ## Summarizing
 
 ## Inferring
+
+## Expanding
+
+`You reason the final sum step-by-step to verify it's correct.`
