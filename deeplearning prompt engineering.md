@@ -61,3 +61,5 @@ Ask it to extract information and organize it in a table.
 • Refine prompts with a batch of examples
 
 ## Summarizing
+
+## Inferring
