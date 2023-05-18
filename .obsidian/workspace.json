@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deeplearning prompt engineering.md",
+                "file": "2023-05-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deeplearning prompt engineering.md",
+                "file": "2023-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deeplearning prompt engineering.md"
+                "file": "2023-05-18.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deeplearning prompt engineering.md",
+                "file": "2023-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +149,10 @@
   },
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
-    "2023-05-03.md",
+    "Pasted image 20230518082944.png",
     "deeplearning prompt engineering.md",
+    "2023-05-18.md",
+    "2023-05-03.md",
     "journals/2022_09_09.md",
     "journals/2021-10-04.md",
     "2022-12-05.md",
@@ -174,8 +176,6 @@
     "excerpts articles/Almanack of Naval Ravikant.md",
     "excerpts articles/overthinking.md",
     "excerpts articles/TE MOOC Part 5.md",
-    "AI report MStanley.md",
-    "posts/Move yoself.md",
     "phd"
   ]
 }
