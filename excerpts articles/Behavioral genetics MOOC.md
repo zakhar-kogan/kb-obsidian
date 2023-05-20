@@ -114,16 +114,42 @@
 - Опросники (95%)
 - Физическое сходство (радужка)
 
+Причины DZ (множественной овуляции): 
+- Гормональное лечение 
+- Возраст матери 
+- Наследственность 
+- Этническая принадлежность матери 
+	- Африка – 1 на 65 рожденных 
+	- Европа 1 на 125 
+	- Азия 1 на 250
+
+- Если деление на 2 зиготы произошло **на 3-5 день после оплодотворения**, то близнецы дихориальные (2 планценты) и диамниотические (2 околоплодных пузыря)
+- Если деление на 2 зиготы произошло **на 5-10 день после оплодотворения**, то близнецы монохориальные (1 планцента) и диамниотические) 
+- Если деление на 2 зиготы произошло **на 10-13 день после оплодотворения**, то близнецы монохориальные и моноамниотические
+
+![](https://i.imgur.com/7QpQ7di.png)
+
 ![](https://i.imgur.com/K0hIeYl.png)
 
 Монозиготные (MZ) – генетически идентичные, но могут быть дискордантными по генетическим заболеваниям.
+![](https://i.imgur.com/PLKD66e.png)
+
+![](https://i.imgur.com/LzhM6an.png)
+![](https://i.imgur.com/nwedXvM.png)
+
+Действие стрессоров на MZ и DZ близнецов 
+- **Семейные** стрессоры (например: были ли в вашей семье проблемы с деньгами?) 
+- **Независимые** стрессоры (не поддаются контролю индивида, например: были ли у вас ограбления?) 
+- **Зависимые** стрессоры (зависят от испытуемого, например: теряли ли вы работу?
+![](https://i.imgur.com/astYpx6.png)
 
 Bing:
--   The twin method uses monozygotic (MZ) and dizygotic (DZ) twins to estimate the genetic and environmental influences on behavioral traits.
--   MZ twins are genetically identical, but can be discordant for genetic diseases. DZ twins share 50% of their genes on average, but can vary in their environmental exposure.
--   Concordance is the probability that both twins will have a certain trait, given that one of them has it. Correlation is the coefficient that shows the strength of the linear relationship between two quantitative traits.
--   The validity of twin studies depends on several assumptions, such as equal environments for MZ and DZ twins, and no selection bias for adoption studies.
--   Twin studies have shown that genetic influences on behavior are pervasive, but not deterministic. Environmental influences are also important, but they are mostly non-shared (unique to each individual) rather than shared (common to family members).
+-   The twin method uses **monozygotic (MZ) and dizygotic (DZ) twins** to estimate the **genetic and environmental influences** on behavioral traits.
+-   MZ twins are **genetically identical**, but can be **discordant for genetic diseases**. DZ twins share **50% of their genes** on average, but can vary in their environmental exposure.
+-   **Concordance** is the probability that both twins will have a certain trait, given that one of them has it. **Correlation** is the coefficient that shows the strength of the linear relationship between two quantitative traits.
+-   The validity of twin studies depends on several assumptions, such as **equal environments for MZ and DZ twins**, and **no selection bias for adoption studies**.
+-   Twin studies have shown that **genetic influences on behavior are pervasive, but not deterministic**. Environmental influences are also important, but they are mostly **non-shared (unique to each individual)** rather than shared (common to family members).
+
 ### 2.3. GWAS исследования
 
 ### 2.4. Молекулярно-генетические методы
