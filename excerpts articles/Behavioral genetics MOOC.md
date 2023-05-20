@@ -151,5 +151,9 @@ Bing:
 -   Twin studies have shown that **genetic influences on behavior are pervasive, but not deterministic**. Environmental influences are also important, but they are mostly **non-shared (unique to each individual)** rather than shared (common to family members).
 
 ### 2.3. GWAS исследования
+Ген-кандидат - ген, который может быть связан с проявлением сложного признака либо с возникновением заболевания.
+Если есть существенная разница в частоте аллелей case/control, можно сделать вывод, что этот генетический вариант ассоциирован с фенотипом.
+
+
 
 ### 2.4. Молекулярно-генетические методы
