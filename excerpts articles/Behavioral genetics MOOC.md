@@ -321,4 +321,6 @@ Stress -> GR receptor genes get **methylated**
 ![](https://i.imgur.com/FGJkyHX.png)
 ![](https://i.imgur.com/XkmMPcC.png)
 
+![](https://i.imgur.com/khFmps2.png)
+
 ### 4.3. Геномный импринтинг и поведение
