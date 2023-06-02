@@ -387,6 +387,25 @@ Stress -> GR receptor genes get **methylated**
 - Многократное действие раздражителя приводит к тому, что протеинкиназа А и МАР-киназа поступают в ядро, где протеинкиназа А активирует CREB-1, а MAP-киназа инактивирует CREB-2
 - Противоположное регуляторное действие двух форм белка CREB обеспечивает наличие определенного порога для формирования памяти
 
+- Serotonin triggers inactive mRNA to move from sensory neuron nucleus to all endings
+- Five doses of serotonin at one ending make prion-like protein (CPEB) switch to dominant form near all synapses
+- Dominant CPEB converts recessive CPEB to dominant form
+- Dominant CPEB activates inactive mRNA
+- Activated mRNA makes proteins for new synaptic endings
+- New synaptic endings enhance synaptic connection and memory
+
+#### Болезнь Альцгеймера
+**Признаки и симптомы:**
+- Потеря памяти на недавние события
+- Прогрессирует в деменцию = почти полная потеря памяти
+- Неспособность разговаривать, потеря языковых способностей
+- Аффективные/личностные расстройства
+**Подтверждение диагноза:**
+- Нейрональные (амилоид, В-амилоид, АВ-амилоидные бляшки
+- Нейрофибриллярные клубки
+- Атрофия мозга
+
+![](https://i.imgur.com/ZDn22kL.png)
 
 ### 3. Эмоции
 ### 4. Речь
