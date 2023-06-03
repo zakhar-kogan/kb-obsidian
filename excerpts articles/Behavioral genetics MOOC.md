@@ -416,7 +416,15 @@ Stress -> GR receptor genes get **methylated**
 	- Val158 - хуже рабочая память и исполнительный контроль
 	- Met158, хотя и ассоциируется с лучшей когнитивной активностью, приводит к более высокой тревожности и эмоциональности
 - Транспортер серотонина (SLC6A4)
+	- 5-HTTLPR S allele: lower serotonin transporter expression, higher emotional reactivity, increased risk of anxiety and depression
+	- 5-HTTLPR L G allele: lower serotonin transporter expression, similar to S allele
+	- 5-HTTLPR L A allele: higher serotonin transporter expression, lower emotional reactivity, reduced risk of anxiety and depression
+	- rs25532 S G allele: lower serotonin transporter expression, similar to S allele
+	- rs25532 S A allele: higher serotonin transporter expression, similar to L A allele
+	- STin2 S allele: lower serotonin transporter expression, increased risk of bipolar disorder and schizophrenia
+	- STin2 L or XL allele: higher serotonin transporter expression, reduced risk of bipolar disorder and schizophrenia
 - Нейропептид Y (NPY)
+- 
 - Глюкокортикоидный рецептор-регулирующий кошаперон стрессовых белков (FKBP5)
 - Гипофизарный аденилатциклаза-активирующий полипептидный рецептор (ADCYAP1R1)
 	- Работает у женщин, но не у мужчин
