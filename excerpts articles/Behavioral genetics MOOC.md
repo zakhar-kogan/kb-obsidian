@@ -481,3 +481,10 @@ Stress -> GR receptor genes get **methylated**
 - Большая доступность алкоголя
 - Больше общение со сверстниками, употребляющими алкоголь
 
+#### Алкогольдегидрогеназа и алкогольная зависимость
+![](https://i.imgur.com/HIDw1Dk.png)
+
+![](https://i.imgur.com/qeMgt61.png)
+
+#### Никотиновая зависимость
+![](https://i.imgur.com/1HkNTtR.png)
