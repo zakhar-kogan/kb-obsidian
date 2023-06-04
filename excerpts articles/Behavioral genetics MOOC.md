@@ -422,7 +422,11 @@ Stress -> GR receptor genes get **methylated**
 	- STin2 S allele: lower serotonin transporter expression, increased risk of bipolar disorder and schizophrenia
 	- STin2 L or XL allele: higher serotonin transporter expression, reduced risk of bipolar disorder and schizophrenia
 - Нейропептид Y (NPY)
-	- 
+	- - [A single nucleotide polymorphism (SNP) in the promoter region of the NPY gene (rs16147) that affects NPY expression and is associated with anxiety traits, alcohol dependence and post-traumatic stress disorder (PTSD)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408019/)
+	- [A deletion/insertion polymorphism in the 3′ untranslated region of the NPY gene (rs5574) that modulates NPY levels and is linked to major depression, bipolar disorder and schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408019/)
+	- [SNPs in the Y1R gene (rs1468271 and rs16139) that alter Y1R function and are related to anxiety, depression and alcoholism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408019/)
+	- [SNPs in the Y2R gene (rs4425326 and rs6857715) that influence Y2R expression and are implicated in anxiety disorders, PTSD and schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408019/)
+	- [SNPs in the Y5R gene (rs10503929 and rs624988) that affect Y5R binding affinity and are associated with obesity, binge eating disorder and alcohol dependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408019/)
 - Глюкокортикоидный рецептор-регулирующий кошаперон стрессовых белков (FKBP5)
 - Гипофизарный аденилатциклаза-активирующий полипептидный рецептор (ADCYAP1R1)
 	- Работает у женщин, но не у мужчин
