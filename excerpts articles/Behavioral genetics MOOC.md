@@ -490,13 +490,29 @@ Stress -> GR receptor genes get **methylated**
 NICOTINE WITHDRAWAL INCREASES STRESS-ASSOCIATED GENES IN THE NUCLEUS ACCUMBENS OF FEMALE RATS IN A HORMONE-DEPENDENT MANNER
 ![](https://i.imgur.com/59bt7cZ.png)
 ![](https://i.imgur.com/ZiJwh4f.png)
-![](https://i.imgur.com/tDqqvHk.png)
+![](https://i.imgur.com/LmpUwb3.png)
+
 
 Дизайн исследования для тестирования наследования никотиновой зависимости
-![](https://i.imgur.com/1HkNTtR.png)
+![](https://i.imgur.com/OA2UDWP.png)
 Метаболизм никотина
 ![](https://i.imgur.com/PPB3lQ5.png)
 Полный метаболизм и МоА никотина + гены-кандидаты
 ![](https://i.imgur.com/f5gMtt4.png)
 
 ==Считается, что женщинам сложнее избегать зависимостей==
+
+Bloks:
+**Nicotine Receptors and Gene Polymorphism**
+- Nicotine receptors in the brain are sensitive to nicotine and can open up as a channel to conduct ions of sodium
+- Gene polymorphism in the subunits of these receptors can affect the function of the nicotine receptor.
+- The CHRN-A group of genes is coded by these subunits.
+- Variations in these genes can bring different information and functions to the nicotine receptor.
+- There is a probability of vulnerability caused by polymorphism, which can result in less visible nicotine effects and less visible connectivity in the brain.
+
+**Dependence and Hormone Reactions**
+- Female hormones can enhance the reaction of the immune system to nicotine fumes.
+- Female animals with no hormonal tissue do not show any significant changes.
+- Gene expression in female animals with hormonal tissue is activated during stress and can cause vulnerability to nicotine dependence.
+- Hormonal tissue can make the body more vulnerable to negative reactions to drugs.
+- Women may be more difficult to stop claiming something due to the activation of hormone stress expression.
