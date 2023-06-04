@@ -487,4 +487,16 @@ Stress -> GR receptor genes get **methylated**
 ![](https://i.imgur.com/qeMgt61.png)
 
 #### Никотиновая зависимость
+NICOTINE WITHDRAWAL INCREASES STRESS-ASSOCIATED GENES IN THE NUCLEUS ACCUMBENS OF FEMALE RATS IN A HORMONE-DEPENDENT MANNER
+![](https://i.imgur.com/59bt7cZ.png)
+![](https://i.imgur.com/ZiJwh4f.png)
+![](https://i.imgur.com/tDqqvHk.png)
+
+Дизайн исследования для тестирования наследования никотиновой зависимости
 ![](https://i.imgur.com/1HkNTtR.png)
+Метаболизм никотина
+![](https://i.imgur.com/PPB3lQ5.png)
+Полный метаболизм и МоА никотина + гены-кандидаты
+![](https://i.imgur.com/f5gMtt4.png)
+
+==Считается, что женщинам сложнее избегать зависимостей==
