@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpts articles/Behavioral genetics MOOC.md",
+                "file": "moocs/math thinking/week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/Behavioral genetics MOOC.md",
+                "file": "moocs/math thinking/week 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpts articles/Behavioral genetics MOOC.md"
+                "file": "moocs/math thinking/week 1.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/Behavioral genetics MOOC.md",
+                "file": "moocs/math thinking/week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,6 +149,10 @@
   },
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
+    "deeplearning prompt engineering.md",
+    "moocs/math thinking/week 1.md",
+    "moocs/math thinking",
+    "moocs",
     "excerpts articles/Behavioral genetics MOOC.md",
     "Governance.md",
     "30 day (Benjamin Hardy).md",
@@ -178,13 +182,11 @@
     "Pasted image 20230518091023.png",
     "Pasted image 20230518085600.png",
     "Pasted image 20230518085552.png",
-    "deeplearning prompt engineering.md",
     "2023-05-03.md",
     "journals/2022_09_09.md",
     "journals/2021-10-04.md",
     "2022-12-06.md",
     "bh legal day.md",
-    "phd proposals.md",
     "phd"
   ]
 }
