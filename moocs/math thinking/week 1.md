@@ -11,4 +11,11 @@
 4. You often see the following notice posted in elevators: *In case of fire, do not use elevator.* This one always amuses me. Comment on the two meanings and reformulate to avoid the unintended second reading. (Again, given the context for this notice, the ambiguity is not problematic.)
 	1. Do not use the elevator in case of fire in the building.
 5. *This page intentionally left blank.* Does the sentence make a true statement? What is the purpose of making such a statement? What reformulation of the sentence would avoid any logical problems about truth?
-	1. 
+	1. The page is really not blank if there's text on it
+	2. Avoiding printer errors
+	3. This page contains no meaningful content
+6. Find (and provide citations for) three examples of published sentences whose literal meaning is (clearly) not what the writer intended.
+	1. [Site Unreachable](https://www.ef.com/wwen/english-resources/english-idioms/)
+	2. [Site Unreachable](https://www.jpost.com/international/article-745997)
+	3. [Site Unreachable](https://www.jpost.com/international/article-745714)
+	4. 
