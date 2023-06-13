@@ -25,9 +25,11 @@
 8. How would you show that not every number of the form *N = (p1 · p2 · p3 · . . . · pn) + 1* is prime, where *p1, p2, p3, . . . , pn, . . .* is the list of all prime numbers?
 	1. I'll find an example where this doesn't hold
 # ASSIGNMENT 2 (for Lecture 2)
-Simplify the following symbolic statements as much as you can, leaving your answer in the standard symbolic form.
+1) Simplify the following symbolic statements as much as you can, leaving your answer in the standard symbolic form.
 b) $7\le p<12$ | p is less than 12, but greater or equal to 7
 c) $5\le x<7$ | x is greater or equal to 5, but less than 7
 d) $4<x<6$ | x is greater than 4 but less than 6
 e) $x<4<x^2<9$ | x is less than 4, and $x^2$ is less than 9
-f) $x\le 0 \le x$ | 
+f) $x\le 0 \le x$ | x can be less, greater or equal to zero
+
+2) 
