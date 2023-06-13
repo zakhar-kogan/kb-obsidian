@@ -18,4 +18,11 @@
 	1. [Site Unreachable](https://www.ef.com/wwen/english-resources/english-idioms/)
 	2. [Site Unreachable](https://www.jpost.com/international/article-745997)
 	3. [Site Unreachable](https://www.jpost.com/international/article-745714)
-	4. 
+	4. [Site Unreachable](https://www.jpost.com/j-spot/article-745986)
+7. Comment on the sentence *“The temperature is hot today.”* You hear people say things like this all the time, and everyone understands what is meant. But using language in this sloppy way in mathematics would be disastrous
+	1. Temperature cannot be hot, it can be high or low
+	2. It's using a descriptor outside of a subset of ones relevant to a notion
+8. How would you show that not every number of the form *N = (p1 · p2 · p3 · . . . · pn) + 1* is prime, where *p1, p2, p3, . . . , pn, . . .* is the list of all prime numbers?
+	1. I'll find an example where this doesn't hold
+# ASSIGNMENT 2 (for Lecture 2)
+#todo 
