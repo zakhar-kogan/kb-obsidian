@@ -38,4 +38,20 @@ f) $x=0$ | x equals zero
 	1) $\pi > 3$ | pi is greater than 3
 	2) $x\neq0$ | x is not equal to zero
 	3) $x \geq 0$ | x is greater or equal to zero
-	4) 
+	4) $x\geq 0$ | x is greater or equal to zero
+	5) $x^2>9$ | x squared is greater than 9
+7) Any is true
+8) All of these are false
+9) Simplify the following symbolic statements as much as you can, leaving your answer in a standard symbolic form (assuming you are familiar with the notation):
+	1) $\pi \leq 3.2$ | pi is less or equal to 3.2
+	2) $x \geq 0$ | x is greater or equal to zero
+	3) $x=0$ | x equals zero
+	4) $x \neq 1$ | x does not equal 1
+	5) $\phi$ | phi
+11) Let D be the statement “The dollar is strong”, Y the statement “The Yuan is strong” and T the statement “New US–China trade agreement signed”. Express the main content of each of the following (fictitious) newspaper headlines in logical notation.
+	1) $D \wedge Y$
+	2) $T \wedge \neg Y \wedge D$
+	3) $\neg(D\wedge Y)$
+	4) $T\wedge \neg D \wedge \neg Y$
+	5) $\neg T \wedge D \wedge Y$
+	6) 
