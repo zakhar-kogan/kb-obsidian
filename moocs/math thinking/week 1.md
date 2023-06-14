@@ -27,9 +27,15 @@
 # ASSIGNMENT 2 (for Lecture 2)
 1) Simplify the following symbolic statements as much as you can, leaving your answer in the standard symbolic form.
 b) $7\le p<12$ | p is less than 12, but greater or equal to 7
-c) $5\le x<7$ | x is greater or equal to 5, but less than 7
-d) $4<x<6$ | x is greater than 4 but less than 6
-e) $x<4<x^2<9$ | x is less than 4, and $x^2$ is less than 9
-f) $x\le 0 \le x$ | x can be less, greater or equal to zero
+c) $5< x<7$ | x is greater or equal to 5, but less than 7
+d) $4<x$ | x is greater than 4
+e) $x<3$ | x is less than 3
+f) $x=0$ | x equals zero
 
-2) 
+3) All these are true
+4) At least one is false
+5) Simplify the following symbolic statements as much as you can, leaving your answer in a standard symbolic form (assuming you are familiar with the notation):
+	1) $\pi > 3$ | pi is greater than 3
+	2) $x\neq0$ | x is not equal to zero
+	3) $x \geq 0$ | x is greater or equal to zero
+	4) 
