@@ -54,4 +54,15 @@ f) $x=0$ | x equals zero
 	3) $\neg(D\wedge Y)$
 	4) $T\wedge \neg D \wedge \neg Y$
 	5) $\neg T \wedge D \wedge Y$
-	6) 
+
+# ASSIGNMENT 3 (For Lecture 3)
+1) Let D be the statement “The dollar is strong”, Y the statement “The Yuan is strong” and T the statement “New US–China trade agreement signed”. Express the main content of each of the following (fictitious) newspaper headlines in logical notation.![](https://i.imgur.com/ECmT9mf.png)
+	1) $T \Rightarrow (D \wedge Y)$
+	2) $D \Rightarrow \neg Y$
+	3) $D \Rightarrow T$
+	4) $T \Rightarrow (D \wedge Y)$
+	5) $T \Rightarrow (\neg D \vee Y)$
+	6) $T \Rightarrow (\neg D \wedge Y)$
+	7) $T \Rightarrow (D \wedge Y)$
+	8) $T \Rightarrow (D \wedge \neg Y)$
+2) Complete the following truth table
