@@ -60,11 +60,11 @@ f) $x=0$ | x equals zero
 	1) $T \Rightarrow (D \wedge Y)$
 	2) $D \Rightarrow \neg Y$
 	3) $\neg D \Rightarrow \neg T$
-	4) $T \Rightarrow (D \wedge Y) -> T \Rightarrow \neg (D \wedge Y)$
-	5) $T \Rightarrow (\neg D \vee Y)$
-	6) $T \Rightarrow (\neg D \wedge Y)$
-	7) $T \Rightarrow (D \wedge Y)$
-	8) $T \Rightarrow (D \wedge \neg Y)$
+	4) $T \Rightarrow (D \wedge Y) \to T \Rightarrow \neg (D \wedge Y)$
+	5) $T \Rightarrow (\neg D \wedge Y) \to \neg D \wedge Y \wedge T$
+	6) $T \Rightarrow (\neg D \wedge Y) \to T \Rightarrow (Y \Rightarrow \neg D) \to (T \wedge Y) \Rightarrow \neg D$
+	7) $T \Rightarrow (D \wedge Y) \to T \Rightarrow (D \Leftrightarrow Y)$
+	8) $T \Rightarrow (D \wedge \neg Y) \to T \Rightarrow [(D \vee Y) \wedge \neg (D \wedge Y)]$
 2) Complete the following truth table![](https://i.imgur.com/kZxb1J8.png)
 	1) $\neg \phi = F, F, T, T$
 	2) $\phi \Rightarrow \psi = T, F, T, T$
@@ -73,5 +73,5 @@ f) $x=0$ | x equals zero
 	1) $\neg \psi = F, T, F, T$
 	2) $\phi \Rightarrow \psi = T, F, T, T$
 	3) $\phi \nRightarrow \psi = F, T, F, F$
-	4) $\phi \wedge \neg \psi = T, T, F, T$
+	4) $\phi \wedge \neg \psi = F, T, F, F$
 4) 
