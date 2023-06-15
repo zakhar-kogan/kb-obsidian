@@ -65,4 +65,13 @@ f) $x=0$ | x equals zero
 	6) $T \Rightarrow (\neg D \wedge Y)$
 	7) $T \Rightarrow (D \wedge Y)$
 	8) $T \Rightarrow (D \wedge \neg Y)$
-2) Complete the following truth table
+2) Complete the following truth table![](https://i.imgur.com/kZxb1J8.png)
+	1) $\neg \phi = F, F, T, T$
+	2) $\phi \Rightarrow \psi = T, F, T, T$
+	3) $\neg \phi \vee \psi = T, T, T, T$
+3) ![](https://i.imgur.com/S7CuBpe.png)
+	1) $\neg \psi = F, T, F, T$
+	2) $\phi \Rightarrow \psi = T, F, T, T$
+	3) $\phi \nRightarrow \psi = F, T, F, F$
+	4) $\phi \wedge \neg \psi = T, T, F, T$
+4) 
