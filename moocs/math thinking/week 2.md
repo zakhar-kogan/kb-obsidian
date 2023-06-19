@@ -23,5 +23,12 @@
 	1) ![](https://i.imgur.com/S7bhUEQ.png)
 	2) 34159 has 2 or more divisors
 	3) There are yellow roses, or there can be white morph violets
-	4) If there are no hamburgers, I'll go get an ice cream -> Oh I don't want neither hamburgers or a hot dog
-	5) 
+	4) If there are no hamburgers, I'll go get an ice cream -> Oh I don't want neither hamburgers nor a hot dog
+	5) Fred won't go, but he might play elsewhere
+	6) $x$ is less or equal than 10, but greater than zero
+	7) He won't win neither of two games
+7) φ ⇔ ψ is equivalent to (¬φ) ⇔ (¬ψ).
+	1) φ ⇔ ψ: T, F, F, T
+	2) (¬φ) ⇔ (¬ψ): T, F, F, T
+	3) Both: T, T, T, T
+8) 
