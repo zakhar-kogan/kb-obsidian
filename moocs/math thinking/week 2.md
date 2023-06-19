@@ -22,6 +22,6 @@
 6) By a denial of a statement φ we mean any statement equivalent to ¬φ. Give a useful (and hence natural sounding) denial of each of the following statements:
 	1) ![](https://i.imgur.com/S7bhUEQ.png)
 	2) 34159 has 2 or more divisors
-	3) There are yellow roses, and white morph violets
-	4) If there are no hamburgers, I'll go get an ice cream
+	3) There are yellow roses, or there can be white morph violets
+	4) If there are no hamburgers, I'll go get an ice cream -> Oh I don't want neither hamburgers or a hot dog
 	5) 
