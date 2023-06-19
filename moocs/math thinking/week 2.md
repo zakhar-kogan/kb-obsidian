@@ -19,9 +19,4 @@
 	4) $\phi \wedge \neg \psi = F, T, F, F$
 # ASSIGNMENT 4 (For Lecture 4)
 1) Build a truth table to prove the claim I made earlier that φ ⇔ ψ is true if φ and ψ are both true or both false, and φ ⇔ ψ is false if exactly one of φ, ψ is true and the other false. (To constitute a proof, your table should have columns that show how the entries for φ ⇔ ψ are derived, one operator at a time.)
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+2) 
