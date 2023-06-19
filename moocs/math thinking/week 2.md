@@ -21,4 +21,7 @@
 1) Build a truth table to prove the claim I made earlier that φ ⇔ ψ is true if φ and ψ are both true or both false, and φ ⇔ ψ is false if exactly one of φ, ψ is true and the other false. (To constitute a proof, your table should have columns that show how the entries for φ ⇔ ψ are derived, one operator at a time.)
 6) By a denial of a statement φ we mean any statement equivalent to ¬φ. Give a useful (and hence natural sounding) denial of each of the following statements:
 	1) ![](https://i.imgur.com/S7bhUEQ.png)
-	2) 
+	2) 34159 has 2 or more divisors
+	3) There are yellow roses, and white morph violets
+	4) If there are no hamburgers, I'll go get an ice cream
+	5) 
