@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moocs/math thinking/week 1.md",
+                "file": "moocs/math thinking/week 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moocs/math thinking/week 1.md",
+                "file": "moocs/math thinking/week 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moocs/math thinking/week 1.md"
+                "file": "moocs/math thinking/week 2.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moocs/math thinking/week 1.md",
+                "file": "moocs/math thinking/week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,10 +147,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "024801d1e80f6fbb",
+  "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
-    "deeplearning prompt engineering.md",
     "moocs/math thinking/week 1.md",
+    "moocs/math thinking/week 2.md",
+    "deeplearning prompt engineering.md",
     "moocs/math thinking",
     "moocs",
     "excerpts articles/Behavioral genetics MOOC.md",
@@ -186,7 +187,6 @@
     "journals/2022_09_09.md",
     "journals/2021-10-04.md",
     "2022-12-06.md",
-    "bh legal day.md",
     "phd"
   ]
 }
