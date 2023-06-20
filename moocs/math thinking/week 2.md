@@ -35,4 +35,14 @@
 	1) φ ⇔ ψ: T, F, F, T
 	2) $\psi \vee \theta$: T, F, F, F
 	3) $\phi \Rightarrow (\psi \vee \theta)$: T, F, T, T
-9) 
+12) Write down the contrapositives of the following statements:![](https://i.imgur.com/iY0T2Q4.png)
+	1) If two rectangles are not congruent, they don't have the same area
+	2) If a triangle ... isn't right-angled, then the Pythagorean theorem doesn't hold
+	3) If $2^n-1$ isn't prime, then $n$ isn't prime
+	4) If Yuan doesn't rise, Dollar won't fall
+14) Write down the converses ($\psi \Rightarrow \phi$) of the four statements in question 12.
+	1) If two rectangles have the same area, they are congruent
+	2) If the Pythagorean theorem holds, the triangle is right-angled
+	3) If $n$ is prime, then $2^n-1$ is prime, too
+	4) If the Dollar falls, the Yuan rises
+15) 
