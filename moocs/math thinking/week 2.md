@@ -31,4 +31,8 @@
 	1) φ ⇔ ψ: T, F, F, T
 	2) (¬φ) ⇔ (¬ψ): T, F, F, T
 	3) Both: T, T, T, T
-8) 
+8) ![](https://i.imgur.com/5bQsj8z.png)
+	1) φ ⇔ ψ: T, F, F, T
+	2) $\psi \vee \theta$: T, F, F, F
+	3) $\phi \Rightarrow (\psi \vee \theta)$: T, F, T, T
+9) 
