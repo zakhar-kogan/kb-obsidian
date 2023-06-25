@@ -9,8 +9,9 @@
 	3. $\forall \ ([n\in \mathbb N] \land [n>1] \ \Rightarrow \ n=prime$
 3. Express the following in symbolic form, using quantifiers for people
 	1. (a) Everybody loves somebody: $\forall\ loves\ \exists$ -> $(\forall x)(\exists y)L(x,y)$
-	2. (b) Everyone is tall or short. $(\forall x) (Tall(x) \lor Short(x))$ 
-	3. (c) Everyone is tall or everyone is short. $(\forall=tall) \lor (\forall=short)$
+	2. (b) Everyone is tall or short. $(\forall x) [Tall(x) \lor Short(x)]$ 
+	3. (c) Everyone is tall or everyone is short. $(\forall x)(Tall(x)) \lor (\forall x)(Short(x))$
 	4. (d) Nobody is at home. $\lnot(\forall\ |\ at\ home)$
-	5. (e) If John comes, all the women will leave. $John\ comes \Rightarrow\ \forall \in women\ \lnot comes$
-	6. (f) If a man comes, all the women will leave. 
+	5. (e) If John comes, all the women will leave. $John\ comes \Rightarrow\ \forall \in women\ \lnot comes$ -> $Comes(John) \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
+	6. (f) If a man comes, all the women will leave. $(\forall x) [Man(x) \land Comes(x)] \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
+4. 
