@@ -13,5 +13,5 @@
 	3. (c) Everyone is tall or everyone is short. $(\forall x)(Tall(x)) \lor (\forall x)(Short(x))$
 	4. (d) Nobody is at home. $\lnot(\forall\ |\ at\ home)$
 	5. (e) If John comes, all the women will leave. $John\ comes \Rightarrow\ \forall \in women\ \lnot comes$ -> $Comes(John) \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
-	6. (f) If a man comes, all the women will leave. $(\forall x) [Man(x) \land Comes(x)] \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
+	6. (f) If a man comes, all the women will leave. $(\exists x) [Man(x) \land Comes(x)] \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
 4. 
