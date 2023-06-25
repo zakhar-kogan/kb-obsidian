@@ -12,5 +12,5 @@
 	2. (b) Everyone is tall or short. $\forall h \Rightarrow ((h=tall) \lor (h=short))$
 	3. (c) Everyone is tall or everyone is short. $(\forall=tall) \lor (\forall=short)$
 	4. (d) Nobody is at home. $\lnot(\forall\ |\ at\ home)$
-	5. (e) If John comes, all the women will leave. 
-	6. (f) If a man comes, all the women will leave.
+	5. (e) If John comes, all the women will leave. $John\ comes \Rightarrow\ \forall \in women\ \lnot comes$
+	6. (f) If a man comes, all the women will leave. 
