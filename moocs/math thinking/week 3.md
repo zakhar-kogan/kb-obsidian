@@ -1,7 +1,7 @@
 # ASSIGNMENT 5 (for Lecture 5)
 1. Express the following as existence assertions. (Feel free to use a mix of symbols and words)![](https://i.imgur.com/W8Rpc8C.png)
 	1. $\exists\ [x \in \mathbb N]\ \Rightarrow \ x^3=27$
-	2. $\exists\ [x \in \mathbb N]\ \Rightarrow \ n>1000$
+	2. $\exists\ [x \in \mathbb N]\ \Rightarrow \ n>1,000,000$
 	3. $\exists\ [x \in \mathbb N]\ \Rightarrow \ ((n>1) \land (n \lnot prime))$
 2. Express the following as ‘for all’ assertions (using symbols and words)![](https://i.imgur.com/9WCKjtx.png)
 	1. $\forall \ [n\in \mathbb N] \ \Rightarrow \ x^3 \neq 28$
