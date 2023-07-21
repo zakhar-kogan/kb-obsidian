@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moocs/math thinking/week 3.md",
+                "file": "moocs/AI agents/Workshop 2023-07-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moocs/math thinking/week 3.md",
+                "file": "moocs/AI agents/Workshop 2023-07-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moocs/math thinking/week 3.md"
+                "file": "moocs/AI agents/Workshop 2023-07-21.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moocs/math thinking/week 3.md",
+                "file": "moocs/AI agents/Workshop 2023-07-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +149,10 @@
   },
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
-    "moocs/math thinking/week 2.md",
     "moocs/math thinking/week 3.md",
+    "moocs/AI agents/Workshop 2023-07-21.md",
+    "moocs/AI agents",
+    "moocs/math thinking/week 2.md",
     "moocs/math thinking/week 1.md",
     "deeplearning prompt engineering.md",
     "moocs/math thinking",
@@ -186,7 +188,6 @@
     "Pasted image 20230518085552.png",
     "2023-05-03.md",
     "journals/2022_09_09.md",
-    "journals/2021-10-04.md",
     "phd"
   ]
 }
