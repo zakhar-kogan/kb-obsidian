@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moocs/AI agents/Workshop 2023-07-21.md",
+                "file": "moocs/math thinking/week 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moocs/AI agents/Workshop 2023-07-21.md",
+                "file": "moocs/math thinking/week 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moocs/AI agents/Workshop 2023-07-21.md"
+                "file": "moocs/math thinking/week 3.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moocs/AI agents/Workshop 2023-07-21.md",
+                "file": "moocs/math thinking/week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +149,8 @@
   },
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
-    "moocs/math thinking/week 3.md",
     "moocs/AI agents/Workshop 2023-07-21.md",
+    "moocs/math thinking/week 3.md",
     "moocs/AI agents",
     "moocs/math thinking/week 2.md",
     "moocs/math thinking/week 1.md",
