@@ -14,4 +14,9 @@
 	4. (d) Nobody is at home. $\lnot(\forall\ |\ at\ home)$
 	5. (e) If John comes, all the women will leave. $John\ comes \Rightarrow\ \forall \in women\ \lnot comes$ -> $Comes(John) \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
 	6. (f) If a man comes, all the women will leave. $(\exists x) [Man(x) \land Comes(x)] \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
-4. 
+4. Express the following using quantifiers that refer (only) to the sets $R$ (real numbers) and $N$ (natural numbers):
+	1. (a) The equation $x^2 + a = 0$ has a real root for any real number a: $(\forall a)(\exists\ root(x^2+a=0) \land root \in \mathbb R)$
+	2. (b) The equation $x^2 + a = 0$ has a real root for any negative real number a: $(\forall a \land a<0)(\exists root(x^2+a=0) \land root \in \mathbb R)$
+	3. (c) Every real number is rational: $(\forall x \in ):
+	4. (d) There is an irrational number. 
+	5. (e) There is no largest irrational number. (This one looks quite complicated.)
