@@ -17,6 +17,12 @@
 4. Express the following using quantifiers that refer (only) to the sets $R$ (real numbers) and $N$ (natural numbers):
 	1. (a) The equation $x^2 + a = 0$ has a real root for any real number a: $(\forall a)(\exists\ root(x^2+a=0) \land root \in \mathbb R)$
 	2. (b) The equation $x^2 + a = 0$ has a real root for any negative real number a: $(\forall a \land a<0)(\exists root(x^2+a=0) \land root \in \mathbb R)$
-	3. (c) Every real number is rational: $(\forall x \in ):
-	4. (d) There is an irrational number. 
-	5. (e) There is no largest irrational number. (This one looks quite complicated.)
+	3. (c) Every real number is rational: $(\forall x \in \mathbb R)(x \in \mathbb N)$
+	4. (d) There is an irrational number: $\exists x: x \neg \in \mathbb R$ 
+	5. (e) There is no largest irrational number. (This one looks quite complicated.) $(\forall x):(\exists y \in \mathbb N)\land(x < y)$
+5. Let C be the set of all cars, let D(x) mean that x is domestic, and let M(x) mean that x is badly made. Express the following in symbolic form using these symbols:
+	1. (a) All domestic cars are badly made: $(\exists x\in C \land \forall x\ D(x))M(x)$
+	2. (b) All foreign cars are badly made. 
+	3. (c) All badly made cars are domestic. 
+	4. (d) There is a domestic car that is not badly made. 
+	5. (e) There is a foreign car that is badly made
