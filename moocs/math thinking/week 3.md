@@ -15,7 +15,7 @@
 	5. (e) If John comes, all the women will leave. $John\ comes \Rightarrow\ \forall \in women\ \lnot comes$ -> $Comes(John) \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
 	6. (f) If a man comes, all the women will leave. $(\exists x) [Man(x) \land Comes(x)] \Rightarrow (\forall x)[Woman(x) \Rightarrow Leaves(x)]$
 4. Express the following using quantifiers that refer (only) to the sets $R$ (real numbers) and $N$ (natural numbers):
-	1. (a) The equation $x^2 + a = 0$ has a real root for any real number a: $(\forall a)(\exists\ root(x^2+a=0) \land root \in \mathbb R)$
+	1. (a) The equation $x^2 + a = 0$ has a real root for any real number a: $(\forall a)(\exists\ root(x^2+a=0) \land root \in \mathbb R)$ => $(\forall a \in R) (\exists x \in R)(x^2 + a = 0)$
 	2. (b) The equation $x^2 + a = 0$ has a real root for any negative real number a: $(\forall a \land a<0)(\exists root(x^2+a=0) \land root \in \mathbb R)$
 	3. (c) Every real number is rational: $(\forall x \in \mathbb R)(x \in \mathbb N)$
 	4. (d) There is an irrational number: $\exists x: x \neg \in \mathbb R$ 
