@@ -36,4 +36,4 @@
 	1. $(a)$
 8. ![](https://i.imgur.com/UtDLcSC.png)
    Write down a formal definition for f being discontinuous at a. Your definition should be in positive form.
-	1. $(\exists \epsilon > 0)(\exists \delta > 0)(\forall x) \left[ \mod{x-a} \right]$
+	1. $(\exists \epsilon > 0)(\exists \delta > 0)(\forall x) \left[ |x-a|>\delta \implies |f(x)-f(a)| > \epsilon \right]$
