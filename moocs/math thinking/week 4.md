@@ -15,5 +15,16 @@
 	10. (j) All people are tall or all people are short. (All people): $\forall p (S(p)) \lor \forall p (T(p))$
 	11. (k) Not all precious stones are beautiful. (All stones): $\exists s (\neg B(s))$
 	12. (l) Nobody loves me. (All people): $\neg \exists x (L(x, me))$
-	13. (m) At least one American snake is poisonous. (All snakes): $\exists s \in A (P(s))$ -> $ex$
-	14. (n) At least one American snake is poisonous. (All animals) 
+	13. (m) At least one American snake is poisonous. (All snakes): $\exists s \in A (P(s))$ -> $\exists s (A(s) \land P(s))$
+	14. (n) At least one American snake is poisonous. (All animals): $\exists x (S(x) \land A(x) \land P(x))$
+4. asdasd
+5. Which of the following are true? The domain for each is given in parentheses
+	1. (a) ∃x(2x + 3 = 5x + 1) (Natural numbers): $F$
+	2. (b) ∃x(x^2 = 2) (Rational numbers): $T$
+	3. (c) ∀x∃y(y = x^2 ) (Real numbers): $T$
+	4. (d) ∀x∃y(y = x^2 ) (Natural numbers): $F$
+	5. (e) ∀x∃y∀z(xy = xz) (Real numbers): $T$
+	6. (f) ∀x∃y∀z(xy = xz) (Prime numbers): $F$
+	7. (g) ∀x[x < 0 ⇒ ∃y(y^2 = x)] (Real numbers): $F$
+	8. (h) ∀x[x < 0 ⇒ ∃y(y^2 = x)] (Positive real numbers): $F$
+6. Negate the following statements and put each answer into positive form: (a) (∀x ∈ N )(∃y ∈ N )(x + y = 1) (b) (∀x>0)(∃y <0)(x + y = 0) (where x, y are real number variables) (c) ∃x(∀ > 0)(− < x < ) (where x,  are real number variables) (d) (∀x ∈ N )(∀y ∈ N )(∃z ∈ N )(x + y = z 2
