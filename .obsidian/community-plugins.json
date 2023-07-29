@@ -4,9 +4,8 @@
   "obsidian-dynamic-toc",
   "obsidian-auto-link-title",
   "obsidian-outliner",
-  "obsidian-pandoc",
-  "obsidian-pocket",
   "obsidian-git",
   "obsidian-imgur-plugin",
-  "auto-classifier"
+  "auto-classifier",
+  "obsidian-latex-suite"
 ]
