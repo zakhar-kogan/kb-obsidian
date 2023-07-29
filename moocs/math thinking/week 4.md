@@ -6,9 +6,9 @@
 	1. (a) All students like pizza. (All people): $(\forall x \in S) \left[ P(x) \right]$
 	2. (b) One of my friends does not have a car. (All people): $\exists x (F(x) \rightarrow \neg C(x)$
 	3. (c) Some elephants do not like muffins. (All animals): $\exists x(E(x) \to \neg M(x))$
-	4. (d) Every triangle is isosceles. (All geometric figures) $$
-	5. (e) Some of the students in the class are not here today. (All people) 
-	6. (f) Everyone loves somebody. (All people) 
+	4. (d) Every triangle is isosceles. (All geometric figures) $\forall x (T(x) \to I(x))$
+	5. (e) Some of the students in the class are not here today. (All people): $\exists x (S(x) \to \neg C(x))$
+	6. (f) Everyone loves somebody. (All people): 
 	7. (g) Nobody loves everybody. (All people) 
 	8. (h) If a man comes, all the women will leave. (All people) 
 	9. (i) All people are tall or short. (All people) 
