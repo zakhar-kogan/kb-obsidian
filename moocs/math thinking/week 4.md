@@ -27,4 +27,13 @@
 	6. (f) ∀x∃y∀z(xy = xz) (Prime numbers): $F$
 	7. (g) ∀x[x < 0 ⇒ ∃y(y^2 = x)] (Real numbers): $F$
 	8. (h) ∀x[x < 0 ⇒ ∃y(y^2 = x)] (Positive real numbers): $F$
-6. Negate the following statements and put each answer into positive form: (a) (∀x ∈ N )(∃y ∈ N )(x + y = 1) (b) (∀x>0)(∃y <0)(x + y = 0) (where x, y are real number variables) (c) ∃x(∀ > 0)(− < x < ) (where x,  are real number variables) (d) (∀x ∈ N )(∀y ∈ N )(∃z ∈ N )(x + y = z 2
+6. Negate the following statements and put each answer into positive form: 
+	1. (a) (∀x ∈ N )(∃y ∈ N )(x + y = 1): $(\exists x \in \mathbb{N})(\forall y \in \mathbb{N}(x+y \neq 1))$
+	2. (b) (∀x>0)(∃y <0)(x + y = 0) (where x, y are real number variables): $all$
+	3. (c) ∃x(∀ > 0)(− < x < ) (where x,  are real number variables) 
+	4. (d) (∀x ∈ N )(∀y ∈ N )(∃z ∈ N )(x + y = z 2)
+7. Give a negation (in positive form) of the famous “Abraham Lincoln sentence” which we met in the previous assignment: “You may fool all the people some of the time, you can even fool some of the people all of the time, but you cannot fool all of the people all the time.”
+	1. $(a)$
+8. ![](https://i.imgur.com/UtDLcSC.png)
+   Write down a formal definition for f being discontinuous at a. Your definition should be in positive form.
+	1. $(\exists \epsilon > 0)(\exists \delta > 0)(\forall x) \left[ \mod{x-a} \right]$
