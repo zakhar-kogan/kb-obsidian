@@ -1,0 +1,5 @@
+1. Show that $¬[∃xA(x)]$ is equivalent to $∀x[¬A(x)]$.
+	1. First is "For no x is A(x) true", second is "There exists x for which A(x) is not true". The second one is a negation of "For each x A(x) is true", the first one is a negation of it, also.
+2. Prove False: *There is an even prime bigger than 2*
+	1. A prime should not be divisible by anything but 1 and itself. An even prime is divisible by 2, so it cannot exist
+3. (a) All students like pizza. (All people) (b) One of my friends does not have a car. (All people) (c) Some elephants do not like muffins. (All animals) (d) Every triangle is isosceles. (All geometric figures) (e) Some of the students in the class are not here today. (All people) (f) Everyone loves somebody. (All people) (g) Nobody loves everybody. (All people) (h) If a man comes, all the women will leave. (All people) (i) All people are tall or short. (All people) (j) All people are tall or all people are short. (All people) (k) Not all precious stones are beautiful. (All stones) (l) Nobody loves me. (All people) (m) At least one American snake is poisonous. (All snakes) (n) At least one American snake is poisonous. (All animals)
