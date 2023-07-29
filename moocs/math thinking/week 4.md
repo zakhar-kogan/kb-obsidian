@@ -8,12 +8,12 @@
 	3. (c) Some elephants do not like muffins. (All animals): $\exists x(E(x) \to \neg M(x))$
 	4. (d) Every triangle is isosceles. (All geometric figures) $\forall x (T(x) \to I(x))$
 	5. (e) Some of the students in the class are not here today. (All people): $\exists x (S(x) \to \neg C(x))$
-	6. (f) Everyone loves somebody. (All people): 
-	7. (g) Nobody loves everybody. (All people) 
-	8. (h) If a man comes, all the women will leave. (All people) 
-	9. (i) All people are tall or short. (All people) 
-	10. (j) All people are tall or all people are short. (All people) 
-	11. (k) Not all precious stones are beautiful. (All stones) 
-	12. (l) Nobody loves me. (All people) 
-	13. (m) At least one American snake is poisonous. (All snakes) 
-	14. (n) At least one American snake is poisonous. (All animals)
+	6. (f) Everyone loves somebody. (All people): $\forall x \exists y (L(x, y))$
+	7. (g) Nobody loves everybody. (All people): $\neg \exists x \forall y (L(x, y))$
+	8. (h) If a man comes, all the women will leave. (All people): $\exists m \forall w (C(m) \to L(w))$
+	9. (i) All people are tall or short. (All people): $\forall p (T(p) \lor S(p))$
+	10. (j) All people are tall or all people are short. (All people): $\forall p (S(p)) \lor \forall p (T(p))$
+	11. (k) Not all precious stones are beautiful. (All stones): $\exists s (\neg B(s))$
+	12. (l) Nobody loves me. (All people): $\neg \exists x (L(x, me))$
+	13. (m) At least one American snake is poisonous. (All snakes): $\exists s \in A (P(s))$ -> $ex$
+	14. (n) At least one American snake is poisonous. (All animals) 
