@@ -34,7 +34,8 @@
 	4. (d) (∀x ∈ N )(∀y ∈ N )(∃z ∈ N )(x + y = z 2)
 7. Give a negation (in positive form) of the famous “Abraham Lincoln sentence” which we met in the previous assignment: “You may fool all the people some of the time, you can even fool some of the people all of the time, but you cannot fool all of the people all the time.”
 	1. $F(p, t)$ = 'you can fool person p at time t'
-	2. $(\forall p \exists t F(p,t)) \land (\exists p \forall t F(p, t)) \land \neg (\forall t all)$
+	2. $(\forall p \exists t F(p,t)) \land (\exists p \forall t F(p, t)) \land \neg (\forall t \forall p F(p,t))$
+	3. $(\exists p \forall t \neg F(p,t)) \lor (\forall p \exists t \neg F(p, t)) \lor (\forall t \forall p F(p,t))$
 8. ![](https://i.imgur.com/UtDLcSC.png)
    Write down a formal definition for f being discontinuous at a. Your definition should be in positive form.
-	1. $(\exists \epsilon > 0)(\exists \delta > 0)(\forall x) \left[ |x-a|>\delta \implies |f(x)-f(a)| > \epsilon \right]$
+	1. $(\exists \epsilon > 0)(\forall \delta > 0)(\exists x) \left[ |x-a|>\delta \lor |f(x)-f(a)| >= \epsilon \right]$
