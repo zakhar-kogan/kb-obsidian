@@ -12,4 +12,12 @@
 	3. E.g. $\frac{10o}{10q} < \frac{10o+1}{10q} < \frac{10p}{10q}$
 4. Explain why proving φ ⇒ ψ and ψ ⇒ φ establishes the truth of φ ⇔ ψ.
 	1. Logical equivalence is always producing the same truth value
-	2. So
+	2. ![](https://i.imgur.com/KvttOdp.jpg)
+5. Explain why proving φ ⇒ ψ and (¬φ) ⇒ (¬ψ) establishes the truth of φ ⇔ ψ
+	1. ![](https://i.imgur.com/OLnWG5t.jpg)
+6. Prove that if five investors split a payout of $2M, at least one investor receives at least $400,000.
+	1. The minimum an investor will get is $400,000, when split evenly
+	2. Any other division, someone will get $2,000,000-\sum\limits_{n=4}^{n<400,000} \to 2,000,000 - x, s.t.\ x<1,600,000$, so the remaining will get $>400,000$
+7. Prove that $\sqrt{3}$ is irrational.
+	1. Let's think that $\sqrt{3}$ is rational, so it can be presented as $p/q$
+	2. 
