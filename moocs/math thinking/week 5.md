@@ -3,4 +3,8 @@
 	1. Contradiction: $\forall B: Fly(B) \to \exists B: \neg Fly(B)$
 	2. As there are non-flying birds (kiwi, ostrich), then the first statement that all birds can fly is not right - we had proven the inverse statement
 2. Prove or disprove the claim $(∀x, y ∈ R)[(x − y)^2 > 0]$
+	1. We have to construct two claims: either $(x-y)^2>0$ or $\exists x,y[(x-y)^{2} \leq 0]$
+	2. Let $x-y=z$, then our claim is $z \in \mathbb{R}[z^2>0]$
+	3. However, if $z=0$, then $z^{2}=0$, disproving our first statement
+3. Prove that between any two unequal rationals, there is a third rational
 	1. 
