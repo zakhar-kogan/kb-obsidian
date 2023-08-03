@@ -8,4 +8,8 @@
 	3. However, if $z=0$, then $z^{2}=0$, disproving our first statement
 3. Prove that between any two unequal rationals, there is a third rational
 	1. Let first rational be $a=o/q$, second $b=p/q$, and $o \neq p$
-	2. If we can't find $$
+	2. If we can't find $w \in \mathbb{Q}[o < w < p]$ or vice versa, we can multiply everything by $x$, and find another number
+	3. E.g. $\frac{10o}{10q} < \frac{10o+1}{10q} < \frac{10p}{10q}$
+4. Explain why proving φ ⇒ ψ and ψ ⇒ φ establishes the truth of φ ⇔ ψ.
+	1. Logical equivalence is always producing the same truth value
+	2. So
