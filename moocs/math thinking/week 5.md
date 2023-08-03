@@ -21,5 +21,5 @@
 7. Prove that $\sqrt{3}$ is irrational.
 	1. Let's think that $\sqrt{3}$ is rational so that it can be presented as $p/q$, where both are integers
 	2. So we need to find a solution to $\frac{p^2}{q^2}=3$
-	3. ![](https://i.imgur.com/oKprQqZ.jpg)
+	3. ![](https://i.imgur.com/aBHVoKJ.png)
 8. 
