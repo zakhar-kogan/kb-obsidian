@@ -19,5 +19,6 @@
 	1. The minimum an investor will get is $400,000, when split evenly
 	2. Any other division, someone will get $2,000,000-\sum\limits_{n=4}^{n<400,000} \to 2,000,000 - x, s.t.\ x<1,600,000$, so the remaining will get $>400,000$
 7. Prove that $\sqrt{3}$ is irrational.
-	1. Let's think that $\sqrt{3}$ is rational so that it can be presented as $p/q$
-	2. 
+	1. Let's think that $\sqrt{3}$ is rational so that it can be presented as $p/q$, where both are integers
+	2. So we need to find a solution to $\frac{p^2}{q^2}=3$
+	3. 
