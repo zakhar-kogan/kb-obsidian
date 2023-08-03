@@ -7,4 +7,5 @@
 	2. Let $x-y=z$, then our claim is $z \in \mathbb{R}[z^2>0]$
 	3. However, if $z=0$, then $z^{2}=0$, disproving our first statement
 3. Prove that between any two unequal rationals, there is a third rational
-	1. 
+	1. Let first rational be $a=o/q$, second $b=p/q$, and $o \neq p$
+	2. If we can't find $$
