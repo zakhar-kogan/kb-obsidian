@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moocs/math thinking/week 5.md",
+                "file": "excerpts articles/reveal.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moocs/math thinking/week 5.md",
+                "file": "excerpts articles/reveal.js.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moocs/math thinking/week 5.md"
+                "file": "excerpts articles/reveal.js.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moocs/math thinking/week 5.md",
+                "file": "excerpts articles/reveal.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +149,9 @@
   },
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
-    "moocs/math thinking/week 4.md",
     "moocs/math thinking/week 5.md",
+    "excerpts articles/reveal.js.md",
+    "moocs/math thinking/week 4.md",
     "moocs/math thinking/week 3.md",
     "moocs/math thinking/week 4",
     "moocs/AI agents/Workshop 2023-07-21.md",
@@ -179,7 +180,6 @@
     "Scaling of Greenhouse Crop Production.md",
     "2023-02-13.md",
     "встречи - предпринимательство.md",
-    "Where does money come from.md",
     "Pasted image 20230116161118.png",
     "Pasted image 20230518082944.png",
     "Pasted image 20230518091051.png",
