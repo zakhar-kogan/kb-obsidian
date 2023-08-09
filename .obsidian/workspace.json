@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f0109579c3dbfc6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7355f7d6e59fdede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpts articles/reveal.js.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpts articles/reveal.js.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -123,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpts articles/reveal.js.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,11 +168,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "024801d1e80f6fbb",
+  "active": "7355f7d6e59fdede",
   "lastOpenFiles": [
+    "Untitled.md",
+    "excerpts articles/reveal.js.md",
     "excerpts articles/reveal.js.reveal.html",
     "moocs/math thinking/week 5.md",
-    "excerpts articles/reveal.js.md",
     "moocs/math thinking/week 4.md",
     "moocs/math thinking/week 3.md",
     "moocs/math thinking/week 4",
