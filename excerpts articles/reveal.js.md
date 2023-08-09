@@ -1,25 +1,29 @@
 [Кунг-фу презентаций с revealjs - YouTube](https://www.youtube.com/watch?v=jJdpDWRTm1E)
-
-# Intro
+## Don't use presentations
 [Edward Tufte, Cognitive style of Powerpoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 
-## Как обойтись без презентации?
-1. Отправить заранее ссылку на материалы для обсуждения
-2. Обсуждать с обычной доской!
+## Managing without a slide deck
+1. Link materials ⇒ discuss
+2. Use a whiteboard!
 
-## Если презентации не избежать
+## If you've got to present
 - PowerPoint
 - LaTeX + Beamer
-- **Quarto + Revealis**
+- **Quarto + Reveal.js**
 
-## Проблемы PP
-- Закрытый
-- Формулы надо набирать
-- Файл pptx не читаем человеком
+## PP pain points
+- Proprietary
+- Have to WYSIWYG formulas
+- .pptx isn't human-readable
 
-## Проблемы LaTeX
-- Высокий порог входа
-- Не прошает ошибок
+## LaTeX pains
+- Barrier of entry
+- Any errors block file compilation
 
-Редактируем LaTeX и показываем pdf. [Инструкция по LaTex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+[Overleaf's LaTex guide](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
+## Capabilities
+- Markdown ⇒ HTML
+- Code blocks, incl. computed
+- Interactive blocks/embeds/animations
+- CSS styling

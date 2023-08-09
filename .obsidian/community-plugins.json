@@ -7,5 +7,6 @@
   "obsidian-git",
   "obsidian-imgur-plugin",
   "auto-classifier",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-pandoc"
 ]
