@@ -20,5 +20,6 @@
 ## Проблемы LaTeX
 - Высокий порог входа
 - Не прошает ошибок
-Редактируем LaTeX и показываем pdf
+
+Редактируем LaTeX и показываем pdf. [Инструкция по LaTex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
