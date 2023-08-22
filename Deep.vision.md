@@ -1,5 +1,7 @@
-<section data-markdown>  
-	<textarea data-template>
+```js
+Reveal.initialize({ slideNumber: 'c/t' });
+```
+
 ## Dark, isn't it?
 (Black background)
 
@@ -34,7 +36,5 @@ Deep is:
 - flexible and easy to integrate
 
 ## Formula
-`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
-
-	</textarea>
-</section>
+`
+$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
