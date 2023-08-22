@@ -1,19 +1,22 @@
 ## Dark, isn't it?
+(*black background*)
 
 ## This is it
 That's how 300 and 40 mil people see the world
-(Same + right part very blurred)
-![](https://i.imgur.com/T5wkJnZ.png)
+*(Same + right part very blurred)*
+![](https://i.imgur.com/DamNE46.png)
+
 
 
 Source: https://www.blindlook.com/blog/detail/the-population-of-blind-people-in-the-world
 
 ## Vision is crucial 
 for our life, work. Without it, we're **venturing blind**
+(*white blind stick*)
 
 ## And here's knowledge
 The information processed.
-(Knowledge graph)
+*the stick becomes an edge of a knowledge graph*
 
 ## The vision of a vision
 Giving the visually impaired access to knowledge will empower them to live life to the 100%, without the clutter
