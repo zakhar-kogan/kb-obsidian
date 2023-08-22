@@ -20,17 +20,29 @@ The information processed.
 
 ## The vision of a vision
 Giving the visually impaired access to knowledge will empower them to live life to the 100%, without the clutter
+(*some edges and nodes highlighted, important*)
 
 ## And we've found out how to do it
-(Same slide + added semantic links, as verbs)
+*(Same slide + added semantic links, as verbs)*
 
 ## A vision
-(Visualization of knowledge as sound/touch + blind bat man/bionic eyes on the right)
+*(Visualization of semantic graph as sound/touch)*
+*(blind bat man/bionic eyes on the right)*
 
 ## Flow
-Associative links as knowledge + hearing/touch modulation -> 0% disability (goes from 80% to the left)
+*Associative links as knowledge + hearing/touch modulation -> 0% disability (goes from 80% to the left)*
 
 ## Deep
-Deep is:
 - a **battle-tested semantic knowledge management software**
-- flexible and easy to integrate
+- flexible and easy to integrate with any data
+- **opportunity to work, learn and live** despite the darkness
+(*logo?*)
+## Only a shallow understanding required
+Bringing unlimited **links**
+*visualization of different data sources and actions to take*
+
+## Example cases
+Customized to the interessant, required nodes/vertices highlighted:
+- Buying from a grocery store
+- Passing a proctored exam
+- Ordering flowers
