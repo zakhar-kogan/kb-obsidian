@@ -1,6 +1,4 @@
-```js
 Reveal.initialize({ slideNumber: 'c/t' });
-```
 
 ## Dark, isn't it?
 (Black background)
