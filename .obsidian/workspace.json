@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f0109579c3dbfc6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7355f7d6e59fdede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "excerpts articles/reveal.js.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "excerpts articles/reveal.js.md"
               }
             }
           },
@@ -144,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "excerpts articles/reveal.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +147,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7355f7d6e59fdede",
+  "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
     "Untitled.md",
     "excerpts articles/reveal.js.md",
