@@ -1,11 +1,10 @@
-Reveal.initialize({ slideNumber: 'c/t' });
-
 ## Dark, isn't it?
-(Black background)
 
 ## This is it
 That's how 300 and 40 mil people see the world
 (Same + right part very blurred)
+![](https://i.imgur.com/T5wkJnZ.png)
+
 
 Source: https://www.blindlook.com/blog/detail/the-population-of-blind-people-in-the-world
 
@@ -32,7 +31,3 @@ Associative links as knowledge + hearing/touch modulation -> 0% disability (goes
 Deep is:
 - a **battle-tested semantic knowledge management software**
 - flexible and easy to integrate
-
-## Formula
-`
-$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
