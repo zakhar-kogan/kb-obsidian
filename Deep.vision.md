@@ -46,3 +46,12 @@ Customized to the interessant, required nodes/vertices highlighted:
 - Buying from a grocery store
 - Passing a proctored exam
 - Ordering flowers
+- Receiving an e-gov service
+
+## **Tangible** benefits
+Deep.Vision allows for:
+- workforce
+- education
+- service
+- society
+integration, **reducing inequality in a sustainable way**
