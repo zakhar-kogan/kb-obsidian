@@ -33,6 +33,12 @@ Overview of Tutorial Content (Session I + Session 2)
 ## Neuro-Probabilistic- Logic Programming..
 Fabio G. Cozman, Denis D. Mauá, Renato Geh
 ![](https://i.imgur.com/zccqboU.png)
+![](https://i.imgur.com/7kYzvGZ.png)
+![](https://i.imgur.com/lAF68lh.png)
+![](https://i.imgur.com/3N035rj.png)
+![](https://i.imgur.com/QPMTc6U.png)
+![](https://i.imgur.com/MJs9fVZ.png)
+![](https://i.imgur.com/TYt2vX7.png)
 
 
 • KRR concepts: syntax, semantics, model theory, proof theory, soundness, completeness,
