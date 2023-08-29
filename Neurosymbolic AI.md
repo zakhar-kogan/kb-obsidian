@@ -39,6 +39,10 @@ Fabio G. Cozman, Denis D. Mauá, Renato Geh
 ![](https://i.imgur.com/QPMTc6U.png)
 ![](https://i.imgur.com/MJs9fVZ.png)
 ![](https://i.imgur.com/TYt2vX7.png)
+![](https://i.imgur.com/vJ4AYOc.png)
+![](https://i.imgur.com/T2FbqOv.png)
+![](https://i.imgur.com/zPI45hZ.png)
+![](https://i.imgur.com/ehsaPCL.png)
 
 
 • KRR concepts: syntax, semantics, model theory, proof theory, soundness, completeness,
