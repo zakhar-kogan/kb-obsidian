@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpts articles/reveal.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7520bcf945d02405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep.vision.md",
+                "file": "Neurosymbolic AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep.vision.md",
+                "file": "Neurosymbolic AI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep.vision.md"
+                "file": "Neurosymbolic AI.md"
               }
             }
           },
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep.vision.md",
+                "file": "Neurosymbolic AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +147,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7520bcf945d02405",
+  "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
+    "Deep.vision.md",
     "Deep.vision.reveal.html",
     "excerpts articles/reveal.js.md",
-    "Deep.vision.md",
-    "Untitled.md",
+    "Neurosymbolic AI.md",
     "excerpts articles/reveal.js.reveal.html",
     "moocs/math thinking/week 5.md",
     "moocs/math thinking/week 4.md",
