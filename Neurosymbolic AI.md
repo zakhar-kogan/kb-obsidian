@@ -30,6 +30,11 @@ Overview of Tutorial Content (Session I + Session 2)
 ![](https://i.imgur.com/GM6oT94.png)
 ![](https://i.imgur.com/l6jvH0b.png)
 
+## Neuro-Probabilistic- Logic Programming..
+Fabio G. Cozman, Denis D. Mauá, Renato Geh
+![](https://i.imgur.com/zccqboU.png)
+
+
 • KRR concepts: syntax, semantics, model theory, proof theory, soundness, completeness,
 deductive algorithms, forward, backward/querying, engines/tools
 • KRR desiderata and foci: generally; for Neuro-symbolic / Learning-and-reasoning
