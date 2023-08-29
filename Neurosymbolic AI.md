@@ -3,6 +3,9 @@
 Overview of Tutorial Content (Session I + Session 2)
 • What's KRR, practical, landscape, LP's centrality
 ![](https://i.imgur.com/tMlYmGp.png)
+![](https://i.imgur.com/noKipEg.png)
+![](https://i.imgur.com/7svoIPT.png)
+![](https://i.imgur.com/XyFViMg.png)
 
 • KRR concepts: syntax, semantics, model theory, proof theory, soundness, completeness,
 deductive algorithms, forward, backward/querying, engines/tools
