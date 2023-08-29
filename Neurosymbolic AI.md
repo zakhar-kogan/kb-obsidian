@@ -8,6 +8,10 @@ Overview of Tutorial Content (Session I + Session 2)
 ![](https://i.imgur.com/XyFViMg.png)
 ![](https://i.imgur.com/EvbIIUY.png)
 ![](https://i.imgur.com/Q6qIbBM.png)
+![](https://i.imgur.com/SBD702u.png)
+![](https://i.imgur.com/2J50uqk.png)
+![](https://i.imgur.com/v4UYUrd.png)
+![](https://i.imgur.com/pOiJGrX.png)
 
 • KRR concepts: syntax, semantics, model theory, proof theory, soundness, completeness,
 deductive algorithms, forward, backward/querying, engines/tools
