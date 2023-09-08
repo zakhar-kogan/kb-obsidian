@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40aaa7cf0630c494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "230908.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neurosymbolic AI.md",
+                "file": "230908.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neurosymbolic AI.md"
+                "file": "230908.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neurosymbolic AI.md",
+                "file": "230908.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,12 +160,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "30c1645cacd8eefc",
+  "active": "40aaa7cf0630c494",
   "lastOpenFiles": [
+    "Neurosymbolic AI.md",
+    "230908.md",
+    "technion",
     "Deep.vision.md",
     "Deep.vision.reveal.html",
     "excerpts articles/reveal.js.md",
-    "Neurosymbolic AI.md",
     "excerpts articles/reveal.js.reveal.html",
     "moocs/math thinking/week 5.md",
     "moocs/math thinking/week 4.md",
