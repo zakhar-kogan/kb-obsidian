@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technion/erez 2024-01-04.md",
+                "file": "phd/Proposal draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technion/erez 2024-01-04.md",
+                "file": "phd/Proposal draft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technion/erez 2024-01-04.md"
+                "file": "phd/Proposal draft.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technion/erez 2024-01-04.md",
+                "file": "phd/Proposal draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +161,8 @@
   },
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
-    "Neurosymbolic AI.md",
     "technion/erez 2024-01-04.md",
+    "Neurosymbolic AI.md",
     "230908.md",
     "technion",
     "Deep.vision.md",
