@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Proposal draft"
             }
-          },
-          {
-            "id": "f78dc09867e11755",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +177,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f78dc09867e11755",
+  "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
     "technion/erez 2024-01-04.md",
     "Neurosymbolic AI.md",
