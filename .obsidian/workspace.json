@@ -16,10 +16,25 @@
                 "file": "phd/Proposal draft.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Proposal draft"
+            }
+          },
+          {
+            "id": "f78dc09867e11755",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Proposal draft"
             }
           },
           {
@@ -104,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -114,7 +139,9 @@
               "type": "outline",
               "state": {
                 "file": "phd/Proposal draft.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Proposal draft"
             }
           },
           {
@@ -126,7 +153,9 @@
                 "file": "phd/Proposal draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Proposal draft"
             }
           },
           {
@@ -138,7 +167,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -159,7 +190,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "30c1645cacd8eefc",
+  "active": "f78dc09867e11755",
   "lastOpenFiles": [
     "technion/erez 2024-01-04.md",
     "Neurosymbolic AI.md",
