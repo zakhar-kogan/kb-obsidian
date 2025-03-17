@@ -7,5 +7,7 @@
   "obsidian-git",
   "obsidian-imgur-plugin",
   "quick-latex",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-tasks-plugin",
+  "smart-connections"
 ]
