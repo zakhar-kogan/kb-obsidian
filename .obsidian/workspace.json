@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "2025-03-17"
             }
-          },
-          {
-            "id": "f056cca5e21dee52",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://docs.smartconnections.app/Smart-Connections/Connections-pane",
-                "title": "Connections pane",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Connections pane"
-            }
           }
         ]
       }
@@ -218,8 +204,8 @@
   },
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
-    "30 day (Benjamin Hardy).md",
     "2025-03-17.md",
+    "30 day (Benjamin Hardy).md",
     "_NoteCompanion/Templates/enhance.md",
     "_NoteCompanion/Templates/youtube_video.md",
     "_NoteCompanion/Templates/research_paper.md",
