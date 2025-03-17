@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "2025-03-17"
             }
+          },
+          {
+            "id": "f056cca5e21dee52",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://docs.smartconnections.app/Smart-Connections/Connections-pane",
+                "title": "Connections pane",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Connections pane"
+            }
           }
         ]
       }
@@ -181,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,6 +218,7 @@
   },
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
+    "30 day (Benjamin Hardy).md",
     "2025-03-17.md",
     "_NoteCompanion/Templates/enhance.md",
     "_NoteCompanion/Templates/youtube_video.md",
@@ -236,7 +251,6 @@
     "deeplearning prompt engineering.md",
     "excerpts articles/Behavioral genetics MOOC.md",
     "Governance.md",
-    "30 day (Benjamin Hardy).md",
     "2022-12-03.md",
     "2022-12-10.md",
     "2022-12-05.md",

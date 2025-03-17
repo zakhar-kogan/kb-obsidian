@@ -28,16 +28,182 @@
   "excluded_headings": "",
   "smart_threads": {
     "chat_model": {
-      "adapter": "openai",
+      "adapter": "groq",
       "openai": {
         "model_key": "gpt-4o"
+      },
+      "gemini": {
+        "model_key": "gemini-1.5-pro"
+      },
+      "lm_studio": {
+        "model_key": "gpt-4o-mini"
+      },
+      "groq": {
+        "model_key": "qwen-qwq-32b",
+        "api_key": "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",
+        "models": {
+          "llama3-70b-8192": {
+            "model_name": "llama3-70b-8192",
+            "id": "llama3-70b-8192",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Meta, context: 8192",
+            "multimodal": false
+          },
+          "mistral-saba-24b": {
+            "model_name": "mistral-saba-24b",
+            "id": "mistral-saba-24b",
+            "max_input_tokens": 32768,
+            "description": "Owned by: Mistral AI, context: 32768",
+            "multimodal": false
+          },
+          "llama-3.3-70b-specdec": {
+            "model_name": "llama-3.3-70b-specdec",
+            "id": "llama-3.3-70b-specdec",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Meta, context: 8192",
+            "multimodal": false
+          },
+          "qwen-2.5-32b": {
+            "model_name": "qwen-2.5-32b",
+            "id": "qwen-2.5-32b",
+            "max_input_tokens": 131072,
+            "description": "Owned by: Alibaba Cloud, context: 131072",
+            "multimodal": false
+          },
+          "llama-3.1-8b-instant": {
+            "model_name": "llama-3.1-8b-instant",
+            "id": "llama-3.1-8b-instant",
+            "max_input_tokens": 131072,
+            "description": "Owned by: Meta, context: 131072",
+            "multimodal": false
+          },
+          "distil-whisper-large-v3-en": {
+            "model_name": "distil-whisper-large-v3-en",
+            "id": "distil-whisper-large-v3-en",
+            "max_input_tokens": 448,
+            "description": "Owned by: Hugging Face, context: 448",
+            "multimodal": false
+          },
+          "deepseek-r1-distill-qwen-32b": {
+            "model_name": "deepseek-r1-distill-qwen-32b",
+            "id": "deepseek-r1-distill-qwen-32b",
+            "max_input_tokens": 131072,
+            "description": "Owned by: DeepSeek / Alibaba Cloud, context: 131072",
+            "multimodal": false
+          },
+          "llama3-8b-8192": {
+            "model_name": "llama3-8b-8192",
+            "id": "llama3-8b-8192",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Meta, context: 8192",
+            "multimodal": false
+          },
+          "llama-3.2-1b-preview": {
+            "model_name": "llama-3.2-1b-preview",
+            "id": "llama-3.2-1b-preview",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Meta, context: 8192",
+            "multimodal": false
+          },
+          "llama-3.2-3b-preview": {
+            "model_name": "llama-3.2-3b-preview",
+            "id": "llama-3.2-3b-preview",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Meta, context: 8192",
+            "multimodal": false
+          },
+          "mixtral-8x7b-32768": {
+            "model_name": "mixtral-8x7b-32768",
+            "id": "mixtral-8x7b-32768",
+            "max_input_tokens": 32768,
+            "description": "Owned by: Mistral AI, context: 32768",
+            "multimodal": false
+          },
+          "gemma2-9b-it": {
+            "model_name": "gemma2-9b-it",
+            "id": "gemma2-9b-it",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Google, context: 8192",
+            "multimodal": false
+          },
+          "llama-guard-3-8b": {
+            "model_name": "llama-guard-3-8b",
+            "id": "llama-guard-3-8b",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Meta, context: 8192",
+            "multimodal": false
+          },
+          "allam-2-7b": {
+            "model_name": "allam-2-7b",
+            "id": "allam-2-7b",
+            "max_input_tokens": 4096,
+            "description": "Owned by: SDAIA, context: 4096",
+            "multimodal": false
+          },
+          "qwen-qwq-32b": {
+            "model_name": "qwen-qwq-32b",
+            "id": "qwen-qwq-32b",
+            "max_input_tokens": 131072,
+            "description": "Owned by: Alibaba Cloud, context: 131072",
+            "multimodal": false
+          },
+          "llama-3.2-90b-vision-preview": {
+            "model_name": "llama-3.2-90b-vision-preview",
+            "id": "llama-3.2-90b-vision-preview",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Meta, context: 8192",
+            "multimodal": true
+          },
+          "deepseek-r1-distill-llama-70b": {
+            "model_name": "deepseek-r1-distill-llama-70b",
+            "id": "deepseek-r1-distill-llama-70b",
+            "max_input_tokens": 131072,
+            "description": "Owned by: DeepSeek / Meta, context: 131072",
+            "multimodal": false
+          },
+          "whisper-large-v3-turbo": {
+            "model_name": "whisper-large-v3-turbo",
+            "id": "whisper-large-v3-turbo",
+            "max_input_tokens": 448,
+            "description": "Owned by: OpenAI, context: 448",
+            "multimodal": false
+          },
+          "qwen-2.5-coder-32b": {
+            "model_name": "qwen-2.5-coder-32b",
+            "id": "qwen-2.5-coder-32b",
+            "max_input_tokens": 131072,
+            "description": "Owned by: Alibaba Cloud, context: 131072",
+            "multimodal": false
+          },
+          "llama-3.2-11b-vision-preview": {
+            "model_name": "llama-3.2-11b-vision-preview",
+            "id": "llama-3.2-11b-vision-preview",
+            "max_input_tokens": 8192,
+            "description": "Owned by: Meta, context: 8192",
+            "multimodal": true
+          },
+          "whisper-large-v3": {
+            "model_name": "whisper-large-v3",
+            "id": "whisper-large-v3",
+            "max_input_tokens": 448,
+            "description": "Owned by: OpenAI, context: 448",
+            "multimodal": false
+          },
+          "llama-3.3-70b-versatile": {
+            "model_name": "llama-3.3-70b-versatile",
+            "id": "llama-3.3-70b-versatile",
+            "max_input_tokens": 32768,
+            "description": "Owned by: Meta, context: 32768",
+            "multimodal": false
+          }
+        }
       }
     },
     "embed_model": {
       "model_key": "None"
     },
     "language": "en",
-    "review_context": false,
+    "review_context": true,
     "lookup_limit": "10",
     "send_tool_output_in_user_message": false
   }
