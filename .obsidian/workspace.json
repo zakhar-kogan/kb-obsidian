@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-17.md",
+                "file": "2025-03-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-17"
+              "title": "2025-03-18"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-03-17.md",
+                "file": "2025-03-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-17"
+              "title": "Backlinks for 2025-03-18"
             }
           },
           {
@@ -205,6 +205,7 @@
   "active": "30c1645cacd8eefc",
   "lastOpenFiles": [
     "2025-03-17.md",
+    "2025-03-18.md",
     "30 day (Benjamin Hardy).md",
     "_NoteCompanion/Templates/enhance.md",
     "_NoteCompanion/Templates/youtube_video.md",
@@ -239,7 +240,6 @@
     "Governance.md",
     "2022-12-03.md",
     "2022-12-10.md",
-    "2022-12-05.md",
     "Pasted image 20221201122157.png",
     "Pasted image 20230116161118.png",
     "Pasted image 20230518082944.png",
